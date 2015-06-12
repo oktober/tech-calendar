@@ -1,6 +1,23 @@
 body {
-	width: 1200px;
 	margin: 20px auto;
 
 	border: 1px solid green;
+}
+
+section {
+
+	border: 1px solid red;
+}
+
+td {
+	width: 100px;
+}
+
+section.date {
+}
+section.time {
+	font-size: 1.2rem;
+}
+section.event_name {
+
 }
