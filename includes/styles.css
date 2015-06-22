@@ -1,16 +1,25 @@
 body {
 	margin: 20px auto;
-
-	border: 1px solid green;
 }
 
-div.span12 {
+/*div.span12 {
 	border: 1px solid red;
-}
+}*/
 
 h1.month_name {
 	text-align: center;
-	margin-bottom: 20px
+	margin-bottom: 20px;
+	font-size: 5rem;
+}
+
+.table {
+	margin-bottom: 0;
+}
+
+th {
+	text-align: center;
+	font-size: 1.6rem;
+	background-color: #BFBFBF;
 }
 
 td {
@@ -32,8 +41,8 @@ section.time {
 	/*border: 1px solid gray;*/
 }
 section.event_name {
-	font-size: 1.1rem;
-	line-height: 1.1rem;
+	font-size: 1.3rem;
+	line-height: 1.3rem;
 	margin: 8px 0 0px 20px;
 
 	/*border: 1px solid purple;*/
@@ -42,4 +51,13 @@ section.first {
 	margin: 0px 0 0px 20px;
 
 	/*border: 1px solid purple;*/
+}
+
+footer {
+	text-align: center;
+	font-size: 1.8rem;
+	font-weight: bold;
+	color: #DBDBDB;
+	background-color: #404040;
+	padding: 1% 0;
 }
