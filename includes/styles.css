@@ -53,11 +53,15 @@ section.first {
 	/*border: 1px solid purple;*/
 }
 
+section.last_row {
+	margin-bottom: 50px;
+}
+
 footer {
 	text-align: center;
 	font-size: 1.8rem;
 	font-weight: bold;
-	color: #DBDBDB;
-	background-color: #404040;
+	background-color: #B3B3B3;
 	padding: 1% 0;
+	margin-bottom: 20px;
 }
