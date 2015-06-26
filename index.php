@@ -44,16 +44,13 @@
 
 		  $.each( data, function( month, date ) {
 		  	//loop through each day in the month
-		  	console.log(month); //Put this in the month at top of page
-		  	$('.month_name').text(month);
+		  	//console.log(month); 
+		  	$('.month_name').text(month); //Put this in the month at top of page
 		  	items += '<tr>';
-			//set a counter to set the classes for the first & last weeks of the month
 		  	var day_counter = 0;
-		  	
-		  	var x = 0;
-		  	while(x < start_day){
+		  	while(day_counter < start_day){
+		  		//add empty cells to account for the start date of the month
 		  		items += '<td></td>';
-		  		x++;
 		  		day_counter++;
 		  	}
 		  	//console.log(date);
@@ -86,6 +83,14 @@
 		  			day_counter = 0;
 		  		}
 		  	});
+	  		if(day_counter < 7) { //if it's the end of the week, start a new row
+	  			while(day_counter < 7){
+			  		items += '<td></td>';
+			  		day_counter++;
+	  			}
+	  			items += '</tr><tr>';
+	  			day_counter = 0;
+	  		}
 		  	items += '</tr>';
 		  });
 		 
