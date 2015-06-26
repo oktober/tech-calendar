@@ -1,0 +1,13 @@
+{
+	"month" : "July",
+	"days" : {
+		"20150701" : [
+			{ 
+				"time" : "12pm", 
+				"group" : "HackOgden",
+				"event_name" : "Hack Ogden. Great speakers and free lunch!",
+				"link" : "http://www.meetup.com/HackOgden/events/223498074/" 
+			}
+		]
+	}
+}
