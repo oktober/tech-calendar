@@ -93,7 +93,23 @@
 			}] 
 		},
 		"7" : 
-		{ },
+		{ 
+			"12pm" : [{
+				"group" : "Open Salt Lake",
+				"event_name" : "OpenSaltLake Hangout",
+				"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflytkbkb/" 
+			}],
+			"6:15pm" : [{
+				"group" : "Utah Gophers",
+				"event_name" : "GopherCon! (in Denver)",
+				"link" : "http://www.meetup.com/utahgophers/events/222623144/" 
+			}],
+			"7pm" : [{
+				"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
+				"event_name" : "Code Night",
+				"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/222944756/" 
+			}]
+		},
 		"8" : 
 		{ },
 		"9" : 
