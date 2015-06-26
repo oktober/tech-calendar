@@ -36,8 +36,8 @@
 	  //use AJAX function to find JSON file for current month
 	  //read through the data and load into HTML table
 	  	$.getJSON( "includes/months/july_events.json", function( data ) {
-		  if (data) console.log('working ' + data);
-		  else console.log('not working');
+		  //if (data) console.log('working ' + data);
+		  //else console.log('not working');
 
 		  var items = "";
 		  var start_day = 3; //Sunday = 0, Monday = 1, Tuesday = 2, etc
@@ -56,18 +56,18 @@
 		  	//console.log(date);
 		  	$.each( date, function( day, time_object ) {
 		  		//loop through each time in the day
-		  		console.log("day " + day); //start on the right day & put this in the <td>
+		  		//console.log("day " + day); //start on the right day & put this in the <td>
 		  		items += '<td><section>';
 		  		items += '<section class="date">'+day+'</section>';
 
 		  		//console.log(time_object);
 		  		$.each( time_object, function( time, event_object ) {
 		  			//loop through each event at that time
-		  			console.log("key " + time); //put this in a new section
+		  			//console.log("key " + time); //put this in a new section
 		  			items += '<section class="time">'+time+'</section>';
 		  			//console.log(event_object);
 				  	for (var i in event_object) {
-				  		console.log(event_object[i].group); //put this in a new section under the time
+				  		//console.log(event_object[i].group); //put this in a new section under the time
 				  		items += '<section class="event_name';
 				  		if(i === 0){ //only add this formatting (class) for the first event at that time
 				  			items += ' first';
