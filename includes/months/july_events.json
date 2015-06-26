@@ -1,13 +1,106 @@
 {
-	"month" : "July",
-	"days" : {
-		"20150701" : [
-			{ 
-				"time" : "12pm", 
+	"July" :
+	{
+		"1" : 
+		{ 
+			"12pm" : [{
 				"group" : "HackOgden",
 				"event_name" : "Hack Ogden. Great speakers and free lunch!",
 				"link" : "http://www.meetup.com/HackOgden/events/223498074/" 
-			}
-		]
+			}],
+			"6pm" : [{
+				"group" : "Utah Software Craftsmanship",
+				"event_name" : "UtahSC Meeting",
+				"link" : "http://www.meetup.com/Utah-Software-Craftsmanship/events/223095622/" 
+			}],
+			"6:30pm" : [{
+				"group" : "Salt Lake City Python",
+				"event_name" : "SLCPython: \"Interfaces, Wrappers and Introspection Using Python\" by Rico Cordova",
+				"link" : "http://www.meetup.com/SLCPython/events/222479586/" 
+			}],
+			"7pm" : [{
+				"group" : "Utah Ruby Users Group (URUG)",
+				"event_name" : "Monthly Meetup: Details TBD - DRUG",
+				"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/222948424/" 
+			},
+			{
+				"group" : "Make Salt Lake",
+				"event_name" : "Member Night",
+				"link" : "http://www.meetup.com/MakeSaltLake/events/223191471/" 
+			},
+			{
+				"group" : "Church & State an Altruistic Entrepreneur Community",
+				"event_name" : "Intro to Agile & How it Improved My Life.",
+				"link" : "http://www.meetup.com/Church-State-an-Altruistic-Entrepreneur-Community/events/223263054/" 
+			}]
+		},
+		"2" : 
+		{ 
+			"12pm" : [{
+				"group" : "Girl Develop It SLC",
+				"event_name" : "Summer of Learning: lunch & learn series",
+				"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/223403377/" 
+			}],
+			"2pm" : [{
+				"group" : "Agile Roundtable",
+				"event_name" : "Agile Roundtable",
+				"link" : "http://www.meetup.com/Agile-Roundtable/events/223056751/" 
+			}],
+			"5pm" : [{
+				"group" : "801 Labs/theTransistor",
+				"event_name" : "Project Night",
+				"link" : "http://www.meetup.com/theTransistor/events/dglgzhytkbdb/" 
+			}],
+			"6:30pm" : [{
+				"group" : "Big Data Utah",
+				"event_name" : "1st - Think Big Analytics - Quarterly Meeting",
+				"link" : "http://www.meetup.com/BigDataUtah/events/222791662/" 
+			}],
+			"7pm" : [{
+				"group" : "UtahJS",
+				"event_name" : "UtahJS Orem Meetup",
+				"link" : "http://www.meetup.com/UtahJS-Orem-Meetup/events/222699323/" 
+			},
+			{
+				"group" : "Utah County Data Science Meetup",
+				"event_name" : "Data Science Weekly Meetup",
+				"link" : "http://www.meetup.com/Utah-County-Data-Science-Meetup/events/222699334/" 
+			}]
+		},
+		"3" : 
+		{ 
+			"12pm" : [{
+				"group" : "801 Labs/theTransistor",
+				"event_name" : "Work from the Hacker Space",
+				"link" : "http://www.meetup.com/theTransistor/events/mlczflytkbfb/" 
+			}]
+		},
+		"4" : 
+		{ },
+		"5" : 
+		{ },
+		"6" : 
+		{ 
+			"6pm" : [{
+				"group" : "Salt Lake PyLadies",
+				"event_name" : "PyLadies Study Hall",
+				"link" : "http://www.meetup.com/Salt-Lake-Pyladies/events/223295537/" 
+			}],
+			"6:30pm" : [{
+				"group" : "801 Labs/theTransistor",
+				"event_name" : "Practical Malware Analysis Group Night",
+				"link" : "http://www.meetup.com/theTransistor/events/223302903/" 
+			}] 
+		},
+		"7" : 
+		{ },
+		"8" : 
+		{ },
+		"9" : 
+		{ },
+		"10" : 
+		{ },
+		"11" : 
+		{ }
 	}
 }

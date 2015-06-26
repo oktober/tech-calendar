@@ -36,17 +36,60 @@
 	  //use AJAX function to find JSON file for current month
 	  //read through the data and load into HTML table
 	  	$.getJSON( "includes/months/july_events.json", function( data ) {
-		  var items = [];
-		  /*$.each( data, function( key, val ) {
-		    items.push( "<li id='" + key + "'>" + val + "</li>" );
-		  });*/
-		  if (data) console.log(data);
+		  if (data) console.log('working ' + data);
 		  else console.log('not working');
+
+		  var items = "";
+		  var start_day = 3; //Sunday = 0, Monday = 1, Tuesday = 2, etc
+
+		  $.each( data, function( month, date ) {
+		  	//loop through each day in the month
+		  	console.log(month); //Put this in the month at top of page
+		  	$('.month_name').text(month);
+		  	items += '<tr>';
+			//set a counter to set the classes for the first & last weeks of the month
+		  	var day_counter = 0;
+		  	
+		  	var x = 0;
+		  	while(x < start_day){
+		  		items += '<td></td>';
+		  		x++;
+		  		day_counter++;
+		  	}
+		  	//console.log(date);
+		  	$.each( date, function( day, time_object ) {
+		  		//loop through each time in the day
+		  		console.log("day " + day); //start on the right day & put this in the <td>
+		  		items += '<td><section>';
+		  		items += '<section class="date">'+day+'</section>';
+
+		  		//console.log(time_object);
+		  		$.each( time_object, function( time, event_object ) {
+		  			//loop through each event at that time
+		  			console.log("key " + time); //put this in a new section
+		  			items += '<section class="time">'+time+'</section>';
+		  			//console.log(event_object);
+				  	for (var i in event_object) {
+				  		console.log(event_object[i].group); //put this in a new section under the time
+				  		items += '<section class="event_name';
+				  		if(i === 0){ //only add this formatting (class) for the first event at that time
+				  			items += ' first';
+				  		}
+				  		items += '"><a href="'+event_object[i].link+'" target="_blank" data-toggle="tooltip" title="'+event_object[i].group+'">'+event_object[i].event_name+'</a></section>';
+				  	}
+		  		});
+		  		items += '</section></td>';
+
+				day_counter++;
+		  		if(day_counter === 7) { //if it's the end of the week, start a new row
+		  			items += '</tr><tr>';
+		  			day_counter = 0;
+		  		}
+		  	});
+		  	items += '</tr>';
+		  });
 		 
-		  /*$( "<ul/>", {
-		    "class": "my-new-list",
-		    html: items.join( "" )
-		  }).appendTo( "body" );*/
+		  $("tbody").html(items);
 	  		//console.log(data);
 		});
 	})
