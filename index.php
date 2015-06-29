@@ -12,7 +12,9 @@
 	<link rel="stylesheet" href="includes/styles.css">
 </head>
 
-<body ng-app>
+<body>
+	<?php include_once("includes/analyticstracking.php") ?>
+
 	<section class="container">
 		<section class="row">
 			<div class="span12">
