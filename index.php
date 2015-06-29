@@ -23,7 +23,7 @@
 		</section>
 
 		<section class="row">
-			<footer>&copy; Stacie Farmer 2015</footer>
+			<footer>&copy; Techie Grit 2015</footer>
 		</section>
 	</section>
 
