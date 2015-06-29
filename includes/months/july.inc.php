@@ -1,5 +1,5 @@
 
-<h1 class="month_name">Test</h1>
+<h1 class="month_name">July</h1>
 <table class="table table-bordered">
 	<thead>
 		<tr>
