@@ -20,7 +20,7 @@
 			}],
 			"7pm" : [{
 				"group" : "Utah Ruby Users Group (URUG)",
-				"event_name" : "Monthly Meetup: Details TBD - DRUG",
+				"event_name" : "Hacking Amazon Echo - July Monthly Meetup - DRUG",
 				"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/222948424/" 
 			},
 			{
@@ -55,6 +55,11 @@
 				"group" : "Big Data Utah",
 				"event_name" : "1st - Think Big Analytics - Quarterly Meeting",
 				"link" : "http://www.meetup.com/BigDataUtah/events/222791662/" 
+			},
+			{
+				"group" : "Northern Utah .NET Users Group (NUNUG)",
+				"event_name" : "July NUNUG Meeting - IronPython for .NET",
+				"link" : "http://www.meetup.com/nunug-org/events/223586736/" 
 			}],
 			"7pm" : [{
 				"group" : "UtahJS",
@@ -139,7 +144,7 @@
 			}],
 			"7pm" : [{
 				"group" : "Utah d3.js",
-				"event_name" : "Utah d3.js Kickoff / Introduction",
+				"event_name" : "Utah d3.js",
 				"link" : "http://www.meetup.com/Utah-d3-js/events/222714630/" 
 			},
 			{
@@ -324,6 +329,11 @@
 				"group" : "Girl Develop It SLC",
 				"event_name" : "Summer of Learning: lunch & learn series",
 				"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/223483730/" 
+			},
+			{
+				"group" : "Big Data Utah",
+				"event_name" : "Hadoop Lunch at Adobe (Monthly Meeting)",
+				"link" : "http://www.meetup.com/BigDataUtah/events/223584495/" 
 			}],
 			"5pm" : [{
 				"group" : "801 Labs/theTransistor",
@@ -388,7 +398,13 @@
 			}]
 		},
 		"19" :
-		{ },
+		{ 
+			"11am" : [{
+				"group" : "Girl Develop It SLC",
+				"event_name" : "PseudoCode & Coffee",
+				"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/223559117/" 
+			}]
+		},
 		"20" :
 		{ 
 			"6:30pm" : [{
@@ -481,6 +497,11 @@
 				"group" : "Utah Ruby Users Group (URUG)",
 				"event_name" : "Weekly Hack Night - DRUG",
 				"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/wszhhlytkbdc/" 
+			},
+			{
+				"group" : "ProvoJS",
+				"event_name" : "Connect, learn, code",
+				"link" : "http://www.meetup.com/ProvoJS/events/223522004/" 
 			}]
 		},
 		"23" :
