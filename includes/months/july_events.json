@@ -8,6 +8,11 @@
 				"event_name" : "Hack Ogden. Great speakers and free lunch!",
 				"link" : "http://www.meetup.com/HackOgden/events/223498074/" 
 			}],
+			"5:30pm" : [{
+				"group" : "Utah Scala Enthusiasts",
+				"event_name" : "July 2015 Meeting",
+				"link" : "http://www.meetup.com/Utah-Scala-Enthusiasts/events/223611703" 
+			}],
 			"6pm" : [{
 				"group" : "Utah Software Craftsmanship",
 				"event_name" : "UtahSC Meeting",
