@@ -128,11 +128,6 @@
 				"link" : "http://www.meetup.com/HackOgden/events/223339955/" 
 			}],
 			"6pm" : [{
-				"group" : "Utah C++ Programmers",
-				"event_name" : "Embedded Scripting with ChaiScript",
-				"link" : "http://www.meetup.com/Utah-Cpp-Programmers/events/223287606/" 
-			},
-			{
 				"group" : "Utah - AEM/CQ /CQ5 Developer Community",
 				"event_name" : "Learn the power and benefits of adding Adobe Analytics to AEM projects",
 				"link" : "http://www.meetup.com/Utah-Adobe-Experience-Manager-AEM-formerly-CQ/events/223422264/" 
@@ -175,6 +170,11 @@
 				"event_name" : "Project Night",
 				"link" : "http://www.meetup.com/theTransistor/events/dglgzhytkbmb/" 
 			}],
+			"5:45pm" : [{
+				"group" : "Magento Users Group",
+				"event_name" : "Topic TBD",
+				"link" : "http://www.meetup.com/Utah-Magento-Users-Group/events/223369394/" 
+			}],
 			"6pm" : [{
 				"group" : "Salt Lake City Convex Optimization Study Group",
 				"event_name" : "7. Statistical Estimation",
@@ -194,6 +194,11 @@
 				"group" : "Google Developer Group Utah",
 				"event_name" : "2 Android tracks: New and Intermediate+",
 				"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/223214176/" 
+			},
+			{
+				"group" : "Utah Technology Enthusiasts",
+				"event_name" : "Beer && Code - July",
+				"link" : "http://www.meetup.com/UtahTechEnthusiasts/events/223625996/" 
 			}],
 			"6:30pm" : [{
 				"group" : "SLC Tech Startups",
@@ -230,17 +235,17 @@
 				"group" : "Girl Develop It SLC",
 				"event_name" : "Intro to iOS Development",
 				"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/222965183/" 
+			},
+			{
+				"group" : "SLC JS Learners",
+				"event_name" : "JavaScript Study Group",
+				"link" : "http://www.meetup.com/SLC-JS-Learners/events/223608888/" 
 			}]
 		},
 		"12" :
 		{ },
 		"13" :
 		{ 
-			"6:30pm" : [{
-				"group" : "Salt Lake PyLadies",
-				"event_name" : "PyLadies Study Hall",
-				"link" : "http://www.meetup.com/Salt-Lake-Pyladies/events/jfhvhlytkbrb/" 
-			}],
 			"7pm" : [{
 				"group" : "801 Labs/theTransistor",
 				"event_name" : "SLC Linux Night Lab - Securing Linux",
@@ -303,6 +308,11 @@
 				"link" : "http://www.meetup.com/HackOgden/events/qlvxpkytkbtb/" 
 			}],
 			"6pm" : [{
+				"group" : "Utah C++ Programmers",
+				"event_name" : "Embedded Scripting with ChaiScript",
+				"link" : "http://www.meetup.com/Utah-Cpp-Programmers/events/223287606/" 
+			},
+			{
 				"group" : "RethinkDB Utah",
 				"event_name" : "RethinkDB Utah - First Ever Meeting!",
 				"link" : "http://www.meetup.com/RethinkDB-Utah/events/223348277/" 
@@ -347,7 +357,7 @@
 			}],
 			"5:30pm" : [{
 				"group" : "Utah Java Users Group",
-				"event_name" : "JFrog",
+				"event_name" : "Continuous Release / Cloud from the Ground Up",
 				"link" : "http://www.meetup.com/Utah-Java-Users-Group/events/219790604/" 
 			}],
 			"6pm" : [{
@@ -416,11 +426,6 @@
 				"group" : "801 Labs/theTransistor",
 				"event_name" : "Practical Malware Analysis Group Night",
 				"link" : "http://www.meetup.com/theTransistor/events/223373383/" 
-			},
-			{
-				"group" : "Salt Lake PyLadies",
-				"event_name" : "PyLadies Study Hall",
-				"link" : "http://www.meetup.com/Salt-Lake-Pyladies/events/jfhvhlytkbbc/" 
 			}]
 		},
 		"21" :
@@ -551,10 +556,10 @@
 		{ },
 		"27" :
 		{ 
-			"12pm" : [{
-				"group" : "Salt Lake PyLadies",
-				"event_name" : "PyLadies Study Hall",
-				"link" : "http://www.meetup.com/Salt-Lake-Pyladies/events/jfhvhlytkbkc/" 
+			"6:30pm" : [{
+				"group" : "Google Developer Group",
+				"event_name" : "Web Games with Dart and the HTML5 Canvas",
+				"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/223730338/" 
 			}]
 		},
 		"28" :
@@ -563,6 +568,11 @@
 				"group" : "Open Salt Lake",
 				"event_name" : "OpenSaltLake Hangout",
 				"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflytkblc/" 
+			}],
+			"2:30pm" : [{
+				"group" : "Utah Salesforce Developer Group",
+				"event_name" : "July Utah Developer Group Meetup",
+				"link" : "http://www.meetup.com/Utah-Salesforce-Developer-User-Group/events/223651781/" 
 			}],
 			"6pm" : [{
 				"group" : "ReactJS Utah",
