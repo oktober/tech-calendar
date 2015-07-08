@@ -217,8 +217,13 @@
 			},
 			{
 				"group" : "Python at the Point",
-				"event_name" : "Monthly South Valley Meetup",
-				"link" : "http://www.meetup.com/PythonAtThePoint/events/ljbchlytkbmb/" 
+				"event_name" : "Flask by Bruce Boyes",
+				"link" : "http://www.meetup.com/PythonAtThePoint/events/223658447/" 
+			},
+			{
+				"group" : "Utah WordPress Meetup Groups",
+				"event_name" : "UV Meetup: All Things WooCommerce",
+				"link" : "http://www.meetup.com/utahwp/events/223690588/" 
 			}]  
 		},
 		"10" : 
@@ -240,6 +245,11 @@
 				"group" : "SLC JS Learners",
 				"event_name" : "JavaScript Study Group",
 				"link" : "http://www.meetup.com/SLC-JS-Learners/events/223608888/" 
+			}],
+			"3pm" : [{
+				"group" : "Open Salt Lake",
+				"event_name" : "Class and Code",
+				"link" : "http://www.meetup.com/Open-Salt-Lake/events/223768011/" 
 			}]
 		},
 		"12" :
@@ -263,6 +273,11 @@
 				"group" : "Open Salt Lake",
 				"event_name" : "OpenSaltLake Hangout",
 				"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflytkbsb/" 
+			},
+			{
+				"group" : "Utah Drupal Users Group",
+				"event_name" : "July Draper DUG (Lunch) Meeting",
+				"link" : "http://www.meetup.com/Utah-Drupal-Users-Group/events/223770805/" 
 			}],
 			"6pm" : [{
 				"group" : "AngularJS Utah",
@@ -535,6 +550,11 @@
 				"group" : "Utah Node.js Ninja",
 				"event_name" : "Provo - Node School & Hack Night",
 				"link" : "http://www.meetup.com/Utah-Node-Ninjas/events/cvsbhlytkbfc/" 
+			},
+			{
+				"group" : "Open Salt Lake",
+				"event_name" : "HacknightSLC July in-person meetup",
+				"link" : "http://www.meetup.com/Open-Salt-Lake/events/223768168/" 
 			}],
 			"7pm" : [{
 				"group" : "Utah County Data Science Meetup",
@@ -551,7 +571,13 @@
 			}]
 		},
 		"25" :
-		{ },
+		{ 
+			"3pm" : [{
+				"group" : "Open Salt Lake",
+				"event_name" : "Class and Code",
+				"link" : "http://www.meetup.com/Open-Salt-Lake/events/223768075/" 
+			}]
+		},
 		"26" :
 		{ },
 		"27" :
