@@ -10,8 +10,14 @@ body {
 	padding-bottom: 20px;
 }
 
-a i.fa {
+a {
+    display: inline-block;
 	color: #333;
+}
+
+a.inactive_link {
+	color: #D1D1D1;
+	cursor: default;
 }
 
 i.fa {

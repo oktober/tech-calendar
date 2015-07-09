@@ -1,8 +1,12 @@
 
 <section id="month_header">
-	<a href="index.php?month=july"><i class="fa fa-arrow-left"></i></a>
+	<a href="index.php?month=july">
+		<i class="fa fa-arrow-left"></i>
+	</a>
 	<h1 class="month_name">August</h1>
-	<!--<i class="fa fa-arrow-right"></i>-->
+	<a href="javascript:void(0);" class="inactive_link">
+		<i class="fa fa-arrow-right"></i>
+	</a>
 </section>
 <table class="table table-bordered">
 	<thead>
