@@ -20,7 +20,7 @@
 			<div class="span12">
 			<?php
 				date_default_timezone_set('America/Denver');
-				$valid_months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december'];
+				$valid_months = array('january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december');
 
 				if(isset($_GET['month']) && in_array(strtolower($_GET['month']), $valid_months) ){ //only show calendar for valid months 
 					$json_to_show = 'includes/months/' . strtolower($_GET['month']) . '.inc.php';
