@@ -19,7 +19,8 @@
 		<section class="row">
 			<div class="span12">
 			<?php
-				require('includes/months/july.inc.php');
+				if(isset($_GET['month']) && $_GET['month'] === 'july') require('includes/months/july.inc.php');
+				else require('includes/months/august.inc.php');
 			?>
 			</div>
 		</section>
