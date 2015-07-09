@@ -51,7 +51,7 @@
 
 	  //use AJAX function to find JSON file for current month
 	  //read through the data and load into HTML table
-	  	var month_data_file = "includes/months/" + $('.month_name').text().toLowerCase() + "_events.json";
+	  	var month_data_file = "includes/months/" + $('.month_name').text().toLowerCase() + "_events.json?ver=1.1";
 	  	$.getJSON( month_data_file, function( data ) {
 
 			var items = "";
