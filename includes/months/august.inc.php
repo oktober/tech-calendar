@@ -8,6 +8,7 @@
 		<i class="fa fa-arrow-right"></i>
 	</a>
 </section>
+<input type='hidden' id='start_date' value='6' />
 <table class="table table-bordered">
 	<thead>
 		<tr>

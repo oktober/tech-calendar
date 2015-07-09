@@ -19,13 +19,15 @@
 		<section class="row">
 			<div class="span12">
 			<?php
-				if(isset($_GET['month']) && $_GET['month'] === 'july'){ 
-					require('includes/months/july.inc.php');
-					echo "<input type='hidden' id='start_date' value='3' />";
-				}else{ 
-					require('includes/months/august.inc.php');
-					echo "<input type='hidden' id='start_date' value='6' />";
+				date_default_timezone_set('America/Denver');
+				$valid_months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december'];
+
+				if(isset($_GET['month']) && in_array(strtolower($_GET['month']), $valid_months) ){ //only show calendar for valid months 
+					$json_to_show = 'includes/months/' . strtolower($_GET['month']) . '.inc.php';
+				}else{  //default to showing the current month's calendar
+					$json_to_show = 'includes/months/' . strtolower(date("F")) . '.inc.php';
 				}
+				require($json_to_show);
 			?>
 			</div>
 		</section>
@@ -52,9 +54,6 @@
 	  	var month_data_file = "includes/months/" + $('.month_name').text().toLowerCase() + "_events.json";
 	  	$.getJSON( month_data_file, function( data ) {
 
-			//if (data) console.log('working ' + data);
-			//else console.log('not working');
-
 			var items = "";
 			var start_day = $('#start_date').val(); //Sunday = 0, Monday = 1, Tuesday = 2, etc
 
@@ -65,19 +64,16 @@
 		  		items += '<td></td>';
 		  		day_counter++;
 		  	}
-		  	//console.log(data);
+
 		  	$.each( data, function( day, time_object ) {
 		  		//loop through each time in the day
-		  		//console.log("day " + day); //start on the right day & put this in the <td>
 		  		items += '<td><section>';
 		  		items += '<section class="date">'+day+'</section>';
 
-		  		//console.log(time_object);
 		  		$.each( time_object, function( time, event_object ) {
 		  			//loop through each event at that time
-		  			//console.log("key " + time); //put this in a new section
 		  			items += '<section class="time">'+time+'</section>';
-		  			//console.log(event_object);
+
 				  	for (var i in event_object) {
 				  		//console.log(event_object[i].group); //put this in a new section under the time
 				  		items += '<section class="event_name';
@@ -106,7 +102,6 @@
 		  	items += '</tr>';
 		 
 		  $("tbody").html(items);
-	  		//console.log(data);
 		});
 	})
     </script>
