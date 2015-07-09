@@ -19,8 +19,13 @@
 		<section class="row">
 			<div class="span12">
 			<?php
-				if(isset($_GET['month']) && $_GET['month'] === 'july') require('includes/months/july.inc.php');
-				else require('includes/months/august.inc.php');
+				if(isset($_GET['month']) && $_GET['month'] === 'july'){ 
+					require('includes/months/july.inc.php');
+					//echo "<input type='hidden' id='month_value' value='july' />";
+				}else{ 
+					require('includes/months/august.inc.php');
+					//echo "<input type='hidden' id='month_value' value='august' />";
+				}
 			?>
 			</div>
 		</section>
@@ -44,7 +49,9 @@
 
 	  //use AJAX function to find JSON file for current month
 	  //read through the data and load into HTML table
-	  	$.getJSON( "includes/months/july_events.json", function( data ) {
+	  	var month_data_file = "includes/months/" + $('.month_name').text().toLowerCase() + "_events.json";
+	  	console.log(month_data_file);
+	  	$.getJSON( month_data_file, function( data ) {
 		  //if (data) console.log('working ' + data);
 		  //else console.log('not working');
 
