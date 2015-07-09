@@ -1,5 +1,9 @@
 
-<h1 class="month_name">August</h1>
+<section id="month_header">
+	<i class="fa fa-arrow-left"></i>
+	<h1 class="month_name">August</h1>
+	<i class="fa fa-arrow-right"></i>
+</section>
 <table class="table table-bordered">
 	<thead>
 		<tr>
