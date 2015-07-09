@@ -1,8 +1,8 @@
 
 <section id="month_header">
-	<i class="fa fa-arrow-left"></i>
+	<a href="index.php?month=july"><i class="fa fa-arrow-left"></i></a>
 	<h1 class="month_name">August</h1>
-	<i class="fa fa-arrow-right"></i>
+	<!--<i class="fa fa-arrow-right"></i>-->
 </section>
 <table class="table table-bordered">
 	<thead>

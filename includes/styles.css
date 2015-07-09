@@ -10,6 +10,10 @@ body {
 	padding-bottom: 20px;
 }
 
+a i.fa {
+	color: #333;
+}
+
 i.fa {
 	-webkit-box-flex: 1;
     -moz-box-flex: 1;

@@ -65,7 +65,7 @@
 		  		items += '<td></td>';
 		  		day_counter++;
 		  	}
-		  	//console.log(date);
+		  	//console.log(data);
 		  	$.each( data, function( day, time_object ) {
 		  		//loop through each time in the day
 		  		//console.log("day " + day); //start on the right day & put this in the <td>
