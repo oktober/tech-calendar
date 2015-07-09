@@ -21,10 +21,10 @@
 			<?php
 				if(isset($_GET['month']) && $_GET['month'] === 'july'){ 
 					require('includes/months/july.inc.php');
-					//echo "<input type='hidden' id='month_value' value='july' />";
+					echo "<input type='hidden' id='start_date' value='3' />";
 				}else{ 
 					require('includes/months/august.inc.php');
-					//echo "<input type='hidden' id='month_value' value='august' />";
+					echo "<input type='hidden' id='start_date' value='6' />";
 				}
 			?>
 			</div>
@@ -50,18 +50,14 @@
 	  //use AJAX function to find JSON file for current month
 	  //read through the data and load into HTML table
 	  	var month_data_file = "includes/months/" + $('.month_name').text().toLowerCase() + "_events.json";
-	  	console.log(month_data_file);
 	  	$.getJSON( month_data_file, function( data ) {
-		  //if (data) console.log('working ' + data);
-		  //else console.log('not working');
 
-		  var items = "";
-		  var start_day = 3; //Sunday = 0, Monday = 1, Tuesday = 2, etc
+			//if (data) console.log('working ' + data);
+			//else console.log('not working');
 
-		  $.each( data, function( month, date ) {
-		  	//loop through each day in the month
-		  	//console.log(month); 
-		  	$('.month_name').text(month); //Put this in the month at top of page
+			var items = "";
+			var start_day = $('#start_date').val(); //Sunday = 0, Monday = 1, Tuesday = 2, etc
+
 		  	items += '<tr>';
 		  	var day_counter = 0;
 		  	while(day_counter < start_day){
@@ -70,7 +66,7 @@
 		  		day_counter++;
 		  	}
 		  	//console.log(date);
-		  	$.each( date, function( day, time_object ) {
+		  	$.each( data, function( day, time_object ) {
 		  		//loop through each time in the day
 		  		//console.log("day " + day); //start on the right day & put this in the <td>
 		  		items += '<td><section>';
@@ -108,7 +104,6 @@
 	  			day_counter = 0;
 	  		}
 		  	items += '</tr>';
-		  });
 		 
 		  $("tbody").html(items);
 	  		//console.log(data);
