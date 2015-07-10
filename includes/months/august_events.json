@@ -202,6 +202,11 @@
 			"group" : "Magento Users Group",
 			"event_name" : "Topic TBD",
 			"link" : "http://www.meetup.com/Utah-Magento-Users-Group/events/mzsnflytlbrb/" 
+		},
+		{
+			"group" : "Utah .NET User Group",
+			"event_name" : "2015-08-13 Monthly Meeting",
+			"link" : "http://www.meetup.com/Utah-NET-User-Group/events/223820126/" 
 		}],
 		"6pm" : [{
 			"group" : "Salt Lake City Convex Optimization Study Group",

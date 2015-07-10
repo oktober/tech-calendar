@@ -416,7 +416,7 @@
 	{ 
 		"3pm" : [{
 			"group" : "Utah Bitcoin Community",
-			"event_name" : "Monthly Meet Up - 3rd Saturday of Each Month",
+			"event_name" : "Monthly Meet Up - Hubster Bitcoin 101",
 			"link" : "http://www.meetup.com/Utah-Bitcoin-Community/events/208482192/" 
 		}],
 		"4pm" : [{
@@ -435,6 +435,11 @@
 	},
 	"20" :
 	{ 
+		"12pm" : [{
+			"group" : "Utah SQL Server Group",
+			"event_name" : "Networking Lunch - July",
+			"link" : "http://www.meetup.com/Utah-SQL-Server-Group/events/223801514" 
+		}],
 		"6:30pm" : [{
 			"group" : "801 Labs/theTransistor",
 			"event_name" : "Practical Malware Analysis Group Night",
@@ -457,6 +462,11 @@
 			"group" : "SLC JS Learners",
 			"event_name" : "Simply Coding",
 			"link" : "http://www.meetup.com/SLC-JS-Learners/events/222731156/" 
+		},
+		{
+			"group" : "DevPoint Labs",
+			"event_name" : "Beginner Ruby Workshop",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/223839768/" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
