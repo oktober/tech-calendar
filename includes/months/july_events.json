@@ -397,11 +397,6 @@
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
 			"event_name" : "July Meeting",
 			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/223350532/" 
-		},
-		{
-			"group" : "Utah County Data Science Meetup",
-			"event_name" : "Data Science Weekly Meetup",
-			"link" : "http://www.meetup.com/Utah-County-Data-Science-Meetup/events/xktlflytkbvb/" 
 		}]
 	},
 	"17" :
@@ -414,6 +409,11 @@
 	},
 	"18" :
 	{ 
+		"11:30am" : [{
+			"group" : "Big Data Utah",
+			"event_name" : "Spark Day! - Saturday the 18th",
+			"link" : "http://www.meetup.com/BigDataUtah/events/223918458/" 
+		}],
 		"3pm" : [{
 			"group" : "Utah Bitcoin Community",
 			"event_name" : "Monthly Meet Up - Hubster Bitcoin 101",
@@ -453,10 +453,20 @@
 			"event_name" : "OpenSaltLake Hangout",
 			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflytkbcc/" 
 		}],
+		"5:30pm" : [{
+			"group" : "Utah QA User Group",
+			"event_name" : "Developing Cultural Intelligence",
+			"link" : "http://www.meetup.com/Utah-QA-User-Group/events/223900956/" 
+		}],
 		"6pm" : [{
 			"group" : "Utah F#",
 			"event_name" : "Utah F#",
 			"link" : "http://www.meetup.com/Utah-FSharp/events/qhfvzkytkbcc/" 
+		},
+		{
+			"group" : "UtahJS",
+			"event_name" : "UtahJS SLC Meetup",
+			"link" : "http://www.meetup.com/UtahJS/events/223929414/" 
 		}],
 		"6:30pm" : [{
 			"group" : "SLC JS Learners",
@@ -564,6 +574,11 @@
 			"event_name" : "HacknightSLC July in-person meetup",
 			"link" : "http://www.meetup.com/Open-Salt-Lake/events/223768168/" 
 		}],
+		"6:30pm" : [{
+			"group" : "Hack Night SLC",
+			"event_name" : "Hack Night SLC",
+			"link" : "http://www.hacknightslc.com/" 
+		}],
 		"7pm" : [{
 			"group" : "Utah County Data Science Meetup",
 			"event_name" : "Data Science Weekly Meetup",
@@ -612,6 +627,11 @@
 			"group" : "ReactJS Utah",
 			"event_name" : "ReactJS Utah Monthly Meetup",
 			"link" : "http://www.meetup.com/ReactJS-Utah/events/221717963/" 
+		},
+		{
+			"group" : "DevPoint Labs - Ruby on Rails & JavaScript Coding School",
+			"event_name" : "Building with Bootstrap: Creating and Hosting Responsive Websites for Free",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/223924596/" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
@@ -663,6 +683,11 @@
 			"group" : "Utah County Data Science Meetup",
 			"event_name" : "Data Science Weekly Meetup",
 			"link" : "http://www.meetup.com/Utah-County-Data-Science-Meetup/events/xktlflytkbnc/" 
+		},
+		{
+			"group" : "AngularJS Utah",
+			"event_name" : "Salt Lake Valley AngularJS Meetup",
+			"link" : "http://www.meetup.com/AngularJS-Utah/events/223929480/" 
 		}]
 	},
 	"31" :
