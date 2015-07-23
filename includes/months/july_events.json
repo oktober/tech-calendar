@@ -595,11 +595,6 @@
 	},
 	"25" :
 	{ 
-		"3pm" : [{
-			"group" : "Open Salt Lake",
-			"event_name" : "Class and Code",
-			"link" : "http://www.meetup.com/Open-Salt-Lake/events/223768075/" 
-		}]
 	},
 	"26" :
 	{ },
@@ -609,6 +604,11 @@
 			"group" : "Google Developer Group",
 			"event_name" : "Web Games with Dart and the HTML5 Canvas",
 			"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/223730338/" 
+		}],
+		"7pm" : [{
+			"group" : "theTransistor and 801 LABS",
+			"event_name" : "SLC Linux Night - GPG Night",
+			"link" : "http://www.meetup.com/theTransistor/events/224047770/" 
 		}]
 	},
 	"28" :
@@ -641,6 +641,11 @@
 	},
 	"29" :
 	{ 
+		"11:30am" : [{
+			"group" : "Urban Technology Enthusiasts of Utah",
+			"event_name" : "Nerd Lunch July 2015 - Davis County Branch",
+			"link" : "http://www.meetup.com/UtahTechEnthusiasts/events/224108487/" 
+		}],
 		"12pm" : [{
 			"group" : "Hack Ogden",
 			"event_name" : "Hack Ogden. Great speakers and free lunch!",
@@ -660,6 +665,11 @@
 			"group" : "Utah Ruby Users Group (URUG)",
 			"event_name" : "Weekly Hack Night - DRUG",
 			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/wszhhlytkbmc/" 
+		},
+		{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "Troubleshooting the 5 most Common Requests We See at WP Site Care",
+			"link" : "http://www.meetup.com/utahwp/events/223990480" 
 		}]
 	},
 	"30" :
@@ -668,6 +678,11 @@
 			"group" : "Girl Develop It SLC",
 			"event_name" : "Summer of Learning: lunch & learn series",
 			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/lbvkhlytkbnc/" 
+		},
+		{
+			"group" : "SaltStack Salt Lake City user group",
+			"event_name" : "SaltStack Meetup - Increasing Infrastructure Visibility using Custom Grains",
+			"link" : "http://www.meetup.com/SaltStack-user-group-Salt-Lake-City/events/223996369/" 
 		}],
 		"5pm" : [{
 			"group" : "801 Labs/theTransistor",
@@ -678,6 +693,16 @@
 			"group" : "Salt Lake City Convex Optimization Study Group",
 			"event_name" : "10. Unconstrained Minimization",
 			"link" : "http://www.meetup.com/Salt-Lake-City-Convex-Optimization-Study-Group/events/222601134/" 
+		},
+		{
+			"group" : "Utah Software Engineering Managers",
+			"event_name" : "How to have Hard Conversations; How to let people go.",
+			"link" : "http://www.meetup.com/Utah-Software-Engineering-Managers/events/224099131/" 
+		},
+		{
+			"group" : "Docker Salt Lake City",
+			"event_name" : "DockerCon recap part I: Introduction to Notary, making the internet more secure",
+			"link" : "http://www.meetup.com/Docker-Salt-Lake-City/events/224124543/" 
 		}],
 		"7pm" : [{
 			"group" : "Utah County Data Science Meetup",

@@ -1,6 +1,17 @@
 {
 	"1" : 
-	{ },
+	{ 
+		"11am" : [{
+			"group" : "Game Makers of Utah",
+			"event_name" : "World 1-3",
+			"link" : "http://www.meetup.com/Game-Makers-of-Utah/events/224071744/" 
+		}],
+		"3pm" : [{
+			"group" : "SLC JS Learners",
+			"event_name" : "Class and Code",
+			"link" : "http://www.meetup.com/SLC-JS-Learners/events/223816259/" 
+		}]
+	},
 	"2" : 
 	{ },
 	"3" : 
@@ -162,8 +173,8 @@
 		}],
 		"6pm" : [{
 			"group" : "Utah C++ Programmers",
-			"event_name" : "Regular Monthly Meeting",
-			"link" : "http://www.meetup.com/Utah-Cpp-Programmers/events/xxrjflytlbqb/" 
+			"event_name" : "What's New in Visual Studio 2015",
+			"link" : "http://www.meetup.com/Utah-Cpp-Programmers/events/223966116/" 
 		}], 
 		"6:30pm" : [{
 			"group" : "Big Data Utah",
@@ -235,7 +246,7 @@
 		},
 		{
 			"group" : "Python at the Point",
-			"event_name" : "Monthly Meetup",
+			"event_name" : "Multi-Core Support Collaboration with Eric Snow",
 			"link" : "http://www.meetup.com/PythonAtThePoint/events/222965950/" 
 		}]  
 	},
@@ -338,7 +349,7 @@
 		}],
 		"6:30pm" : [{
 			"group" : "Salt Lake AWS",
-			"event_name" : "Security on AWS",
+			"event_name" : "AWS at Instructure",
 			"link" : "http://www.meetup.com/Salt-Lake-AWS/events/223458927/" 
 		},
 		{
@@ -368,6 +379,11 @@
 			"group" : "Girl Develop It SLC",
 			"event_name" : "Summer of Learning: lunch & learn series",
 			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/lbvkhlytlbbc/" 
+		},
+		{
+			"group" : "Big Data Utah",
+			"event_name" : "Hadoop Lunch at Adobe",
+			"link" : "http://www.meetup.com/BigDataUtah/events/224069388/" 
 		}],
 		"5pm" : [{
 			"group" : "801 Labs/theTransistor",
@@ -380,9 +396,9 @@
 			"link" : "http://www.meetup.com/Utah-Java-Users-Group/events/219790655/" 
 		}],
 		"6pm" : [{
-			"group" : "Utah Python",
-			"event_name" : "GIS (Geographic Information Systems) and Python! by Python Utah North",
-			"link" : "http://www.meetup.com/Utah_Python/events/222557008/" 
+			"group" : "Python Utah North",
+			"event_name" : "GIS (Geographic Information Systems) and Python! with Andy C.",
+			"link" : "http://www.meetup.com/Python-Utah-North/events/222491023/" 
 		},
 		{
 			"group" : "Salt Lake City Convex Optimization Study Group",
@@ -522,8 +538,8 @@
 		},
 		{
 			"group" : "OpenStack Utah",
-			"event_name" : "Open Stack Monthly Meetup",
-			"link" : "http://www.meetup.com/openstack-utah/events/dlphqjytlbkc/" 
+			"event_name" : "Networking with LXC Containers and OpenStack",
+			"link" : "http://www.meetup.com/openstack-utah/events/224050965/" 
 		}]
 	},
 	"28" :
