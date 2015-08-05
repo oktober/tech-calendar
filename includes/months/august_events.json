@@ -17,7 +17,12 @@
 		}]
 	},
 	"4" : 
-	{ 
+	{   
+		"11:30am" : [{
+			"group" : "LunchJS",
+			"event_name" : "GraphQL (Dallin Osmun) and async template rendering (Steven Foote)",
+			"link" : "http://www.meetup.com/lunch-js/events/224266823/" 
+		}],
 		"12pm" : [{
 			"group" : "Open Salt Lake",
 			"event_name" : "OpenSaltLake Hangout",
@@ -39,7 +44,12 @@
 		"12pm" : [{
 			"group" : "Hack Ogden",
 			"event_name" : "Hack Ogden. Great speakers and free lunch!",
-			"link" : "http://www.meetup.com/HackOgden/events/qlvxpkytlbhb/" 
+			"link" : "http://www.meetup.com/HackOgden/events/224290976/" 
+		}],
+		"5:30pm" : [{
+			"group" : "Utah Scala Enthusiasts",
+			"event_name" : "August 2015 Meeting",
+			"link" : "http://www.meetup.com/Utah-Scala-Enthusiasts/events/224405500/" 
 		}],
 		"6pm" : [{
 			"group" : "Utah Software Craftsmanship",
@@ -69,11 +79,6 @@
 	},
 	"6" : 
 	{ 
-		"12pm" : [{
-			"group" : "Girl Develop It SLC",
-			"event_name" : "Summer of Learning: lunch & learn series",
-			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/223327150/" 
-		}],
 		"2pm" : [{
 			"group" : "Agile Roundtable",
 			"event_name" : "Agile Roundtable",
@@ -139,8 +144,13 @@
 		},
 		{
 			"group" : "Lambda Lounge Utah",
-			"event_name" : "Datomic",
+			"event_name" : "Datomic, an Immutable Database",
 			"link" : "http://www.meetup.com/Lambda-Lounge-Utah/events/221904158/" 
+		},
+		{
+			"group" : "Google Developer Group of Utah",
+			"event_name" : "Build something in Android",
+			"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/223828903/" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
@@ -151,6 +161,11 @@
 			"group" : "Utah Open Source",
 			"event_name" : "Salt Lake Perl Mongers",
 			"link" : "http://www.meetup.com/UtahOpenSource/events/qdsrqhytlbpb/" 
+		},
+		{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "UV.rb August 2015",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/224212208/" 
 		}]
 	},
 	"12" :
@@ -169,6 +184,11 @@
 			"group" : "Big Data Utah",
 			"event_name" : "Big Data Utah Meeting @ IHC",
 			"link" : "http://www.meetup.com/BigDataUtah/events/222695943/" 
+		},
+		{
+			"group" : "Google Developer Group of Utah",
+			"event_name" : "GDG Web Family Night and Birthday Party!",
+			"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/224377114/" 
 		}],
 		"7pm" : [{
 			"group" : "Utah d3.js",
@@ -188,11 +208,6 @@
 	},
 	"13" :
 	{ 
-		"12pm" : [{
-			"group" : "Girl Develop It SLC",
-			"event_name" : "Summer of Learning: lunch & learn series",
-			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/lbvkhlytlbrb/" 
-		}],
 		"5pm" : [{
 			"group" : "801 Labs/theTransistor",
 			"event_name" : "Project Night",
@@ -268,7 +283,12 @@
 		{
 			"group" : "801 Labs/theTransistor",
 			"event_name" : "Practical Malware Analysis Group Night",
-			"link" : "http://www.meetup.com/theTransistor/events/qmlxpkytlbwb/" 
+			"link" : "http://www.meetup.com/theTransistor/events/224224890/" 
+		}],
+		"7pm" : [{
+			"group" : "801 Labs/theTransistor",
+			"event_name" : "SLC Linux Night - Intro to Docker",
+			"link" : "http://www.meetup.com/theTransistor/events/224235359/" 
 		}]
 	},
 	"18" :
@@ -359,11 +379,6 @@
 	},
 	"20" :
 	{ 
-		"12pm" : [{
-			"group" : "Girl Develop It SLC",
-			"event_name" : "Summer of Learning: lunch & learn series",
-			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/lbvkhlytlbbc/" 
-		}],
 		"5pm" : [{
 			"group" : "801 Labs/theTransistor",
 			"event_name" : "Project Night",
@@ -470,7 +485,7 @@
 		"6:30pm" : [{
 			"group" : "Make Salt Lake",
 			"event_name" : "Microcontroller meetup",
-			"link" : "http://www.meetup.com/MakeSaltLake/events/dfxdxkytlbjc/" 
+			"link" : "http://www.meetup.com/MakeSaltLake/events/223927904" 
 		},
 		{
 			"group" : "DevOpsUT",
@@ -494,7 +509,12 @@
 		}]
 	},
 	"27" :
-	{ 
+	{ 	
+		"11:30am" : [{
+			"group" : "Utah Oracle Users Group",
+			"event_name" : "APEX SIG: Dynamic (Dynamite) Applications!",
+			"link" : "http://www.meetup.com/Utah-Oracle-Users-Group/events/224400532/" 
+		}],
 		"12pm" : [{
 			"group" : "Girl Develop It SLC",
 			"event_name" : "Summer of Learning: lunch & learn series",
@@ -527,6 +547,11 @@
 			"group" : "801 Labs/theTransistor",
 			"event_name" : "Work from the Hacker Space",
 			"link" : "http://www.meetup.com/theTransistor/events/mlczflytlblc/" 
+		},
+		{
+			"group" : "Utah Oracle Users Group",
+			"event_name" : "PeopleSoft SIG: Upgrades",
+			"link" : "http://www.meetup.com/Utah-Oracle-Users-Group/events/224400583/" 
 		}]
 	},
 	"29" :
