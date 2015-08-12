@@ -186,6 +186,11 @@
 			"event_name" : "Hack Ogden. Great speakers and free lunch!",
 			"link" : "http://www.meetup.com/HackOgden/events/qlvxpkytlbqb/" 
 		}],
+		"4:30pm" : [{
+			"group" : "The Salt Lake ColdFusion Users Group",
+			"event_name" : "Git Introduction and Workshop",
+			"link" : "http://www.meetup.com/slcfug/events/224539419/" 
+		}],
 		"6pm" : [{
 			"group" : "Utah C++ Programmers",
 			"event_name" : "What's New in Visual Studio 2015",
@@ -253,6 +258,11 @@
 			"group" : "SLC Tech Startups",
 			"event_name" : "Happy Hour at Gracie's Bar",
 			"link" : "http://www.meetup.com/slctechstartups/events/221517375/" 
+		},
+		{
+			"group" : "Northern Utah .NET Users Group (NUNUG)",
+			"event_name" : "Windows 10 & Visual Studio 2015 - First Look",
+			"link" : "http://www.meetup.com/nunug-org/events/224430669/" 
 		}],
 		"7pm" : [{
 			"group" : "Utah County Data Science Meetup",
@@ -263,6 +273,11 @@
 			"group" : "Python at the Point",
 			"event_name" : "Multi-Core Support Collaboration with Eric Snow",
 			"link" : "http://www.meetup.com/PythonAtThePoint/events/222965950/" 
+		},
+		{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "UV Meetup: Let's go Deep with Advanced Custom Fields",
+			"link" : "http://www.meetup.com/utahwp/events/224428128/" 
 		}]  
 	},
 	"14" :
@@ -275,6 +290,11 @@
 	},
 	"15" :
 	{ 
+		"11am" : [{
+			"group" : "Ogden DIY Robotic Makers Meetup",
+			"event_name" : "1st Meetup For Our Group",
+			"link" : "http://www.meetup.com/Ogden-DIY-Robotic-Makers-Meetup/events/224437096/" 
+		}],
 		"3pm" : [{
 			"group" : "Open Salt Lake",
 			"event_name" : "Class and Code",
@@ -284,6 +304,11 @@
 			"group" : "Utah Bitcoin Community",
 			"event_name" : "Monthly Meet Up - 3rd Saturday of Each Month",
 			"link" : "http://www.meetup.com/Utah-Bitcoin-Community/events/dpttfkytlbtb/" 
+		}],
+		"7pm" : [{
+			"group" : "theTransistor and 801 LABS",
+			"event_name" : "Post-DefCon Meetup",
+			"link" : "http://www.meetup.com/theTransistor/events/224561725/" 
 		}]
 	},
 	"16" :
@@ -291,6 +316,11 @@
 	},
 	"17" :
 	{ 
+		"12pm" : [{
+			"group" : "Utah SQL Server Group",
+			"event_name" : "Networking Lunch - August",
+			"link" : "http://www.meetup.com/Utah-SQL-Server-Group/events/224502727/" 
+		}],
 		"6:30pm" : [{
 			"group" : "Salt Lake PyLadies",
 			"event_name" : "PyLadies Study Hall",
@@ -328,6 +358,11 @@
 			"group" : "SLC JS Learners",
 			"event_name" : "Monthly Meetup",
 			"link" : "http://www.meetup.com/SLC-JS-Learners/events/221014523/" 
+		},
+		{
+			"group" : "UtahJS",
+			"event_name" : "UtahJS SLC Meetup",
+			"link" : "http://www.meetup.com/UtahJS/events/224567189/" 
 		},
 		{
 			"group" : "Utah Technology Enthusiasts",
@@ -376,6 +411,11 @@
 			"group" : "Lehi Developers User Group",
 			"event_name" : "Learn, Hack, Socialize",
 			"link" : "http://www.meetup.com/Lehi-Developers-User-Group/events/dxmhhlytlbzb/" 
+		},
+		{
+			"group" : "Big Data Utah",
+			"event_name" : "Presenting Data Science Results - Completion of Training",
+			"link" : "http://www.meetup.com/BigDataUtah/events/224519248/" 
 		}],
 		"7pm" : [{
 			"group" : "Wasatch Python Developers",
@@ -402,7 +442,7 @@
 		}],
 		"5:30pm" : [{
 			"group" : "Utah Java Users Group",
-			"event_name" : "Dropwizard.io / Rapid Mobile Dev",
+			"event_name" : "Dropwizard.io / Appery.io",
 			"link" : "http://www.meetup.com/Utah-Java-Users-Group/events/219790655/" 
 		}],
 		"6pm" : [{
@@ -429,6 +469,11 @@
 			"group" : "Utah County Data Science Meetup",
 			"event_name" : "Data Science Weekly Meetup",
 			"link" : "http://www.meetup.com/Utah-County-Data-Science-Meetup/events/xktlflytkbvb/" 
+		},
+		{
+			"group" : "Lambda Lounge Utah",
+			"event_name" : "Utah Haskell - Build a JSON API",
+			"link" : "http://www.meetup.com/Lambda-Lounge-Utah/events/224451561/" 
 		}]
 	},
 	"21" :
@@ -456,6 +501,11 @@
 			"group" : "Salt Lake PyLadies",
 			"event_name" : "PyLadies Study Hall",
 			"link" : "http://www.meetup.com/Salt-Lake-Pyladies/events/jfhvhlytlbgc/" 
+		}],
+		"7pm" : [{
+			"group" : "Docker Salt Lake City",
+			"event_name" : "Intro to Docker by Jeff Anderson (Docker engineer)",
+			"link" : "http://www.meetup.com/Docker-Salt-Lake-City/events/224544539/" 
 		}]
 	},
 	"25" :
@@ -469,6 +519,11 @@
 			"group" : "ReactJS Utah",
 			"event_name" : "ReactJS Utah Monthly Meetup",
 			"link" : "http://www.meetup.com/ReactJS-Utah/events/221717969/" 
+		}],
+		"6:30pm" : [{
+			"group" : "Google Developer Group of Utah",
+			"event_name" : "Real-Time Chat with Dart and Firebase",
+			"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/224417194/" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
@@ -545,6 +600,11 @@
 			"group" : "Utah Node.js Ninja",
 			"event_name" : "Provo - Node School & Hack Night",
 			"link" : "http://www.meetup.com/Utah-Node-Ninjas/events/cvsbhlytlbkc/" 
+		},
+		{
+			"group" : "AngularJS Utah",
+			"event_name" : "Salt Lake Valley AngularJS Meetup",
+			"link" : "http://www.meetup.com/AngularJS-Utah/events/224433432/" 
 		}],
 		"7pm" : [{
 			"group" : "Utah County Data Science Meetup",
@@ -587,6 +647,11 @@
 			"group" : "801 Labs/theTransistor",
 			"event_name" : "Practical Malware Analysis Group Night",
 			"link" : "http://www.meetup.com/theTransistor/events/qmlxpkytlbpc/" 
-		}] 
+		}],
+		"7pm" : [{
+			"group" : "Utah Valley DIY Phone & Tablet Repair",
+			"event_name" : "Let's repair some devices!",
+			"link" : "http://www.meetup.com/Utah-Valley-DIY-Phone-Tablet-Repair/events/224399869/" 
+		}]  
 	}
 }
