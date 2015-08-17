@@ -376,7 +376,7 @@
 		}],
 		"7:30pm" : [{
 			"group" : "Utah Open Source",
-			"event_name" : "Provo Linux User Group (PLUG)",
+			"event_name" : "PLUG: Crypto Algorithms",
 			"link" : "http://www.meetup.com/UtahOpenSource/events/223651779/" 
 		}]
 	},
@@ -399,8 +399,8 @@
 		},
 		{
 			"group" : "Utah County .NET User Group",
-			"event_name" : "Cross Platform Mobile Development with Apache Cordova",
-			"link" : "http://www.meetup.com/Utah-County-NET-User-Group/events/msdvdlytlbzb/" 
+			"event_name" : "Xaml Improvements in Visual Studio 2015",
+			"link" : "http://www.meetup.com/Utah-County-NET-User-Group/events/223882667/" 
 		}],
 		"6:30pm" : [{
 			"group" : "Salt Lake AWS",
@@ -497,6 +497,11 @@
 	},
 	"24" :
 	{ 
+		"8am" : [{
+			"group" : "React Rally",
+			"event_name" : "Conference: React Rally 2015",
+			"link" : "http://www.reactrally.com/" 
+		}],
 		"6:30pm" : [{
 			"group" : "Salt Lake PyLadies",
 			"event_name" : "PyLadies Study Hall",
@@ -510,6 +515,11 @@
 	},
 	"25" :
 	{ 
+		"8am" : [{
+			"group" : "React Rally",
+			"event_name" : "Conference: React Rally 2015",
+			"link" : "http://www.reactrally.com/" 
+		}],
 		"12pm" : [{
 			"group" : "Open Salt Lake",
 			"event_name" : "OpenSaltLake Hangout",
@@ -587,6 +597,11 @@
 			"link" : "http://www.meetup.com/Utah-Oracle-Users-Group/events/224400532/" 
 		}],
 		"12pm" : [{
+			"group" : "SaltStack Salt Lake City user group",
+			"event_name" : "Rock Salt: Ops tools for self-hardening your infrastructure",
+			"link" : "http://www.meetup.com/SaltStack-user-group-Salt-Lake-City/events/224544220/" 
+		},
+		{
 			"group" : "Girl Develop It SLC",
 			"event_name" : "Summer of Learning: lunch & learn series",
 			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/lbvkhlytlbkc/" 
@@ -638,6 +653,11 @@
 	},
 	"31" :
 	{ 
+		"4pm" : [{
+			"group" : "StartFest",
+			"event_name" : "Conference: StartFest",
+			"link" : "https://startfestival.com/" 
+		}],
 		"6:30pm" : [{
 			"group" : "Salt Lake PyLadies",
 			"event_name" : "PyLadies Study Hall",

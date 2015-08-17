@@ -1,23 +1,53 @@
 {
 	"1" : 
 	{ 
+		"9am" : [{
+			"group" : "StartFest",
+			"event_name" : "Conference: StartFest",
+			"link" : "https://startfestival.com/" 
+		}]
 	},
 	"2" : 
 	{ 
+		"10am" : [{
+			"group" : "StartFest",
+			"event_name" : "Conference: StartFest",
+			"link" : "https://startfestival.com/" 
+		}],
 		"6:30pm" : [{
 			"group" : "Salt Lake City Python",
 			"event_name" : "Sept Meetup: Data Modelling with Ken Myers",
 			"link" : "http://www.meetup.com/SLCPython/events/224374942/" 
+		}],
+		"7pm" : [{
+			"group" : "GDI Provo",
+			"event_name" : "*New Chapter Provo GDI : Open house @Coding Campus",
+			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/224618421/" 
 		}]
 	},
 	"3" : 
 	{ 
+		"10am" : [{
+			"group" : "StartFest",
+			"event_name" : "Conference: StartFest",
+			"link" : "https://startfestival.com/" 
+		}]
 	},
 	"4" : 
-	{   
+	{  
+		"10am" : [{
+			"group" : "StartFest",
+			"event_name" : "Conference: StartFest",
+			"link" : "https://startfestival.com/" 
+		}] 
 	},
 	"5" : 
 	{ 
+		"8am" : [{
+			"group" : "StartFest",
+			"event_name" : "Conference: StartFest",
+			"link" : "https://startfestival.com/" 
+		}],
 		"10am" : [{
 			"group" : "SLC JS Learners",
 			"event_name" : "JavaScript Study Group",
@@ -31,9 +61,21 @@
 	{ 
 	},
 	"8" : 
-	{ },
+	{ 
+		"6pm" : [{
+			"group" : "Lambda Lounge Utah",
+			"event_name" : "The Probabilistic Power of Polynomials",
+			"link" : "http://www.meetup.com/Lambda-Lounge-Utah/events/222688431/" 
+		}]
+	},
 	"9" : 
-	{ },
+	{
+		"6pm" : [{
+			"group" : "Utah - AEM/CQ /CQ5 Developer Community",
+			"event_name" : "Lightning Round",
+			"link" : "http://www.meetup.com/Utah-Adobe-Experience-Manager-AEM-formerly-CQ/events/224694792/" 
+		}] 
+	},
 	"10" : 
 	{ 
 	},
@@ -68,6 +110,11 @@
 	},
 	"19" :
 	{ 
+		"8am" : [{
+			"group" : "Google Developer Group",
+			"event_name" : "Conference: DevFest Fam",
+			"link" : "http://devfestfam.com/" 
+		}]
 	},
 	"20" :
 	{ 
