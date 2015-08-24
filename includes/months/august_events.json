@@ -562,6 +562,11 @@
 			"group" : "SLC Front-end Web Developers",
 			"event_name" : "SLC FWD Monthly Build-a-thon",
 			"link" : "http://www.meetup.com/slcfwd/events/ztmwglytlbjc/" 
+		},
+		{
+			"group" : "DevPoint Labs",
+			"event_name" : "UX: User Experience Design Course Info Session",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/224773958/" 
 		}],
 		"6:30pm" : [{
 			"group" : "Make Salt Lake",
@@ -630,6 +635,16 @@
 			"group" : "OpenStack Utah",
 			"event_name" : "Networking with LXC Containers and OpenStack",
 			"link" : "http://www.meetup.com/openstack-utah/events/224050965/" 
+		},
+		{
+			"group" : "801 Labs/theTransistor",
+			"event_name" : "Web Application Hacking Night",
+			"link" : "http://www.meetup.com/theTransistor/events/224743138/" 
+		},
+		{
+			"group" : "Meteor Salt Lake City",
+			"event_name" : "Intro to Meteor.js",
+			"link" : "http://www.meetup.com/Meteor-Salt-Lake-City/events/224551067/" 
 		}]
 	},
 	"28" :

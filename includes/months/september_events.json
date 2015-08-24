@@ -5,6 +5,11 @@
 			"group" : "StartFest",
 			"event_name" : "Conference: StartFest",
 			"link" : "https://startfestival.com/" 
+		}],
+		"6:15pm" : [{
+			"group" : "Utah Gophers",
+			"event_name" : "GopherCon review & Go 1.5 discussion",
+			"link" : "http://www.meetup.com/utahgophers/events/222714661/" 
 		}]
 	},
 	"2" : 
@@ -31,6 +36,11 @@
 			"group" : "StartFest",
 			"event_name" : "Conference: StartFest",
 			"link" : "https://startfestival.com/" 
+		}],
+		"7:30pm" : [{
+			"group" : "801 Labs/The Transistor",
+			"event_name" : "CTF Planning Meeting :D",
+			"link" : "http://www.meetup.com/theTransistor/events/224810733/" 
 		}]
 	},
 	"4" : 
@@ -74,6 +84,11 @@
 			"group" : "Utah - AEM/CQ /CQ5 Developer Community",
 			"event_name" : "Lightning Round",
 			"link" : "http://www.meetup.com/Utah-Adobe-Experience-Manager-AEM-formerly-CQ/events/224694792/" 
+		}],
+		"6:30pm" : [{
+			"group" : "Big Data Utah",
+			"event_name" : "MPP vs. SMP Systems - Big Data Utah AND SQL Group Meeting @ IHC",
+			"link" : "http://www.meetup.com/BigDataUtah/events/224262067/" 
 		}] 
 	},
 	"10" : 
@@ -103,6 +118,11 @@
 			"group" : "Python Utah North",
 			"event_name" : "BYOProblem",
 			"link" : "http://www.meetup.com/Python-Utah-North/events/223577569/" 
+		}],
+		"7pm" : [{
+			"group" : "801 Labs/The Transistor",
+			"event_name" : "Lock Picking Night",
+			"link" : "http://www.meetup.com/theTransistor/events/224743280/" 
 		}]
 	},
 	"18" :
@@ -133,6 +153,11 @@
 	},
 	"25" :
 	{ 
+		"8am" : [{
+			"group" : "UtahJS",
+			"event_name" : "4th Annual UtahJS Conference",
+			"link" : "http://conf.utahjs.com/" 
+		}]
 	},
 	"26" :
 	{ 
