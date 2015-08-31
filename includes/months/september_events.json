@@ -11,6 +11,21 @@
 			"event_name" : "Functional programming with Ramda (Bob Pace)",
 			"link" : "http://www.meetup.com/lunch-js/events/224930336/" 
 		}],
+		"12pm" : [{
+			"group" : "Open Salt Lake",
+			"event_name" : "OpenSaltLake in Person Meetup",
+			"link" : "http://www.meetup.com/Open-Salt-Lake/events/224881766/" 
+		},
+		{
+			"group" : "Hack Ogden",
+			"event_name" : "Hack Ogden. Great speakers and free lunch!",
+			"link" : "http://www.meetup.com/HackOgden/events/224615518/" 
+		}],
+		"1pm" : [{
+			"group" : "Wasatch Python Developers",
+			"event_name" : "Understanding Python Objects - Derek Argueta",
+			"link" : "http://www.meetup.com/pywasatch/events/224918539/" 
+		}],
 		"6:15pm" : [{
 			"group" : "Utah Gophers",
 			"event_name" : "GopherCon review & Go 1.5 discussion",
@@ -20,6 +35,11 @@
 			"group" : "Utah Bitcoin Community",
 			"event_name" : "Life on Bitcoin Movie",
 			"link" : "http://www.meetup.com/Utah-Bitcoin-Community/events/224861306/" 
+		},
+		{
+			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
+			"event_name" : "Code Night",
+			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/224600430/" 
 		}]
 	},
 	"2" : 
@@ -28,6 +48,11 @@
 			"group" : "StartFest",
 			"event_name" : "Conference: StartFest",
 			"link" : "https://startfestival.com/" 
+		}],
+		"6pm" : [{
+			"group" : "Utah Software Craftsmanship",
+			"event_name" : "UtahSC Meeting",
+			"link" : "http://www.meetup.com/Utah-Software-Craftsmanship/events/224587425/" 
 		}],
 		"6:30pm" : [{
 			"group" : "Salt Lake City Python",
@@ -38,6 +63,11 @@
 			"group" : "GDI Provo",
 			"event_name" : "*New Chapter Provo GDI : Open house @Coding Campus",
 			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/224618421/" 
+		},
+		{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "Building a BotNet: Distributed networks in Ruby -September Monthly meetup- DRUG",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/224583152/" 
 		}]
 	},
 	"3" : 
@@ -47,10 +77,30 @@
 			"event_name" : "Conference: StartFest",
 			"link" : "https://startfestival.com/" 
 		}],
+		"12pm" : [{
+			"group" : "Girl Develop It SLC",
+			"event_name" : "Summer of Learning: lunch & learn series",
+			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/224458383/" 
+		}],
 		"2pm" : [{
 			"group" : "Agile Roundtable",
 			"event_name" : "Agile Roundtable",
 			"link" : "http://www.meetup.com/Agile-Roundtable/events/224804883/" 
+		}],
+		"6pm" : [{
+			"group" : "801 Labs/The Transistor",
+			"event_name" : "801 Labs Hangout Night",
+			"link" : "http://www.meetup.com/theTransistor/events/224645241/" 
+		}],
+		"7pm" : [{
+			"group" : "UtahJS Orem",
+			"event_name" : "UtahJS Orem Meetup",
+			"link" : "http://www.meetup.com/UtahJS-Orem-Meetup/events/224585238/" 
+		},
+		{
+			"group" : "Utah County Data Science Meetup",
+			"event_name" : "Data Science Weekly Meetup",
+			"link" : "http://www.meetup.com/Utah-County-Data-Science-Meetup/events/224766553/" 
 		}],
 		"7:30pm" : [{
 			"group" : "801 Labs/The Transistor",
@@ -64,7 +114,12 @@
 			"group" : "StartFest",
 			"event_name" : "Conference: StartFest",
 			"link" : "https://startfestival.com/" 
-		}] 
+		}],
+		"12pm" : [{
+			"group" : "801 Labs/The Transistor",
+			"event_name" : "Work from the Hacker Space",
+			"link" : "http://www.meetup.com/theTransistor/events/224656160/" 
+		}]  
 	},
 	"5" : 
 	{ 
@@ -160,6 +215,11 @@
 			"group" : "RethinkDB Utah",
 			"event_name" : "RethinkDB Utah Monthly meeting",
 			"link" : "http://www.meetup.com/RethinkDB-Utah/events/224831619/" 
+		}],
+		"7pm" : [{
+			"group" : "Wasatch Python Developers",
+			"event_name" : "List Comprehensions in Python",
+			"link" : "http://www.meetup.com/pywasatch/events/223318932/" 
 		}]
 	},
 	"17" :
