@@ -6,10 +6,20 @@
 			"event_name" : "Conference: StartFest",
 			"link" : "https://startfestival.com/" 
 		}],
+		"11:30am" : [{
+			"group" : "LunchJS",
+			"event_name" : "Functional programming with Ramda (Bob Pace)",
+			"link" : "http://www.meetup.com/lunch-js/events/224930336/" 
+		}],
 		"6:15pm" : [{
 			"group" : "Utah Gophers",
 			"event_name" : "GopherCon review & Go 1.5 discussion",
 			"link" : "http://www.meetup.com/utahgophers/events/222714661/" 
+		}],
+		"7pm" : [{
+			"group" : "Utah Bitcoin Community",
+			"event_name" : "Life on Bitcoin Movie",
+			"link" : "http://www.meetup.com/Utah-Bitcoin-Community/events/224861306/" 
 		}]
 	},
 	"2" : 
@@ -36,6 +46,11 @@
 			"group" : "StartFest",
 			"event_name" : "Conference: StartFest",
 			"link" : "https://startfestival.com/" 
+		}],
+		"2pm" : [{
+			"group" : "Agile Roundtable",
+			"event_name" : "Agile Roundtable",
+			"link" : "http://www.meetup.com/Agile-Roundtable/events/224804883/" 
 		}],
 		"7:30pm" : [{
 			"group" : "801 Labs/The Transistor",
@@ -76,6 +91,11 @@
 			"group" : "Lambda Lounge Utah",
 			"event_name" : "The Probabilistic Power of Polynomials",
 			"link" : "http://www.meetup.com/Lambda-Lounge-Utah/events/222688431/" 
+		}],
+		"7pm" : [{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "UV.rb Sept 2015",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/224917318/" 
 		}]
 	},
 	"9" : 
@@ -84,6 +104,11 @@
 			"group" : "Utah - AEM/CQ /CQ5 Developer Community",
 			"event_name" : "Lightning Round",
 			"link" : "http://www.meetup.com/Utah-Adobe-Experience-Manager-AEM-formerly-CQ/events/224694792/" 
+		},
+		{
+			"group" : "Utah C++ Programmers",
+			"event_name" : "A Tour of Modern C++",
+			"link" : "http://www.meetup.com/Utah-Cpp-Programmers/events/224634440/" 
 		}],
 		"6:30pm" : [{
 			"group" : "Big Data Utah",
@@ -92,7 +117,22 @@
 		}] 
 	},
 	"10" : 
-	{ 
+	{
+		"6:30pm" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "DevPoint Labs Info Session",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/224878313/" 
+		}] ,
+		"7pm" : [{
+			"group" : "Python at the Point",
+			"event_name" : "Using the cx_Oracle driver with Blaine Carter",
+			"link" : "http://www.meetup.com/PythonAtThePoint/events/224393050/" 
+		},
+		{
+			"group" : "theTransistor and 801 LABS",
+			"event_name" : "Web Application Hacking Night",
+			"link" : "http://www.meetup.com/theTransistor/events/224768176/" 
+		}] 
 	},
 	"11" : 
 	{ 
@@ -108,9 +148,19 @@
 	},
 	"15" :
 	{ 
+		"6:30pm" : [{
+			"group" : "SLC JS Learners",
+			"event_name" : "Monthly Meetup",
+			"link" : "http://www.meetup.com/SLC-JS-Learners/events/224085267/" 
+		}]
 	},
 	"16" :
 	{
+		"6pm" : [{
+			"group" : "RethinkDB Utah",
+			"event_name" : "RethinkDB Utah Monthly meeting",
+			"link" : "http://www.meetup.com/RethinkDB-Utah/events/224831619/" 
+		}]
 	},
 	"17" :
 	{ 
@@ -118,11 +168,21 @@
 			"group" : "Python Utah North",
 			"event_name" : "BYOProblem",
 			"link" : "http://www.meetup.com/Python-Utah-North/events/223577569/" 
+		},
+		{
+			"group" : "DevOpsUT",
+			"event_name" : "Drinks && DevOps",
+			"link" : "http://www.meetup.com/DevOpsUT/events/224972178/" 
 		}],
 		"7pm" : [{
 			"group" : "801 Labs/The Transistor",
 			"event_name" : "Lock Picking Night",
 			"link" : "http://www.meetup.com/theTransistor/events/224743280/" 
+		},
+		{
+			"group" : "Lambda Lounge Utah",
+			"event_name" : "Utah Haskell - REST Client and folds",
+			"link" : "http://www.meetup.com/Lambda-Lounge-Utah/events/224923909/" 
 		}]
 	},
 	"18" :
@@ -150,6 +210,11 @@
 	},
 	"24" :
 	{ 
+		"6pm" : [{
+			"group" : "AngularJS Utah",
+			"event_name" : "Salt Lake Valley AngularJS Meetup",
+			"link" : "http://www.meetup.com/AngularJS-Utah/events/224937604/" 
+		}]
 	},
 	"25" :
 	{ 
@@ -173,5 +238,10 @@
 	},
 	"30" :
 	{ 
+		"7pm" : [{
+			"group" : "ProvoJS",
+			"event_name" : "Connect, learn, code",
+			"link" : "http://www.meetup.com/ProvoJS/events/224987764/" 
+		}]
 	}
 }
