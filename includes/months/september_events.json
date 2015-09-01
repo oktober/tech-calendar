@@ -142,19 +142,50 @@
 	},
 	"8" : 
 	{ 
+		"12pm" : [{
+			"group" : "Open Salt Lake",
+			"event_name" : "OpenSaltLake Hangout",
+			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflytmblb/" 
+		},
+		{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "Logan Ruby Lunch",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kqcqhlytmblb/" 
+		}],
 		"6pm" : [{
 			"group" : "Lambda Lounge Utah",
 			"event_name" : "The Probabilistic Power of Polynomials",
 			"link" : "http://www.meetup.com/Lambda-Lounge-Utah/events/222688431/" 
+		},
+		{
+			"group" : "AngularJS Utah",
+			"event_name" : "AngularJS Utah meetup",
+			"link" : "http://www.meetup.com/AngularJS-Utah/events/221846185/" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Ruby Users Group (URUG)",
 			"event_name" : "UV.rb Sept 2015",
 			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/224917318/" 
+		},
+		{
+			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
+			"event_name" : "Code Night",
+			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/224870401/" 
+		},
+		{
+			"group" : "Utah Open Source",
+			"event_name" : "Salt Lake Perl Mongers",
+			"link" : "http://www.meetup.com/UtahOpenSource/events/qdsrqhytmblb/" 
 		}]
 	},
 	"9" : 
 	{
+		
+		"12pm" : [{
+			"group" : "Hack Ogden",
+			"event_name" : "Hack Ogden. Great speakers and free lunch!",
+			"link" : "http://www.meetup.com/HackOgden/events/qgvrjlytmbmb/" 
+		}],
 		"6pm" : [{
 			"group" : "Utah - AEM/CQ /CQ5 Developer Community",
 			"event_name" : "Lightning Round",
@@ -169,15 +200,45 @@
 			"group" : "Big Data Utah",
 			"event_name" : "MPP vs. SMP Systems - Big Data Utah AND SQL Group Meeting @ IHC",
 			"link" : "http://www.meetup.com/BigDataUtah/events/224262067/" 
+		},
+		{
+			"group" : "Lehi Developers User Group",
+			"event_name" : "Learn, Hack, Socialize",
+			"link" : "http://www.meetup.com/Lehi-Developers-User-Group/events/224217925/" 
+		}],
+		"7pm" : [{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "Weekly Hack Night - DRUG",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/224956365/" 
 		}] 
 	},
 	"10" : 
 	{
+		"11am" : [{
+			"group" : "Salt Lake City AppDynamics User Group",
+			"event_name" : "You're Invited! AppDynamics Salt Lake City User Group, September 10th!",
+			"link" : "http://www.meetup.com/SLC-AppDynamics-User-Group/events/219985448/" 
+		}],
+		"5:45pm" : [{
+			"group" : "Magento Users Group",
+			"event_name" : "Topic TBD",
+			"link" : "http://www.meetup.com/Utah-Magento-Users-Group/events/mzsnflytmbnb/" 
+		}],
+		"6pm" : [{
+			"group" : "801 Labs/theTransistor",
+			"event_name" : "801 Labs Hangout Night",
+			"link" : "http://www.meetup.com/theTransistor/events/225003625/" 
+		}],
 		"6:30pm" : [{
 			"group" : "DevPoint Labs",
 			"event_name" : "DevPoint Labs Info Session",
 			"link" : "http://www.meetup.com/DevPoint-Labs/events/224878313/" 
-		}] ,
+		},
+		{
+			"group" : "SLC Tech Startups",
+			"event_name" : "Happy Hour at Gracie's Bar",
+			"link" : "http://www.meetup.com/slctechstartups/events/224659718/" 
+		}],
 		"7pm" : [{
 			"group" : "Python at the Point",
 			"event_name" : "Using the cx_Oracle driver with Blaine Carter",
@@ -187,13 +248,28 @@
 			"group" : "theTransistor and 801 LABS",
 			"event_name" : "Web Application Hacking Night",
 			"link" : "http://www.meetup.com/theTransistor/events/224768176/" 
+		},
+		{
+			"group" : "Utah County Data Science Meetup",
+			"event_name" : "Data Science Weekly Meetup",
+			"link" : "http://www.meetup.com/Utah-County-Data-Science-Meetup/events/hhwsjlytmbnb/" 
 		}] 
 	},
 	"11" : 
 	{ 
+		"12pm" : [{
+			"group" : "theTransistor and 801 LABS",
+			"event_name" : "Work from the Hacker Space",
+			"link" : "http://www.meetup.com/theTransistor/events/224812057/" 
+		}]
 	},
 	"12" :
 	{ 
+		"9am" : [{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "Conference: WordCamp SLC 2015",
+			"link" : "http://www.meetup.com/utahwp/events/223634604/" 
+		}]
 	},
 	"13" :
 	{  
