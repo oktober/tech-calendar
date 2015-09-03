@@ -210,6 +210,11 @@
 			"group" : "Utah Ruby Users Group (URUG)",
 			"event_name" : "Weekly Hack Night - DRUG",
 			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/224956365/" 
+		},
+		{
+			"group" : "Utah d3.js",
+			"event_name" : "Utah d3.js",
+			"link" : "http://www.meetup.com/Utah-d3-js/events/224647124/" 
 		}] 
 	},
 	"10" : 
@@ -269,6 +274,11 @@
 			"group" : "Utah WordPress Meetup Groups",
 			"event_name" : "Conference: WordCamp SLC 2015",
 			"link" : "http://www.meetup.com/utahwp/events/223634604/" 
+		}],
+		"1pm" : [{
+			"group" : "World Tech Academy",
+			"event_name" : "Build Your Own Website!",
+			"link" : "http://www.meetup.com/Build-Your-Own-Website-Tutorial-Free/events/225029005/" 
 		}]
 	},
 	"13" :
@@ -331,6 +341,11 @@
 			"group" : "Salt Lake AWS",
 			"event_name" : "AWS in September",
 			"link" : "http://www.meetup.com/Salt-Lake-AWS/events/224113434/" 
+		},
+		{
+			"group" : "Big Data Utah",
+			"event_name" : "UHUG - Big Data Topics",
+			"link" : "http://www.meetup.com/BigDataUtah/events/225091209/" 
 		}],
 		"7pm" : [{
 			"group" : "Wasatch Python Developers",
@@ -346,6 +361,11 @@
 	"17" :
 	{ 
 		
+		"12pm" : [{
+			"group" : "Big Data Utah",
+			"event_name" : "Hadoop Lunch at Adobe",
+			"link" : "http://www.meetup.com/BigDataUtah/events/225091282/" 
+		}],
 		"5:30pm" : [{
 			"group" : "Utah Java Users Group",
 			"event_name" : "Security Night!",
