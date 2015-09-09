@@ -541,6 +541,11 @@
 			"group" : "Lunch 'n Go(lang)",
 			"event_name" : "Shared Libraries with Go",
 			"link" : "http://www.meetup.com/Lunch-n-Go-lang/events/223789545/" 
+		},
+		{
+			"group" : "OpenStack Utah",
+			"event_name" : "How Adobe Built an OpenStack Cloud",
+			"link" : "http://www.meetup.com/openstack-utah/events/224939158/" 
 		}],
 		"6pm" : [{
 			"group" : "AngularJS Utah",
@@ -593,6 +598,11 @@
 			"group" : "801 Labs/The Transistor",
 			"event_name" : "Practical Malware Analysis Group Night",
 			"link" : "http://www.meetup.com/theTransistor/events/qmlxpkytmblc/" 
+		},
+		{
+			"group" : "Google Developer Group of Utah",
+			"event_name" : "Web Games with Dart and CSS Flexbox: Ultimate Tic-Tac-Toe",
+			"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/225236580/" 
 		}]
 	},
 	"29" :
