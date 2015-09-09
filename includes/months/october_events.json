@@ -20,6 +20,11 @@
 	},
 	"6" : 
 	{ 
+		"6pm" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "U of U Workshop: Ruby - The Eloquent Language",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/225213949/" 
+		}]
 	},
 	"7" : 
 	{ 
@@ -31,6 +36,11 @@
 	},
 	"8" : 
 	{ 
+		"10:30am" : [{
+			"group" : "Utah Salesforce Developer Group",
+			"event_name" : "October Salesforce DG Meetup",
+			"link" : "http://www.meetup.com/Utah-Salesforce-Developer-User-Group/events/225202240/" 
+		}]
 	},
 	"9" : 
 	{
@@ -67,6 +77,11 @@
 	},
 	"20" :
 	{ 
+		"6pm" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "U of U Workshops: Drones Lab - Build Your Own Drone",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/225214044/" 
+		}]
 	},
 	"21" :
 	{ 
@@ -88,6 +103,11 @@
 	},
 	"27" :
 	{ 
+		"6pm" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "U of U Workshops: Rails - Fast Deployment for Startups",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/225214156/" 
+		}]
 	},
 	"28" :
 	{ 

@@ -299,6 +299,11 @@
 			"event_name" : "OpenSaltLake Hangout",
 			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflytmbtb/" 
 		}],
+		"6pm" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "U of U Skill Workshops: Bootstrapping - Mobile Web Made Easy",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/225212163/" 
+		}],
 		"6:30pm" : [{
 			"group" : "SLC JS Learners",
 			"event_name" : "Monthly Meetup",
@@ -346,6 +351,11 @@
 			"group" : "Big Data Utah",
 			"event_name" : "UHUG - Big Data Topics",
 			"link" : "http://www.meetup.com/BigDataUtah/events/225091209/" 
+		},
+		{
+			"group" : "Make Salt Lake",
+			"event_name" : "ESP8266 Microcontroller SIG",
+			"link" : "http://www.meetup.com/MakeSaltLake/events/225134778/" 
 		}],
 		"7pm" : [{
 			"group" : "Wasatch Python Developers",
@@ -391,6 +401,11 @@
 			"event_name" : "801 Labs Hangout Night",
 			"link" : "http://www.meetup.com/theTransistor/events/225003627/" 
 		}],
+		"6:30pm" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "Beginner Ruby Workshop Series",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/225125865/" 
+		}],
 		"7pm" : [{
 			"group" : "801 Labs/The Transistor",
 			"event_name" : "Lock Picking Night",
@@ -429,8 +444,8 @@
 		}],
 		"11am" : [{
 			"group" : "Ogden DIY Robotic Makers Meetup",
-			"event_name" : "1st Meetup For Our Group",
-			"link" : "http://www.meetup.com/Ogden-DIY-Robotic-Makers-Meetup/events/bdqsjlytmbzb/" 
+			"event_name" : "2nd Meetup For Our Group",
+			"link" : "http://www.meetup.com/Ogden-DIY-Robotic-Makers-Meetup/events/225199159/" 
 		}],
 		"3pm" : [{
 			"group" : "Utah Bitcoin Community",
@@ -455,6 +470,11 @@
 			"group" : "ReactJS Utah",
 			"event_name" : "ReactJS Utah Monthly Meetup",
 			"link" : "http://www.meetup.com/ReactJS-Utah/events/221717971/" 
+		},
+		{
+			"group" : "DevPoint Labs",
+			"event_name" : "U of U Workshops: Raspberry Pi 101",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/225213749/" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
@@ -503,6 +523,11 @@
 			"group" : "Lehi Developers User Group",
 			"event_name" : "Learn, Hack, Socialize",
 			"link" : "http://www.meetup.com/Lehi-Developers-User-Group/events/224217932/" 
+		},
+		{
+			"group" : "DevPoint Labs",
+			"event_name" : "DevPoint Labs Info Session",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/225126106/" 
 		}],
 		"12pm" : [{
 			"group" : "Utah Ruby Users Group (URUG)",
@@ -572,10 +597,20 @@
 	},
 	"29" :
 	{ 
+		"6pm" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "U of U Workshops: JavaScript",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/225213831/" 
+		}],
 		"6:30pm" : [{
 			"group" : "Open Salt Lake",
 			"event_name" : "OpenSaltLake Hangout",
 			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflytmbmc/" 
+		},
+		{
+			"group" : "DevPoint Labs",
+			"event_name" : "Beginner JavaScript Workshop Series",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/225126183/" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
