@@ -59,6 +59,11 @@
 	},
 	"14" :
 	{
+		"6pm" : [{
+			"group" : "Utah C++ Programmers",
+			"event_name" : "More Modern C++",
+			"link" : "http://www.meetup.com/Utah-Cpp-Programmers/events/224870515/" 
+		}]
 	},
 	"15" :
 	{ 

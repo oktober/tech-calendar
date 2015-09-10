@@ -224,6 +224,11 @@
 			"event_name" : "You're Invited! AppDynamics Salt Lake City User Group, September 10th!",
 			"link" : "http://www.meetup.com/SLC-AppDynamics-User-Group/events/219985448/" 
 		}],
+		"3pm" : [{
+			"group" : "Utah SQL Server Group",
+			"event_name" : "Utah County SQL Server Users Group September Meeting",
+			"link" : "http://www.meetup.com/Utah-SQL-Server-Group/events/225238844/" 
+		}],
 		"5:45pm" : [{
 			"group" : "Magento Users Group",
 			"event_name" : "Topic TBD",
@@ -425,6 +430,11 @@
 			"group" : "Utah County Data Science Meetup",
 			"event_name" : "Data Science Weekly Meetup",
 			"link" : "http://www.meetup.com/Utah-County-Data-Science-Meetup/events/hhwsjlytmbwb/" 
+		},
+		{
+			"group" : "Girl Develop It Provo",
+			"event_name" : "{Provo} Domains, Hosting, HTML.....OH MY!!!",
+			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/225126770/" 
 		}]
 	},
 	"18" :
@@ -529,7 +539,7 @@
 			"event_name" : "DevPoint Labs Info Session",
 			"link" : "http://www.meetup.com/DevPoint-Labs/events/225126106/" 
 		}],
-		"12pm" : [{
+		"7pm" : [{
 			"group" : "Utah Ruby Users Group (URUG)",
 			"event_name" : "Weekly Hack Night - DRUG",
 			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/wszhhlytmbfc/" 
