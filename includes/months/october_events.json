@@ -5,6 +5,11 @@
 			"group" : "Big Data Utah",
 			"event_name" : "Think Big Analytics - Quarterly Meeting - Spark and Networking!",
 			"link" : "http://www.meetup.com/BigDataUtah/events/225091650/" 
+		}],
+		"7pm" : [{
+			"group" : "Girl Develop It Provo",
+			"event_name" : "{Provo} HACK NIGHT",
+			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/225128592/" 
 		}]
 	},
 	"2" : 
@@ -53,6 +58,11 @@
 	},
 	"12" :
 	{ 
+		"3pm" : [{
+			"group" : "Utah SQL Server Group",
+			"event_name" : "SLC SQL Server User Group October Meeting",
+			"link" : "http://www.meetup.com/Utah-SQL-Server-Group/events/225334563/" 
+		}]
 	},
 	"13" :
 	{  

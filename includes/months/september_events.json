@@ -383,7 +383,7 @@
 		}],
 		"5:30pm" : [{
 			"group" : "Utah Java Users Group",
-			"event_name" : "Security Night!",
+			"event_name" : "Security Roundup! Web App Security, Full Stack Security, Auth Models, and more!",
 			"link" : "http://www.meetup.com/Utah-Java-Users-Group/events/223750302/" 
 		}],
 		"6pm" : [{
@@ -557,6 +557,11 @@
 			"event_name" : "How Adobe Built an OpenStack Cloud",
 			"link" : "http://www.meetup.com/openstack-utah/events/224939158/" 
 		}],
+		"4:30pm" : [{
+			"group" : "University of Utah Business & Technology Speaker Series",
+			"event_name" : "Speaker: Jeremy Morris, Insights & Innovation Lead @ Domo, Inc.",
+			"link" : "http://www.meetup.com/UtahTech/events/225374089/" 
+		}],
 		"6pm" : [{
 			"group" : "AngularJS Utah",
 			"event_name" : "Salt Lake Valley AngularJS Meetup",
@@ -566,6 +571,11 @@
 			"group" : "801 Labs/The Transistor",
 			"event_name" : "801 Labs Hangout Night",
 			"link" : "http://www.meetup.com/theTransistor/events/dglgzhytmbgc/" 
+		},
+		{
+			"group" : "Utah Software Engineering Managers",
+			"event_name" : "Managing your career as a manager",
+			"link" : "http://www.meetup.com/Utah-Software-Engineering-Managers/events/225395864/" 
 		}],
 		"7pm" : [{
 			"group" : "OpenStack Utah",
@@ -581,6 +591,11 @@
 			"group" : "801 Labs/The Transistor",
 			"event_name" : "Web Application Hacking Night",
 			"link" : "http://www.meetup.com/theTransistor/events/nsgcklytmbgc/" 
+		},
+		{
+			"group" : "Utah Drupal Users Group",
+			"event_name" : "September Salt Lake Meetup",
+			"link" : "http://www.meetup.com/Utah-Drupal-Users-Group/events/225392754/" 
 		}]
 	},
 	"25" :
@@ -598,6 +613,11 @@
 	},
 	"26" :
 	{ 
+		"9am" : [{
+			"group" : "Urban Technology Enthusiasts of Utah",
+			"event_name" : "young Urban Technology Enthusiasts of Utah",
+			"link" : "http://www.meetup.com/UtahTechEnthusiasts/events/224634050/" 
+		}]
 	},
 	"27" :
 	{ 
@@ -617,6 +637,11 @@
 	},
 	"29" :
 	{ 
+		"5:30pm" : [{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "Speed Issues & Resolutions",
+			"link" : "http://www.meetup.com/utahwp/events/225304021/" 
+		}],
 		"6pm" : [{
 			"group" : "DevPoint Labs",
 			"event_name" : "U of U Workshops: JavaScript",
