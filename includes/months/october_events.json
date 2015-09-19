@@ -4,7 +4,8 @@
 		"12pm" : [{
 			"group" : "SaltStack Salt Lake City",
 			"event_name" : "Managing Clusters with Salt Proxy Minions",
-			"link" : "http://www.meetup.com/SaltStack-user-group-Salt-Lake-City/events/225351838/" 
+			"link" : "http://www.meetup.com/SaltStack-user-group-Salt-Lake-City/events/225351838/",
+			"category" : "os" 
 		}],
 		"2pm" : [{
 			"group" : "Agile Roundtable",

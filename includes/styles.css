@@ -82,6 +82,13 @@ section.first {
 	/*border: 1px solid purple;*/
 }
 
+/** Category Styles **/
+section.os a{
+	color: #FF9400;
+
+	/*border: 1px solid purple;*/
+}
+
 section.last_row {
 	margin-bottom: 50px;
 }

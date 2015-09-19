@@ -17,7 +17,10 @@
 
 	<section class="container">
 		<section class="row">
-			<div class="span12">
+			<div class="span1" style="border: 1px solid red;">
+			</div>
+
+			<div class="span11">
 			<?php
 				date_default_timezone_set('America/Denver');
 				$valid_months = array('january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december');
@@ -80,7 +83,7 @@
 				  		if(i === 0){ //only add this formatting (class) for the first event at that time
 				  			items += ' first';
 				  		}
-				  		items += '"><a href="'+event_object[i].link+'" target="_blank" data-toggle="tooltip" title="'+event_object[i].group+'">'+event_object[i].event_name+'</a></section>';
+				  		items += ' '+event_object[i].category+'"><a href="'+event_object[i].link+'" target="_blank" data-toggle="tooltip" title="'+event_object[i].group+'">'+event_object[i].event_name+'</a></section>';
 				  	}
 		  		});
 		  		items += '</section></td>';
