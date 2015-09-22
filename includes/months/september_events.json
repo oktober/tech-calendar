@@ -621,6 +621,11 @@
 	},
 	"27" :
 	{ 
+		"11am" : [{
+			"group" : "Girl Develop It SLC",
+			"event_name" : "{SLC} PseudoCode & Coffee",
+			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/225503901/" 
+		}]
 	},
 	"28" :
 	{ 
@@ -684,6 +689,11 @@
 			"group" : "Utah Ruby Users Group (URUG)",
 			"event_name" : "Weekly Hack Night - DRUG",
 			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/wszhhlytmbnc/" 
+		},
+		{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "Let's Start a Membership Site!",
+			"link" : "http://www.meetup.com/utahwp/events/225432656/" 
 		}]
 	}
 }
