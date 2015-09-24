@@ -68,13 +68,12 @@ $(function () {
 		**/
 		$('span.categories').click(function(){
 			event.preventDefault();
-			var class_array = $(this).attr('class').split(" ");
 
+			var class_array = $(this).attr('class').split(" ");
 			var category = class_array[1];
 			var is_active = class_array[2];
 
-			console.log(is_active);
-
+			//this currently only allows one category at a time to display
 			if(is_active === 'active'){
 
 				$("section.event_name").each(function(index){
@@ -87,16 +86,21 @@ $(function () {
 
 			}else{
 
+				$("span.categories").each(function(){
+					$(this).removeClass("active");
+				});
+
 				$("section.event_name").each(function(index){
+					$(this).show();
+					$(this).prev('section.time').show();
+
 					var classes = $(this).attr('class').split(" ");
-					console.log(classes);
-					console.log(jQuery.inArray(category, classes));
 
 					if(jQuery.inArray(category, classes) < 0){
 						$(this).hide();
 						$(this).prev('section.time').hide();
 					}
-				})
+				});
 				//add the active class to this category
 				$(this).addClass("active");
 

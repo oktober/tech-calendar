@@ -1,0 +1,45 @@
+
+/** Category Styles **/
+span.categories a{
+	cursor: pointer;
+	text-decoration: none;
+	margin:0 10px;
+}
+span.categories.active a{
+	font-weight: bold;
+}
+
+span.dotnet a{
+	color: #677D87;
+}
+span.dotnet.active a{
+	color: #06618A;
+}
+
+span.agile a{
+	color: #CF914C;
+}
+span.agile.active a{
+	color: #DB7400;
+}
+
+span.cplusplus a{
+	color: #709175;
+}
+span.cplusplus.active a{
+	color: #259136;
+}
+
+span.data a{
+	color: #7A5674;
+}
+span.data.active a{
+	color: #801D70;
+}
+
+span.db a{
+	color: #87785B;
+}
+span.db.active a{
+	color: #916C25;
+}

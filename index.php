@@ -10,6 +10,7 @@
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="includes/styles.css?ver=1.1">
+	<link rel="stylesheet" href="includes/category_styles.css">
 </head>
 
 <body>
@@ -19,12 +20,12 @@
 		<section class="row">
 			<div class="col-md-12" style="border: 1px solid red;">
 				<span class="categories dotnet"><a>.NET</a></span>
-				<span>Agile</span>
-				<span>C++</span>
-				<span>Data Science</span>
-				<span>Databases</span>
+				<span class="categories agile"><a>Agile</a></span>
+				<span class="categories cplusplus"><a>C++</a></span>
+				<span class="categories data"><a>Data Science</a></span>
+				<span class="categories db"><a>Databases</a></span>
 <!--Development-->
-				<span class="categories devops"><a>DevOps</a></span>
+				<!--<span class="categories devops"><a>DevOps</a></span>-->
 <!--Drupal
 Elixir
 Hackerspace
@@ -32,7 +33,7 @@ Java
 Javascript
 Management
 Mobile Development-->
-				<span class="categories os"><a>Open Source</a></span>
+				<!--<span class="categories os"><a>Open Source</a></span>-->
 <!--PHP
 Python
 Ruby

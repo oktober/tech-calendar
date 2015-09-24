@@ -52,6 +52,7 @@ th {
 	text-align: center;
 	font-size: 1.6rem;
 	background-color: #BFBFBF;
+	color: #323232;
 }
 
 td {
@@ -81,24 +82,6 @@ section.event_name {
 }
 section.first {
 	margin: 0px 0 0px 20px;
-
-	/*border: 1px solid purple;*/
-}
-
-/** Category Styles **/
-span.categories a{
-	cursor: pointer;
-	text-decoration: none;
-}
-span.devops a{
-	color: #FF9400;
-
-	/*border: 1px solid purple;*/
-}
-span.os a{
-	color: #FF9400;
-	cursor: pointer;
-	text-decoration: none;
 
 	/*border: 1px solid purple;*/
 }
