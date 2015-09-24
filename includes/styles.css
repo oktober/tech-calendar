@@ -12,7 +12,10 @@ body {
 
 a {
     display: inline-block;
-	color: #333;
+	color: #323232;
+}
+a:hover, a:focus, a:active {
+	color: #7D7D7D;
 }
 
 a.inactive_link {
@@ -27,7 +30,6 @@ i.fa {
 	font-size: 3rem;
 	margin-top: 13px;
 }
-
 i.fa-arrow-right {
 	text-align: right;
 }
@@ -39,6 +41,7 @@ h1.month_name {
 	text-align: center;
 	font-size: 5rem;
 	margin: 0;
+	color: #363636;
 }
 
 .table {
@@ -83,8 +86,19 @@ section.first {
 }
 
 /** Category Styles **/
-section.os a{
+span.categories a{
+	cursor: pointer;
+	text-decoration: none;
+}
+span.devops a{
 	color: #FF9400;
+
+	/*border: 1px solid purple;*/
+}
+span.os a{
+	color: #FF9400;
+	cursor: pointer;
+	text-decoration: none;
 
 	/*border: 1px solid purple;*/
 }
