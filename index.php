@@ -27,6 +27,7 @@
 				<span class="categories dotnet"><a>.NET</a></span>
 				<span class="categories agile"><a>Agile</a></span>
 				<span class="categories cplusplus"><a>C++</a></span>
+				<span class="categories conf"><a>Conferences</a></span>
 				<span class="categories data"><a>Data Science</a></span>
 				<span class="categories db"><a>Databases</a></span>
 				<span class="categories dev"><a>Development</a></span>
@@ -47,7 +48,7 @@
 				<span class="categories security"><a>Security</a></span>
 				<span class="categories saas"><a>Software as a Service</a></span>
 				<span class="categories sql"><a>SQL</a></span>
-				<span class="categories tech"><a>Tech</a></span>
+				<span class="categories tech"><a>Tech (General)</a></span>
 				<span class="categories test"><a>Test Automation/QA</a></span>
 			</div>
 		</section>
