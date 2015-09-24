@@ -9,37 +9,71 @@ span.categories.active a{
 	font-weight: bold;
 }
 
-span.dotnet a{
+span.categories:nth-child(5n+1) a{
 	color: #677D87;
 }
-span.dotnet.active a{
+span.categories:nth-child(5n+1) a:hover,
+span.categories:nth-child(5n+1) a:focus,
+span.categories:nth-child(5n+1) a:active{
+	color: #06618A;
+	text-decoration: underline;
+}
+span.categories:nth-child(5n+1).active a{
 	color: #06618A;
 }
 
-span.agile a{
+/** **/
+span.categories:nth-child(5n+2) a{
 	color: #CF914C;
 }
-span.agile.active a{
+span.categories:nth-child(5n+2) a:hover,
+span.categories:nth-child(5n+2) a:focus,
+span.categories:nth-child(5n+2) a:active{
+	color: #DB7400;
+	text-decoration: underline;
+}
+span.categories:nth-child(5n+2).active a{
 	color: #DB7400;
 }
 
-span.cplusplus a{
+/** **/
+span.categories:nth-child(5n+3) a{
 	color: #709175;
 }
-span.cplusplus.active a{
+span.categories:nth-child(5n+3) a:hover,
+span.categories:nth-child(5n+3) a:focus,
+span.categories:nth-child(5n+3) a:active{
+	color: #259136;
+	text-decoration: underline;
+}
+span.categories:nth-child(5n+3).active a{
 	color: #259136;
 }
 
-span.data a{
+/** **/
+span.categories:nth-child(5n+4) a{
 	color: #7A5674;
 }
-span.data.active a{
+span.categories:nth-child(5n+4) a:hover,
+span.categories:nth-child(5n+4) a:focus,
+span.categories:nth-child(5n+4) a:active{
+	color: #801D70;
+	text-decoration: underline;
+}
+span.categories:nth-child(5n+4).active a{
 	color: #801D70;
 }
 
-span.db a{
+/** **/
+span.categories:nth-child(5n+5) a{
 	color: #87785B;
 }
-span.db.active a{
+span.categories:nth-child(5n+5) a:hover,
+span.categories:nth-child(5n+5) a:focus,
+span.categories:nth-child(5n+5) a:active{
+	color: #916C25;
+	text-decoration: underline;
+}
+span.categories:nth-child(5n+5).active a{
 	color: #916C25;
 }

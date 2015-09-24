@@ -5,7 +5,7 @@
 			"group" : "SaltStack Salt Lake City",
 			"event_name" : "Managing Clusters with Salt Proxy Minions",
 			"link" : "http://www.meetup.com/SaltStack-user-group-Salt-Lake-City/events/225351838/",
-			"category" : "os cloud devops" 
+			"category" : "os saas devops" 
 		}],
 		"2pm" : [{
 			"group" : "Agile Roundtable",
@@ -152,7 +152,7 @@
 			"group" : "Utah Elixir",
 			"event_name" : "Utah Elixir Monthly Meetup",
 			"link" : "http://www.meetup.com/utah-elixir/events/224633468/",
-			"category" : "elixir" 
+			"category" : "func" 
 		}],
 		"7pm" : [{
 			"group" : "Python at the Point",

@@ -24,26 +24,24 @@
 				<span class="categories cplusplus"><a>C++</a></span>
 				<span class="categories data"><a>Data Science</a></span>
 				<span class="categories db"><a>Databases</a></span>
-<!--Development-->
-				<!--<span class="categories devops"><a>DevOps</a></span>-->
-<!--Drupal
-Elixir
-Hackerspace
-Java
-Javascript
-Management
-Mobile Development-->
-				<!--<span class="categories os"><a>Open Source</a></span>-->
-<!--PHP
-Python
-Ruby
-Salesforce
-Scala
-Security
-Software as a Service
-SQL
-Tech
-Test Automation/QA-->
+				<span class="categories dev"><a>Development</a></span>
+				<span class="categories devops"><a>DevOps</a></span>
+				<span class="categories func"><a>Functional</a></span>
+				<span class="categories hack"><a>Hackerspace</a></span>
+				<span class="categories java"><a>Java</a></span>
+				<span class="categories js"><a>Javascript</a></span>
+				<span class="categories mgmt"><a>Management</a></span>
+				<span class="categories mobile"><a>Mobile Development</a></span>
+				<span class="categories os"><a>Open Source</a></span>
+				<span class="categories php"><a>PHP</a></span>
+				<span class="categories python"><a>Python</a></span>
+				<span class="categories ruby"><a>Ruby</a></span>
+				<span class="categories sales"><a>Salesforce</a></span>
+				<span class="categories security"><a>Security</a></span>
+				<span class="categories saas"><a>Software as a Service</a></span>
+				<span class="categories sql"><a>SQL</a></span>
+				<span class="categories tech"><a>Tech</a></span>
+				<span class="categories test"><a>Test Automation/QA</a></span>
 			</div>
 		</section>
 		
