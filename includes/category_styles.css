@@ -1,9 +1,20 @@
 
 /** Category Styles **/
+h2#filter_text{
+	font-size: 1.2em;
+	margin-top: 0;
+}
+div.category_row:nth-child(2){
+	margin-bottom: 10px 
+}
+
 span.categories a{
 	cursor: pointer;
 	text-decoration: none;
 	margin:3px 10px;
+}
+span.categories:first-child a{
+	margin-left:0;
 }
 span.categories.active a{
 	font-weight: bold;

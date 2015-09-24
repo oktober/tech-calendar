@@ -18,7 +18,12 @@
 
 	<section class="container">
 		<section class="row">
-			<div class="col-md-12" style="border: 1px solid red;">
+			<div class="col-md-12">
+				<h2 id="filter_text">Filter events by category</p>
+			</div>
+		</section>
+		<section class="row">
+			<div class="col-md-12 category_row">
 				<span class="categories dotnet"><a>.NET</a></span>
 				<span class="categories agile"><a>Agile</a></span>
 				<span class="categories cplusplus"><a>C++</a></span>
@@ -31,6 +36,8 @@
 				<span class="categories java"><a>Java</a></span>
 				<span class="categories js"><a>Javascript</a></span>
 				<span class="categories mgmt"><a>Management</a></span>
+			</div>
+			<div class="col-md-12 category_row">	
 				<span class="categories mobile"><a>Mobile Development</a></span>
 				<span class="categories os"><a>Open Source</a></span>
 				<span class="categories php"><a>PHP</a></span>
