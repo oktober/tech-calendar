@@ -48,9 +48,11 @@ $(function () {
 		  			items += '</tr><tr>';
 		  			day_counter = 0;
 		  		}
+		  		console.log(day_counter);
 		  	});
+
 	  		if(day_counter < 7) { //if there are days left in the week, make them empty
-	  			while(day_counter < 7){
+	  			while(day_counter > 0 && day_counter < 7){ //the 0 accounts for months that end on a Saturday
 			  		items += '<td></td>';
 			  		day_counter++;
 	  			}

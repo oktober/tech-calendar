@@ -3,7 +3,7 @@
 span.categories a{
 	cursor: pointer;
 	text-decoration: none;
-	margin:0 10px;
+	margin:3px 10px;
 }
 span.categories.active a{
 	font-weight: bold;
