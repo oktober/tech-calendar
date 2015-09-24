@@ -48,7 +48,6 @@ $(function () {
 		  			items += '</tr><tr>';
 		  			day_counter = 0;
 		  		}
-		  		console.log(day_counter);
 		  	});
 
 	  		if(day_counter < 7) { //if there are days left in the week, make them empty
