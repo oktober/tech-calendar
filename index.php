@@ -54,7 +54,6 @@
 		</section>
 		
 		<section class="row">
-
 			<div class="col-md-12">
 			<?php
 				date_default_timezone_set('America/Denver');
@@ -71,13 +70,15 @@
 		</section>
 
 		<section class="row">
-			<footer>
-				<h4>Welcome to the Utah Tech Calendar</h4> 
-				<p>Our goal in creating this calendar, was to make a one-stop shop where you can find all the local tech community events (currently in the Wasatch Front area).</p>
-				<p>This is still in the beginning stages, so we hope you'll forgive the lack of tools & basic functionality at the moment.</p>
-				<p>Thank you for your patience and if you like it, please, tell your friends!</p>
-				<p id="copyright">&copy; Techie Grit 2015</p>
-			</footer>
+			<div class="col-md-12">
+				<footer>
+					<h4>Welcome to the Utah Tech Calendar</h4> 
+					<p class="bold">Don't see your event? Send your group name, event name, & url to techiegrit AT gmail DAUT com</p>
+					<p>Our goal in creating this calendar, was to make a one-stop shop where you can find all the local tech community events (currently in the Wasatch Front area).<br>This is still in the beginning stages, so we hope you'll forgive the lack of tools & basic functionality at the moment.</p>
+					<p>Thank you for your patience and if you like it, please, tell your friends!</p>
+					<p id="copyright">&copy; Techie Grit 2015</p>
+				</footer>
+			</div>
 		</section>
 	</section>
 

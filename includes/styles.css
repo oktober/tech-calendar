@@ -2,6 +2,10 @@ body {
 	margin: 20px auto;
 }
 
+.bold{
+	font-weight: bold;
+}
+
 #month_header{
 	width: 100%;
 	display: box;
