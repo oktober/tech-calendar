@@ -103,6 +103,12 @@
 	},
 	"7" : 
 	{ 
+		"11:30am" : [{
+			"group" : "Girl Develop It SLC",
+			"event_name" : "{SLC} Lunch Break",
+			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/225536149/",
+			"category" : "dev tech" 
+		}],
 		"6pm" : [{
 			"group" : "Utah Software Craftsmanship",
 			"event_name" : "UtahSC Meeting",
@@ -326,6 +332,12 @@
 			"event_name" : "Work from the Hacker Space",
 			"link" : "http://www.meetup.com/theTransistor/events/mlczflytnbvb/",
 			"category" : "hack"  
+		}],
+		"7pm" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "Rails Girls - Free Coding Workshop for Women",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/225686922/",
+			"category" : "ruby dev hack"  
 		}]
 	},
 	"17" :
@@ -371,7 +383,7 @@
 		}],
 		"6:30pm" : [{
 			"group" : "SLC JS Learners",
-			"event_name" : "Monthly Meetup",
+			"event_name" : "Front-end JavaScript: Building MadLibs with Alvaro Gómez",
 			"link" : "http://www.meetup.com/SLC-JS-Learners/events/224884774/",
 			"category" : "js"  
 		}],
@@ -419,6 +431,12 @@
 			"event_name" : "Weekly Hack Night - DRUG",
 			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/wszhhlytnbcc/",
 			"category" : "ruby"  
+		},
+		{
+			"group" : "Big Data Utah",
+			"event_name" : "UHUG Meeting at OC Tanner",
+			"link" : "http://www.meetup.com/BigDataUtah/events/225587561/",
+			"category" : "data"  
 		}]
 	},
 	"22" :
