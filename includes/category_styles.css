@@ -1,0 +1,90 @@
+
+/** Category Styles **/
+h2#filter_text{
+	font-size: 1.2em;
+	margin-top: 0;
+}
+div.category_row:nth-child(2){
+	margin-bottom: 10px 
+}
+
+span.categories a{
+	cursor: pointer;
+	text-decoration: none;
+	margin:3px 10px;
+}
+span.categories:first-child a{
+	margin-left:0;
+}
+span.categories.active a{
+	font-weight: bold;
+}
+
+span.categories:nth-child(5n+1) a{
+	color: #677D87;
+}
+span.categories:nth-child(5n+1) a:hover,
+span.categories:nth-child(5n+1) a:focus,
+span.categories:nth-child(5n+1) a:active{
+	color: #06618A;
+	text-decoration: underline;
+}
+span.categories:nth-child(5n+1).active a{
+	color: #06618A;
+}
+
+/** **/
+span.categories:nth-child(5n+2) a{
+	color: #CF914C;
+}
+span.categories:nth-child(5n+2) a:hover,
+span.categories:nth-child(5n+2) a:focus,
+span.categories:nth-child(5n+2) a:active{
+	color: #DB7400;
+	text-decoration: underline;
+}
+span.categories:nth-child(5n+2).active a{
+	color: #DB7400;
+}
+
+/** **/
+span.categories:nth-child(5n+3) a{
+	color: #709175;
+}
+span.categories:nth-child(5n+3) a:hover,
+span.categories:nth-child(5n+3) a:focus,
+span.categories:nth-child(5n+3) a:active{
+	color: #259136;
+	text-decoration: underline;
+}
+span.categories:nth-child(5n+3).active a{
+	color: #259136;
+}
+
+/** **/
+span.categories:nth-child(5n+4) a{
+	color: #7A5674;
+}
+span.categories:nth-child(5n+4) a:hover,
+span.categories:nth-child(5n+4) a:focus,
+span.categories:nth-child(5n+4) a:active{
+	color: #801D70;
+	text-decoration: underline;
+}
+span.categories:nth-child(5n+4).active a{
+	color: #801D70;
+}
+
+/** **/
+span.categories:nth-child(5n+5) a{
+	color: #87785B;
+}
+span.categories:nth-child(5n+5) a:hover,
+span.categories:nth-child(5n+5) a:focus,
+span.categories:nth-child(5n+5) a:active{
+	color: #916C25;
+	text-decoration: underline;
+}
+span.categories:nth-child(5n+5).active a{
+	color: #916C25;
+}
