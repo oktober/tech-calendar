@@ -73,6 +73,12 @@
 	},
 	"5" : 
 	{ 
+		"7pm" : [{
+			"group" : "theTransistor and 801 LABS",
+			"event_name" : "SLC Linux - Learn about Kali 2.0",
+			"link" : "http://www.meetup.com/theTransistor/events/225757572/",
+			"category" : "os hack dev" 
+		}]
 	},
 	"6" : 
 	{ 
