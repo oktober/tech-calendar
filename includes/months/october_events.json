@@ -208,6 +208,18 @@
 	},
 	"10" : 
 	{
+		"9am" : [{
+			"group" : "World Tech Academy",
+			"event_name" : "Learn how to build your own website!",
+			"link" : "http://www.meetup.com/Build-Your-Own-Website-Tutorial-Free/events/225849611/",
+			"category" : "dev" 
+		}],
+		"12pm" : [{
+			"group" : "SLC Maker Faire",
+			"event_name" : "SLC Maker Faire",
+			"link" : "http://www.slcmakerfaire.com/",
+			"category" : "conf tech" 
+		}]
 	},
 	"11" : 
 	{ 
@@ -321,15 +333,15 @@
 	{ 
 		"5:30pm" : [{
 			"group" : "Utah Java Users Group",
-			"event_name" : "Internet of Things / Mongo DB",
+			"event_name" : "Java Wearables / IoT Scale Data Arch",
 			"link" : "http://www.meetup.com/Utah-Java-Users-Group/events/223750338/",
-			"category" : "java"  
+			"category" : "java dev"  
 		}],
 		"6pm" : [{
 			"group" : "Python Utah North",
 			"event_name" : "Accessing C Libraries with Dirk Howard",
 			"link" : "http://www.meetup.com/Python-Utah-North/events/224083876/",
-			"category" : "python"  
+			"category" : "python dev"  
 		},
 		{
 			"group" : "Utah Mobile .NET User Group",
@@ -384,6 +396,12 @@
 			"event_name" : "Utah Bitcoin",
 			"link" : "http://www.meetup.com/Utah-Bitcoin-Community/events/dpttfkytnbwb/",
 			"category" : "tech"  
+		},
+		{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "Meetup with Automattic",
+			"link" : "http://www.meetup.com/utahwp/events/225850706/",
+			"category" : "php"  
 		}]
 	},
 	"18" :
@@ -572,7 +590,7 @@
 			"group" : "Utah Node.js Ninjas - SLC",
 			"event_name" : "SLC - Presentations and Discussion",
 			"link" : "http://www.meetup.com/utahnodejs/events/225395611/",
-			"category" : "js"  
+			"category" : "dev js"  
 		},
 		{
 			"group" : "SLC Front-end Web Developers",
