@@ -177,6 +177,12 @@
 			"event_name" : "Data Science Weekly Meetup",
 			"link" : "http://www.meetup.com/Utah-County-Data-Science-Meetup/events/hhwsjlytnblb/",
 			"category" : "data" 
+		},
+		{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "UV Meetup: Writing Compelling Content",
+			"link" : "http://www.meetup.com/utahwp/events/225786165/",
+			"category" : "dev php" 
 		}]
 	},
 	"9" : 
