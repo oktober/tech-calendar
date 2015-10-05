@@ -92,14 +92,14 @@ $(function () {
 				});
 
 				$("section.event_name").each(function(index){
-					$(this).show();
-					$(this).prev('section.time').show();
+					$(this).hide();
+					$(this).prev('section.time').hide();
 
 					var classes = $(this).attr('class').split(" ");
 
-					if(jQuery.inArray(category, classes) < 0){
-						$(this).hide();
-						$(this).prev('section.time').hide();
+					if(jQuery.inArray(category, classes) >= 0){
+						$(this).show();
+						$(this).prevAll('section.time').first().show(); //this will get the correct time for the event
 					}
 				});
 				//add the active class to this category

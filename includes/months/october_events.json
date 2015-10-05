@@ -73,6 +73,12 @@
 	},
 	"5" : 
 	{ 
+		"7pm" : [{
+			"group" : "theTransistor and 801 LABS",
+			"event_name" : "SLC Linux - Learn about Kali 2.0",
+			"link" : "http://www.meetup.com/theTransistor/events/225757572/",
+			"category" : "os hack dev" 
+		}]
 	},
 	"6" : 
 	{ 
@@ -120,6 +126,12 @@
 			"event_name" : "RethinkDB with McKelly Peart",
 			"link" : "http://www.meetup.com/SLCPython/events/224591454/",
 			"category" : "python" 
+		},
+		{
+			"group" : "Make Salt Lake",
+			"event_name" : "ESP8266 Microcontroller SIG",
+			"link" : "http://www.meetup.com/MakeSaltLake/events/225713274/",
+			"category" : "tech hack" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Ruby Users Group (URUG)",
@@ -208,6 +220,12 @@
 			"link" : "http://www.meetup.com/Utah-SQL-Server-Group/events/225334563/",
 			"category" : "sql" 
 		}],
+		"6pm" : [{
+			"group" : "Girl Develop It SLC",
+			"event_name" : "{SLC} Web Development Study Group",
+			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/225717937/",
+			"category" : "hack dev" 
+		}],
 		"6:30pm" : [{
 			"group" : "801 Labs/theTransistor",
 			"event_name" : "Practical Malware Analysis Group Night",
@@ -250,7 +268,14 @@
 		{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
 			"event_name" : "Code Night",
-			"link" : "http:/mobile"  
+			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/qwnklkytnbrb/",
+			"category" : "mobile"  
+		},
+		{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "UV.rb October 2015",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/225718610/",
+			"category" : "ruby dev"  
 		}]
 	},
 	"14" :
@@ -281,7 +306,7 @@
 		}],
 		"7pm" : [{
 			"group" : "Utah d3.js",
-			"event_name" : "Utah d3.js",
+			"event_name" : "Maps in d3.js",
 			"link" : "http://www.meetup.com/Utah-d3-js/events/225257453/",
 			"category" : "js"  
 		},
