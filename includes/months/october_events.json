@@ -115,6 +115,12 @@
 			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/225536149/",
 			"category" : "dev tech" 
 		}],
+		"5:30pm" : [{
+			"group" : "Utah Scala Enthusiasts",
+			"event_name" : "October 2015 Meeting",
+			"link" : "http://www.meetup.com/Utah-Scala-Enthusiasts/events/225878129/",
+			"category" : "dev func" 
+		}],
 		"6pm" : [{
 			"group" : "Utah Software Craftsmanship",
 			"event_name" : "UtahSC Meeting",
@@ -203,6 +209,12 @@
 			"group" : "801 Labs/theTransistor",
 			"event_name" : "Work from the Hacker Space",
 			"link" : "http://www.meetup.com/theTransistor/events/mlczflytnbmb/",
+			"category" : "hack" 
+		}],
+		"6pm" : [{
+			"group" : "801 Labs/theTransistor",
+			"event_name" : "DC801 - Brady Bloxham - Red Team Tactics",
+			"link" : "http://www.meetup.com/theTransistor/events/225861838/",
 			"category" : "hack" 
 		}]
 	},
@@ -474,6 +486,12 @@
 			"event_name" : "RethinkDB Utah Monthly meeting",
 			"link" : "http://www.meetup.com/RethinkDB-Utah/events/sswshlytnbcc/",
 			"category" : "db"  
+		},
+		{
+			"group" : "Girl Develop It SLC",
+			"event_name" : "{SLC} **Hack Night**",
+			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/225872302/",
+			"category" : "dev hack"  
 		}],
 		"7pm" : [{
 			"group" : "Utah Ruby Users Group (URUG)",
