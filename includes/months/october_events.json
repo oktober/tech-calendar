@@ -191,12 +191,6 @@
 			"category" : "hack" 
 		},
 		{
-			"group" : "Utah County Data Science Meetup",
-			"event_name" : "Data Science Weekly Meetup",
-			"link" : "http://www.meetup.com/Utah-County-Data-Science-Meetup/events/hhwsjlytnblb/",
-			"category" : "data" 
-		},
-		{
 			"group" : "Utah WordPress Meetup Groups",
 			"event_name" : "UV Meetup: Writing Compelling Content",
 			"link" : "http://www.meetup.com/utahwp/events/225786165/",
@@ -205,6 +199,12 @@
 	},
 	"9" : 
 	{
+		"11:30am" : [{
+			"group" : "LunchJS",
+			"event_name" : "codemods - using programs to transmogrify your programs",
+			"link" : "http://www.meetup.com/lunch-js/events/225900842/",
+			"category" : "dev js" 
+		}],
 		"12pm" : [{
 			"group" : "801 Labs/theTransistor",
 			"event_name" : "Work from the Hacker Space",
@@ -531,6 +531,12 @@
 			"event_name" : "Data Science Weekly Meetup",
 			"link" : "http://www.meetup.com/Utah-County-Data-Science-Meetup/events/hhwsjlytnbdc/",
 			"category" : "data"  
+		},
+		{
+			"group" : "Lambda Lounge Utah",
+			"event_name" : "Utah Haskell - Learn Type Classes by Mob Programming",
+			"link" : "http://www.meetup.com/Lambda-Lounge-Utah/events/225897426/",
+			"category" : "dev func"  
 		}]
 	},
 	"23" :
