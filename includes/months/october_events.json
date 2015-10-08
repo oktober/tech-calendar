@@ -309,6 +309,12 @@
 			"event_name" : "Hack Ogden. Great speakers and free lunch!",
 			"link" : "http://www.meetup.com/HackOgden/events/qgvrjlytnbsb/",
 			"category" : "dev"  
+		},
+		{
+			"group" : "Utah Oracle Users Group",
+			"event_name" : "BI Luncheon: One Version of the Truth",
+			"link" : "http://www.meetup.com/Utah-Oracle-Users-Group/events/225915096/",
+			"category" : "dev db"  
 		}],
 		"6pm" : [{
 			"group" : "Utah C++ Programmers",
@@ -631,7 +637,7 @@
 		{
 			"group" : "Make Salt Lake",
 			"event_name" : "Microcontroller meetup",
-			"link" : "http://www.meetup.com/MakeSaltLake/events/dfxdxkytnblc/",
+			"link" : "http://www.meetup.com/MakeSaltLake/events/225684826/",
 			"category" : "hack"  
 		}],
 		"7pm" : [{
