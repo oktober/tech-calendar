@@ -304,6 +304,12 @@
 	},
 	"14" :
 	{
+		"9am" : [{
+			"group" : "Utah Oracle Users Group",
+			"event_name" : "MySQL Security, High Availability, and Scalability",
+			"link" : "http://www.meetup.com/Utah-Oracle-Users-Group/events/225949496/",
+			"category" : "db"  
+		}],
 		"12pm" : [{
 			"group" : "Hack Ogden",
 			"event_name" : "Hack Ogden. Great speakers and free lunch!",
@@ -465,6 +471,12 @@
 			"event_name" : "Provo Linux User Group (PLUG)",
 			"link" : "http://www.meetup.com/UtahOpenSource/events/225169521/",
 			"category" : "os"  
+		},
+		{
+			"group" : "UtahJS",
+			"event_name" : "UtahJS SLC Meetup",
+			"link" : "http://www.meetup.com/UtahJS/events/225930341/",
+			"category" : "dev js"  
 		}]
 	},
 	"21" :
@@ -654,6 +666,12 @@
 			"event_name" : "801 Labs Hangout Night",
 			"link" : "http://www.meetup.com/theTransistor/events/dglgzhytnbmc/",
 			"category" : "hack"  
+		}],
+		"6:30pm" : [{
+			"group" : "Google Developer Group of Utah",
+			"event_name" : "Polymer Dart Code Lab: Your First Elements",
+			"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/225935824/",
+			"category" : "dev"  
 		}],
 		"7pm" : [{
 			"group" : "Utah County Data Science Meetup",
