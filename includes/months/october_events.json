@@ -357,6 +357,12 @@
 			"event_name" : "Ionic Framework Meet-Up",
 			"link" : "http://www.meetup.com/Ionic-Utah-The-future-of-hybrid-app-dev/events/225880359/",
 			"category" : "mobile dev"  
+		},
+		{
+			"group" : "Google Developer Group of Utah",
+			"event_name" : "GDG Web October",
+			"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/226032574/",
+			"category" : "hack dev"  
 		}]
 	},
 	"15" :
