@@ -351,6 +351,12 @@
 			"event_name" : "Weekly Hack Night - DRUG",
 			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/wszhhlytnbsb/",
 			"category" : "ruby"  
+		},
+		{
+			"group" : "Ionic Utah",
+			"event_name" : "Ionic Framework Meet-Up",
+			"link" : "http://www.meetup.com/Ionic-Utah-The-future-of-hybrid-app-dev/events/225880359/",
+			"category" : "mobile dev"  
 		}]
 	},
 	"15" :
@@ -369,7 +375,7 @@
 		},
 		{
 			"group" : "Utah Mobile .NET User Group",
-			"event_name" : "TBD",
+			"event_name" : "Introduction to Xamarin.Forms",
 			"link" : "http://www.meetup.com/UtahMobileDevelopers/events/224618559/",
 			"category" : "dotnet mobile"  
 		},
@@ -400,6 +406,12 @@
 			"link" : "http://www.meetup.com/theTransistor/events/mlczflytnbvb/",
 			"category" : "hack"  
 		}],
+		"6pm" : [{
+			"group" : "801 Labs/theTransistor",
+			"event_name" : "28 Hour LAN Party for Charity!",
+			"link" : "http://www.meetup.com/801labs/events/226015852/",
+			"category" : "hack"  
+		}],
 		"7pm" : [{
 			"group" : "DevPoint Labs",
 			"event_name" : "Rails Girls - Free Coding Workshop for Women",
@@ -409,6 +421,12 @@
 	},
 	"17" :
 	{ 
+		"9am" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "Rails Girls - Free Coding Workshop for Women",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/225686922/",
+			"category" : "ruby dev hack"  
+		}],
 		"11am" : [{
 			"group" : "Ogden DIY Robotic Makers Meetup",
 			"event_name" : "Ogden DIY Robotic Makers",
@@ -493,6 +511,12 @@
 			"link" : "http://www.meetup.com/HackOgden/events/qgvrjlytnbcc/",
 			"category" : "dev"  
 		}],
+		"5:30pm" : [{
+			"group" : "Utah QA User Group",
+			"event_name" : "Steve Townsend (Instructure)",
+			"link" : "http://www.meetup.com/Utah-QA-User-Group/events/226029258/",
+			"category" : "test"  
+		}],
 		"6pm" : [{
 			"group" : "Utah County .NET User Group",
 			"event_name" : "Cross Platform Mobile Development with Apache Cordova",
@@ -571,6 +595,12 @@
 	},
 	"25" :
 	{ 
+		"11am" : [{
+			"group" : "Girl Develop It SLC",
+			"event_name" : "{SLC} PseudoCode & Coffee",
+			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/226032387/",
+			"category" : "hack dev"  
+		}]
 	},
 	"26" :
 	{ 
