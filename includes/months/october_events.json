@@ -561,6 +561,12 @@
 			"event_name" : "801 Labs Hangout Night",
 			"link" : "http://www.meetup.com/theTransistor/events/dglgzhytnbdc/",
 			"category" : "hack"  
+		},
+		{
+			"group" : "Open Salt Lake",
+			"event_name" : "OpenSaltLake meet-up at Hack Night SLC",
+			"link" : "http://www.meetup.com/Open-Salt-Lake/events/226035506/",
+			"category" : "hack os"  
 		}],
 		"7pm" : [{
 			"group" : "OpenStack Utah",
@@ -585,6 +591,12 @@
 			"event_name" : "Utah Haskell - Learn Type Classes by Mob Programming",
 			"link" : "http://www.meetup.com/Lambda-Lounge-Utah/events/225897426/",
 			"category" : "dev func"  
+		},
+		{
+			"group" : "Big Data Utah",
+			"event_name" : "Hadoop Lunch at Adobe - Network & Ziff.io (Deep learning and under the hood)",
+			"link" : "http://www.meetup.com/BigDataUtah/events/226033540/",
+			"category" : "data"  
 		}]
 	},
 	"23" :
