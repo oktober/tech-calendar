@@ -8,7 +8,7 @@
 		<i class="fa fa-arrow-right"></i>
 	</a>
 </section>
-<input type='hidden' id='start_date' value='4' />
+<input type='hidden' id='start_date' value='0' />
 <table class="table table-bordered">
 	<thead>
 		<tr>
