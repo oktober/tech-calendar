@@ -1,10 +1,10 @@
 
 <section id="month_header">
-	<a href="javascript:void(0);" class="inactive_link">
+	<a href="index.php?month=october">
 		<i class="fa fa-arrow-left"></i>
 	</a>
-	<h1 class="month_name">October</h1>
-	<a href="index.php?month=november">
+	<h1 class="month_name">November</h1>
+	<a href="javascript:void(0);" class="inactive_link">
 		<i class="fa fa-arrow-right"></i>
 	</a>
 </section>
