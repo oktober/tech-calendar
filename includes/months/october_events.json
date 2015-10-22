@@ -568,9 +568,15 @@
 			"link" : "http://www.meetup.com/Open-Salt-Lake/events/226035506/",
 			"category" : "hack os"  
 		}],
+		"6:45pm" : [{
+			"group" : "Utah Drupal Users Group",
+			"event_name" : "October User Group Meeting",
+			"link" : "http://www.meetup.com/Utah-Drupal-Users-Group/events/226174951/",
+			"category" : "php dev"  
+		}],
 		"7pm" : [{
 			"group" : "OpenStack Utah",
-			"event_name" : "Open Stack Monthly Meetup",
+			"event_name" : "CI/CD with Jenkins, Packer & Ansible at Cisco",
 			"link" : "http://www.meetup.com/openstack-utah/events/224963205/",
 			"category" : "os"  
 		},
@@ -622,6 +628,12 @@
 	},
 	"26" :
 	{ 
+		"5:30pm" : [{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "Site Tweaking Best Practices - WordPress Child Theme Workshop",
+			"link" : "http://www.meetup.com/utahwp/events/225926937/",
+			"category" : "php dev"  
+		}],
 		"6:30pm" : [{
 			"group" : "801 Labs/theTransistor",
 			"event_name" : "Practical Malware Analysis Group Night",
@@ -636,6 +648,12 @@
 			"event_name" : "OpenSaltLake Hangout",
 			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflytnbkc/",
 			"category" : "os"  
+		}],
+		"5:45pm" : [{
+			"group" : "ReactJS Utah",
+			"event_name" : "ReactJS Utah Meetup",
+			"link" : "http://www.meetup.com/ReactJS-Utah/events/226192491/",
+			"category" : "js dev"  
 		}],
 		"6pm" : [{
 			"group" : "DevPoint Labs",
@@ -669,6 +687,12 @@
 			"event_name" : "Hack Ogden. Great speakers and free lunch!",
 			"link" : "http://www.meetup.com/HackOgden/events/qgvrjlytnblc/",
 			"category" : "dev"  
+		}],
+		"5:30pm" : [{
+			"group" : "Meteor Salt Lake City",
+			"event_name" : "Strack with show us reactive JS Object properties!",
+			"link" : "http://www.meetup.com/Meteor-Salt-Lake-City/events/226204170/",
+			"category" : "js dev"  
 		}],
 		"6pm" : [{
 			"group" : "Utah Node.js Ninjas - SLC",
@@ -705,6 +729,12 @@
 			"event_name" : "Weekly Hack Night - DRUG",
 			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/wszhhlytnblc/",
 			"category" : "ruby"  
+		},
+		{
+			"group" : "ProvoJS",
+			"event_name" : "ES6 with Aaron Frost",
+			"link" : "http://www.meetup.com/ProvoJS/events/225743131/",
+			"category" : "js dev"  
 		}]
 	},
 	"29" :
@@ -714,6 +744,12 @@
 			"event_name" : "801 Labs Hangout Night",
 			"link" : "http://www.meetup.com/theTransistor/events/dglgzhytnbmc/",
 			"category" : "hack"  
+		},
+		{
+			"group" : "AngularJS Utah",
+			"event_name" : "Salt Lake Valley Angular Meetup",
+			"link" : "http://www.meetup.com/AngularJS-Utah/events/226068127/",
+			"category" : "js dev"  
 		}],
 		"6:30pm" : [{
 			"group" : "Google Developer Group of Utah",
