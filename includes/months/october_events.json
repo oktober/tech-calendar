@@ -672,6 +672,12 @@
 			"event_name" : "Code Night",
 			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/qwnklkytnbkc/",
 			"category" : "mobile"  
+		},
+		{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "SLC.rb October 2015",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/226322238/",
+			"category" : "dev ruby"  
 		}]
 	},
 	"28" :
@@ -735,6 +741,12 @@
 			"event_name" : "ES6 with Aaron Frost",
 			"link" : "http://www.meetup.com/ProvoJS/events/225743131/",
 			"category" : "js dev"  
+		},
+		{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "Scale WordPress with Jason Vance",
+			"link" : "http://www.meetup.com/utahwp/events/226109702/",
+			"category" : "php dev"  
 		}]
 	},
 	"29" :
@@ -775,5 +787,11 @@
 	},
 	"31" :
 	{ 
+		"9am" : [{
+			"group" : "Urban Technology Enthusiasts of Utah",
+			"event_name" : "young Urban Technology Enthusiasts of Utah",
+			"link" : "http://www.meetup.com/UtahTechEnthusiasts/events/224634052/",
+			"category" : "tech"  
+		}]
 	}
 }
