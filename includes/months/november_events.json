@@ -84,12 +84,24 @@
 			"event_name" : "Salting Nagios: Lifecycle of a Salt State",
 			"link" : "http://www.meetup.com/SaltStack-user-group-Salt-Lake-City/events/226088877/",
 			"category" : "os" 
+		},
+		{
+			"group" : "Big Data Utah",
+			"event_name" : "View the National Data Science Organizer’s Workshop!",
+			"link" : "http://www.meetup.com/BigDataUtah/events/226404531/",
+			"category" : "data" 
 		}],
 		"2pm" : [{
 			"group" : "Agile Roundtable",
 			"event_name" : "Agile Roundtable",
 			"link" : "http://www.meetup.com/Agile-Roundtable/events/225095681/",
 			"category" : "agile" 
+		}],
+		"4:30pm" : [{
+			"group" : "University of Utah Business & Technology Speaker Series",
+			"event_name" : "Women and Information Systems Panel",
+			"link" : "http://www.meetup.com/UtahTech/events/226381060/",
+			"category" : "tech" 
 		}],
 		"6pm" : [{
 			"group" : "801 Labs & The Transistor",
@@ -126,6 +138,12 @@
 			"event_name" : "JavaScript Study Group",
 			"link" : "http://www.meetup.com/SLC-JS-Learners/events/224563973/",
 			"category" : "hack js" 
+		}],
+		"1pm" : [{
+			"group" : "World Tech Academy",
+			"event_name" : "Learn how to build your own website!",
+			"link" : "http://www.meetup.com/Build-Your-Own-Website-Tutorial-Free/events/226422124/",
+			"category" : "dev" 
 		}]
 	},
 	"8" : 
