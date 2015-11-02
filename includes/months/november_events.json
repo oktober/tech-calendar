@@ -69,6 +69,12 @@
 			"event_name" : "Getting Started With Machine Learning, presented by Joe Reis",
 			"link" : "http://www.meetup.com/SLCPython/events/224591470/",
 			"category" : "python dev data" 
+		},
+		{
+			"group" : "Make Salt Lake",
+			"event_name" : "ESP8266 Microcontroller SIG",
+			"link" : "http://www.meetup.com/MakeSaltLake/events/226425891/",
+			"category" : "tech" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Ruby Users Group (URUG)",
@@ -299,6 +305,12 @@
 	"16" :
 	{
 		"6pm" : [{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "SLC Linux Nethunter Workshop",
+			"link" : "http://www.meetup.com/801labs/events/226488227/",
+			"category" : "os hack" 
+		},
+		{
 			"group" : "Impact Hub Salt Lake",
 			"event_name" : "CodeHub Meetup: featuring Gun Open Source Database",
 			"link" : "http://www.meetup.com/Impact-Hub-Salt-Lake/events/ptzcllytpbvb/",
