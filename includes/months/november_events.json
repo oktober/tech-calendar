@@ -219,6 +219,12 @@
 			"event_name" : "Code Night",
 			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/qwnklkytpbnb/",
 			"category" : "mobile dev" 
+		},
+		{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "UV.rb November 2015 - Open Source Hack Together",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/226556246/",
+			"category" : "ruby dev" 
 		}]
 	},
 	"11" : 
@@ -249,7 +255,7 @@
 		}],
 		"7pm" : [{
 			"group" : "Utah d3.js",
-			"event_name" : "Utah d3.js",
+			"event_name" : "d3.js Frameworks",
 			"link" : "http://www.meetup.com/Utah-d3-js/events/226065685/",
 			"category" : "data js dev" 
 		},
@@ -279,6 +285,12 @@
 			"event_name" : "801 Labs Hangout Night",
 			"link" : "http://www.meetup.com/801labs/events/dglgzhytpbqb/",
 			"category" : "hack" 
+		},
+		{
+			"group" : "Wasatch Front Agile",
+			"event_name" : "Wasatch Front Agile Monthly Meetup",
+			"link" : "http://www.meetup.com/wasatch-front-agile/events/225935216/",
+			"category" : "agile" 
 		}],
 		"6:30pm" : [{
 			"group" : "Utah Elixir",
@@ -310,6 +322,12 @@
 	},
 	"14" :
 	{
+		"8:30am" : [{
+			"group" : "Pluralsight",
+			"event_name" : "Global Day of Coderetreat",
+			"link" : "https://www.eventbrite.com/e/pluralsight-global-day-of-coderetreat-tickets-19362753517",
+			"category" : "conf" 
+		}],
 		"9am" : [{
 			"group" : "Impact Hub Salt Lake",
 			"event_name" : "CodeHub Session: Web Development Tutorial",
@@ -351,7 +369,7 @@
 		}],
 		"6:30pm" : [{
 			"group" : "SLC JS Learners",
-			"event_name" : "Monthly Meetup",
+			"event_name" : "Leveling Up - Developing Knowledge and Skills for Employment",
 			"link" : "http://www.meetup.com/SLC-JS-Learners/events/225524449/",
 			"category" : "js dev" 
 		}],
@@ -429,7 +447,7 @@
 	{ 
 		"5:30pm" : [{
 			"group" : "Utah Java Users Group",
-			"event_name" : "Spring Team",
+			"event_name" : "Spring Boot and Spring Cloud",
 			"link" : "http://www.meetup.com/Utah-Java-Users-Group/events/223750370/",
 			"category" : "java dev" 
 		}],
