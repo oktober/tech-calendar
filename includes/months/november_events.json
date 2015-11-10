@@ -351,6 +351,12 @@
 			"event_name" : "CodeHub Meetup: featuring Gun Open Source Database",
 			"link" : "http://www.meetup.com/Impact-Hub-Salt-Lake/events/ptzcllytpbvb/",
 			"category" : "dev os db" 
+		}],
+		"7pm" : [{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "How to Increase Conversion Rates for your WP Sites - Jason Pedersen",
+			"link" : "http://www.meetup.com/utahwp/events/226596885/",
+			"category" : "php tech" 
 		}]
 	},
 	"17" :
@@ -622,5 +628,11 @@
 	},
 	"30" :
 	{ 
+		"6:30pm" : [{
+			"group" : "Google Developer Group of Utah",
+			"event_name" : "Polymer Dart Code Lab: Google Maps",
+			"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/226661546/",
+			"category" : "dev js" 
+		}]
 	}
 }
