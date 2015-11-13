@@ -433,9 +433,33 @@
 	},
 	"21" :
 	{ 
+		"6pm" : [{
+			"group" : "Impact Hub Salt Lake",
+			"event_name" : "CodeHub Meetup: featuring Gun Open Source Database",
+			"link" : "http://www.meetup.com/Impact-Hub-Salt-Lake/events/ptzcllytqbcc/",
+			"category" : "db os" 
+		}],
+		"6:30pm" : [{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "Practical Malware Analysis Group Night",
+			"link" : "http://www.meetup.com/801labs/events/qmlxpkytqbcc/",
+			"category" : "hack dev" 
+		}]
 	},
 	"22" :
 	{ 
+		"12pm" : [{
+			"group" : "Open Salt Lake",
+			"event_name" : "OpenSaltLake Hangout",
+			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflytqbdc/",
+			"category" : "os" 
+		}],
+		"7pm" : [{
+			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
+			"event_name" : "Code Night",
+			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/qwnklkytqbdc/",
+			"category" : "mobile dev" 
+		}]
 	},
 	"23" :
 	{ 
@@ -457,14 +481,38 @@
 	},
 	"29" :
 	{ 
+		"12pm" : [{
+			"group" : "Open Salt Lake",
+			"event_name" : "OpenSaltLake Hangout",
+			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflytqbmc/",
+			"category" : "os" 
+		}],
+		"7pm" : [{
+			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
+			"event_name" : "Code Night",
+			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/qwnklkytqbmc/",
+			"category" : "mobile dev" 
+		}]
 	},
 	"30" :
 	{ 
+		"12pm" : [{
+			"group" : "Hack Ogden",
+			"event_name" : "Hack Ogden. Great speakers and free lunch!",
+			"link" : "http://www.meetup.com/HackOgden/events/rlqwllytqbnc/",
+			"category" : "hack tech" 
+		}],
 		"6pm" : [{
 			"group" : "AngularJS Utah",
 			"event_name" : "Salt Lake Valley Angular Meetup",
 			"link" : "http://www.meetup.com/AngularJS-Utah/events/226421379/",
 			"category" : "dev js" 
+		}],
+		"7pm" : [{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "Weekly Hack Night - DRUG",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kzwxklytqbnc/",
+			"category" : "ruby dev hack" 
 		}]
 	},
 	"31" :
