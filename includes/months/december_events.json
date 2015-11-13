@@ -144,22 +144,136 @@
 			"event_name" : "Hack Night",
 			"link" : "http://www.meetup.com/Salt-Lake-Pyladies/events/225217979/",
 			"category" : "hack python" 
+		},
+		{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "Practical Malware Analysis Group Night",
+			"link" : "http://www.meetup.com/801labs/events/qmlxpkytqbkb/",
+			"category" : "hack dev" 
 		}]
 	},
 	"8" : 
 	{ 
+		"12pm" : [{
+			"group" : "Open Salt Lake",
+			"event_name" : "OpenSaltLake Hangout",
+			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflytqblb/",
+			"category" : "os" 
+		},
+		{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "Logan Ruby Lunch",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kqcqhlytqblb/",
+			"category" : "ruby" 
+		}],
+		"6pm" : [{
+			"group" : "Lambda Lounge Utah",
+			"event_name" : "TBD",
+			"link" : "http://www.meetup.com/Lambda-Lounge-Utah/events/qdghthytqblb/",
+			"category" : "func dev" 
+		}],
+		"7pm" : [{
+			"group" : "Utah Open Source",
+			"event_name" : "Salt Lake Perl Mongers",
+			"link" : "http://www.meetup.com/UtahOpenSource/events/qdsrqhytqblb/",
+			"category" : "os dev" 
+		},
+		{
+			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
+			"event_name" : "Code Night",
+			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/qwnklkytqblb/",
+			"category" : "mobile dev" 
+		}]
 	},
 	"9" : 
 	{
+		"12pm" : [{
+			"group" : "Hack Ogden",
+			"event_name" : "Hack Ogden. Great speakers and free lunch!",
+			"link" : "http://www.meetup.com/HackOgden/events/rlqwllytqbmb/",
+			"category" : "hack tech" 
+		}],
+		"6pm" : [{
+			"group" : "Utah C++ Programmers",
+			"event_name" : "Regular Monthly Meeting",
+			"link" : "http://www.meetup.com/Utah-Cpp-Programmers/events/xxrjflytqbmb/",
+			"category" : "cplusplus dev" 
+		}],
+		"6:30pm" : [{
+			"group" : "Lehi Developers User Group",
+			"event_name" : "Learn, Hack, Socialize",
+			"link" : "http://www.meetup.com/Lehi-Developers-User-Group/events/dxmhhlytqbmb/",
+			"category" : "hack dev" 
+		}],
+		"7pm" : [{
+			"group" : "Utah d3.js",
+			"event_name" : "Utah d3.js",
+			"link" : "http://www.meetup.com/Utah-d3-js/events/226719875/",
+			"category" : "js dev" 
+		},
+		{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "Weekly Hack Night - DRUG",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kzwxklytqbmb/",
+			"category" : "ruby hack dev" 
+		}]
 	},
 	"10" : 
 	{
+		"5:45pm" : [{
+			"group" : "Magento Users Group",
+			"event_name" : "Topic TBD",
+			"link" : "http://www.meetup.com/Utah-Magento-Users-Group/events/mzsnflytqbnb/",
+			"category" : "php dev" 
+		}],
+		"6pm" : [{
+			"group" : "Utah Elm Users",
+			"event_name" : "Monthly Elm Meetup",
+			"link" : "http://www.meetup.com/Utah-Elm-Users/events/226004716/",
+			"category" : "func hack dev" 
+		},
+		{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "801 Labs Hangout Night",
+			"link" : "http://www.meetup.com/801labs/events/dglgzhytqbnb/",
+			"category" : "hack tech" 
+		},
+		{
+			"group" : "Wasatch Front Agile",
+			"event_name" : "Wasatch Front Agile Monthly Meetup",
+			"link" : "http://www.meetup.com/wasatch-front-agile/events/nmxfllytqbnb/",
+			"category" : "agile" 
+		}],
+		"6:30pm" : [{
+			"group" : "Utah Elixir",
+			"event_name" : "Utah Elixir Monthly Meetup",
+			"link" : "http://www.meetup.com/utah-elixir/events/224633541/",
+			"category" : "func dev" 
+		}],
+		"6:30pm" : [{
+			"group" : "Python at the Point",
+			"event_name" : "Monthly Meetup",
+			"link" : "http://www.meetup.com/PythonAtThePoint/events/224628124/",
+			"category" : "python dev" 
+		}]
 	},
 	"11" : 
 	{ 
+		"12pm" : [{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "Work from the Hacker Space",
+			"link" : "http://www.meetup.com/801labs/events/mlczflytqbpb/",
+			"category" : "hack" 
+		}]
 	},
 	"12" :
 	{ 
+		"9am" : [{
+			"group" : "Impact Hub Salt Lake",
+			"event_name" : "CodeHub Session: Web Development Tutorial",
+			"link" : "http://www.meetup.com/Impact-Hub-Salt-Lake/events/xwzcllytqbqb/",
+			"category" : "dev" 
+		}],
 		"12pm" : [{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "Free LAN Party ft. portAparty",
