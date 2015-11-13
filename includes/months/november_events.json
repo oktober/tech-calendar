@@ -366,6 +366,12 @@
 			"event_name" : "Domo presents Android",
 			"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/226516981/",
 			"category" : "mobile dev" 
+		},
+		{
+			"group" : "ProVolt",
+			"event_name" : "Fabrication Night",
+			"link" : "http://www.meetup.com/ProVolt/events/226716221/",
+			"category" : "tech" 
 		}],
 		"6:30pm" : [{
 			"group" : "SLC JS Learners",
@@ -486,6 +492,12 @@
 			"event_name" : "What's new in the Xamarin world",
 			"link" : "http://www.meetup.com/UtahMobileDevelopers/events/224618659/",
 			"category" : "dotnet mobile"  
+		},
+		{
+			"group" : "ProVolt",
+			"event_name" : "Electronics Night",
+			"link" : "http://www.meetup.com/ProVolt/events/tkftklytpbzb/",
+			"category" : "tech" 
 		}],
 		"7pm" : [{
 			"group" : "801 Labs & The Transistor",
@@ -590,12 +602,6 @@
 			"category" : "dev" 
 		}],
 		"6:30pm" : [{
-			"group" : "Lehi Developers User Group",
-			"event_name" : "Learn, Hack, Socialize",
-			"link" : "http://www.meetup.com/Lehi-Developers-User-Group/events/dxmhhlytpbhc/",
-			"category" : "dev" 
-		},
-		{
 			"group" : "Make Salt Lake",
 			"event_name" : "Microcontroller meetup",
 			"link" : "http://www.meetup.com/MakeSaltLake/events/srzsllytpbhc/",
