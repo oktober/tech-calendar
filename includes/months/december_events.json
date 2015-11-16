@@ -107,13 +107,13 @@
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "SLC Circuit Breakers Hardware Hacking User Group",
 			"link" : "http://www.meetup.com/801labs/events/lvgcklytqbfb/",
-			"category" : "tech" 
+			"category" : "tech hack" 
 		},
 		{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "Web Application Hacking Night",
-			"link" : "http://www.meetup.com/801labs/events/nsgcklytqbfb/",
-			"category" : "dev" 
+			"link" : "http://www.meetup.com/801labs/events/226812874/",
+			"category" : "dev hack" 
 		}]
 	},
 	"4" : 

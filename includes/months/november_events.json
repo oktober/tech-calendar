@@ -406,11 +406,23 @@
 	},
 	"18" :
 	{ 
+		"11am" : [{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "WP Burrito Wednesday!",
+			"link" : "http://www.meetup.com/utahwp/events/226813461/",
+			"category" : "php tech" 
+		}],
 		"12pm" : [{
 			"group" : "Hack Ogden",
 			"event_name" : "Hack Ogden. Great speakers and free lunch!",
 			"link" : "http://www.meetup.com/HackOgden/events/226459367/",
 			"category" : "hack" 
+		}],
+		"5:30pm" : [{
+			"group" : "Meteor Salt Lake City",
+			"event_name" : "Lets meet up on Meteor",
+			"link" : "http://www.meetup.com/Meteor-Salt-Lake-City/events/226677197/",
+			"category" : "js dev" 
 		}],
 		"6pm" : [{
 			"group" : "Utah Node.js Ninjas - SLC",
@@ -509,6 +521,12 @@
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "Web Application Hacking Night",
 			"link" : "http://www.meetup.com/801labs/events/nsgcklytpbzb/",
+			"category" : "hack dev" 
+		},
+		{
+			"group" : "Girl Develop It Provo",
+			"event_name" : "{PROVO} COMMAND LINE & FTP",
+			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/226802156/",
 			"category" : "hack dev" 
 		}]
 	},
