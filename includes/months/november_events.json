@@ -417,6 +417,12 @@
 			"event_name" : "Hack Ogden. Great speakers and free lunch!",
 			"link" : "http://www.meetup.com/HackOgden/events/226459367/",
 			"category" : "hack" 
+		},
+		{
+			"group" : "Big Data Utah",
+			"event_name" : "IM Flash: Process Optimization // AIM Big Data Executive Series",
+			"link" : "http://www.meetup.com/BigDataUtah/events/226838975/",
+			"category" : "data" 
 		}],
 		"5:30pm" : [{
 			"group" : "Meteor Salt Lake City",
@@ -463,6 +469,12 @@
 	},
 	"19" :
 	{ 
+		"12pm" : [{
+			"group" : "Big Data Utah",
+			"event_name" : "Adobe: Leveraging Social Data into Insights and Revenue // AIM Exec Series",
+			"link" : "http://www.meetup.com/BigDataUtah/events/226839078/",
+			"category" : "data" 
+		}],
 		"5:30pm" : [{
 			"group" : "Utah Java Users Group",
 			"event_name" : "Spring Boot and Spring Cloud",
@@ -528,10 +540,22 @@
 			"event_name" : "{PROVO} COMMAND LINE & FTP",
 			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/226802156/",
 			"category" : "hack dev" 
+		},
+		{
+			"group" : "Lambda Lounge Utah",
+			"event_name" : "Introduction to Purescript Workshop",
+			"link" : "http://www.meetup.com/Lambda-Lounge-Utah/events/226839315/",
+			"category" : "func dev" 
 		}]
 	},
 	"20" :
 	{ 
+		"11:30am" : [{
+			"group" : "Big Data Utah",
+			"event_name" : "EMC: Architecture and Round Table // AIM Big Data Executive Series",
+			"link" : "http://www.meetup.com/BigDataUtah/events/226839256/",
+			"category" : "data" 
+		}],
 		"12pm" : [{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "Work from the Hacker Space",

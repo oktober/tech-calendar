@@ -336,6 +336,12 @@
 			"event_name" : "Provo Linux User Group (PLUG)",
 			"link" : "http://www.meetup.com/UtahOpenSource/events/qsjjrkytqbtb/",
 			"category" : "os dev" 
+		},
+		{
+			"group" : "UtahJS",
+			"event_name" : "UtahJS SLC Meetup - December 2015",
+			"link" : "http://www.meetup.com/UtahJS/events/226849276/",
+			"category" : "js dev" 
 		}]
 	},
 	"16" :
