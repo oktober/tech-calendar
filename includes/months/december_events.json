@@ -9,7 +9,7 @@
 		}],
 		"6:15pm" : [{
 			"group" : "Utah GOphers",
-			"event_name" : "TBD",
+			"event_name" : "Introducing InfluxDB+Kapacitor the monitoring & alerting platform of the future",
 			"link" : "http://www.meetup.com/utahgophers/events/223828611/",
 			"category" : "func dev os" 
 		}],
@@ -61,6 +61,12 @@
 	},
 	"3" : 
 	{ 
+		"12pm" : [{
+			"group" : "Utah Oracle Users Group",
+			"event_name" : "Oracle Dev SIG Lunch & Learn",
+			"link" : "http://www.meetup.com/Utah-Oracle-Users-Group/events/226888532/",
+			"category" : "db sql" 
+		}],
 		"2pm" : [{
 			"group" : "Agile Roundtable",
 			"event_name" : "Agile Roundtable",
@@ -195,8 +201,8 @@
 		}],
 		"6pm" : [{
 			"group" : "Utah C++ Programmers",
-			"event_name" : "Regular Monthly Meeting",
-			"link" : "http://www.meetup.com/Utah-Cpp-Programmers/events/xxrjflytqbmb/",
+			"event_name" : "Refactoring in C++",
+			"link" : "http://www.meetup.com/Utah-Cpp-Programmers/events/226890428/",
 			"category" : "cplusplus dev" 
 		}],
 		"6:30pm" : [{
