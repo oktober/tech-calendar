@@ -103,6 +103,12 @@
 			"link" : "http://www.meetup.com/801labs/events/dglgzhytqbfb/",
 			"category" : "hack tech" 
 		}],
+		"6:30pm" : [{
+			"group" : "Google Developer Group of Utah",
+			"event_name" : "Ancestry.com presents \"Android Development Skills, Techniques and Patterns\"",
+			"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/226973037/",
+			"category" : "dev mobile" 
+		}],
 		"7pm" : [{
 			"group" : "UtahJS",
 			"event_name" : "UtahJS Orem Meetup",
@@ -120,6 +126,12 @@
 			"event_name" : "Web Application Hacking Night",
 			"link" : "http://www.meetup.com/801labs/events/226812874/",
 			"category" : "dev hack" 
+		},
+		{
+			"group" : "Girl Develop It - Provo",
+			"event_name" : "{PROVO} Let's Learn Python!!",
+			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/226961788/",
+			"category" : "dev python" 
 		}]
 	},
 	"4" : 
