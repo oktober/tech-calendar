@@ -157,6 +157,12 @@
 	},
 	"7" : 
 	{ 
+		"5pm" : [{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "Office Hours | Get Help With Your Own Site",
+			"link" : "http://www.meetup.com/utahwp/events/227012521/",
+			"category" : "wp dev" 
+		}],
 		"6:30pm" : [{
 			"group" : "Salt Lake PyLadies",
 			"event_name" : "Hack Night",
@@ -210,6 +216,12 @@
 			"event_name" : "Hack Ogden. Great speakers and free lunch!",
 			"link" : "http://www.meetup.com/HackOgden/events/rlqwllytqbmb/",
 			"category" : "hack tech" 
+		}],
+		"5:30pm" : [{
+			"group" : "Meteor Salt Lake City",
+			"event_name" : "Working on Meteor and React MVPs",
+			"link" : "http://www.meetup.com/Meteor-Salt-Lake-City/events/226999232/",
+			"category" : "js dev" 
 		}],
 		"6pm" : [{
 			"group" : "Utah C++ Programmers",
