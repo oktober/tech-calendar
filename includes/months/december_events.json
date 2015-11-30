@@ -273,6 +273,12 @@
 			"event_name" : "Wasatch Front Agile Monthly Meetup",
 			"link" : "http://www.meetup.com/wasatch-front-agile/events/nmxfllytqbnb/",
 			"category" : "agile" 
+		},
+		{
+			"group" : "Utah County Android Developers",
+			"event_name" : "CoordinatorLayout:H­ow to build advanced user interactions",
+			"link" : "http://www.meetup.com/Utah-County-Android-Developers/events/227114499/",
+			"category" : "mobile java dev" 
 		}],
 		"6:30pm" : [{
 			"group" : "Utah Elixir",
@@ -280,11 +286,17 @@
 			"link" : "http://www.meetup.com/utah-elixir/events/224633541/",
 			"category" : "func dev" 
 		}],
-		"6:30pm" : [{
+		"7pm" : [{
 			"group" : "Python at the Point",
 			"event_name" : "Monthly Meetup",
 			"link" : "http://www.meetup.com/PythonAtThePoint/events/224628124/",
 			"category" : "python dev" 
+		},
+		{
+			"group" : "Northern Utah .NET Users Group (NUNUG)",
+			"event_name" : "Introduction to Unity - Part 2",
+			"link" : "http://www.meetup.com/nunug-org/events/227112191/",
+			"category" : "dotnet dev" 
 		}]
 	},
 	"11" : 
@@ -351,8 +363,8 @@
 		}],
 		"6:30pm" : [{
 			"group" : "SLC JS Learners",
-			"event_name" : "Monthly Meetup",
-			"link" : "http://www.meetup.com/SLC-JS-Learners/events/mcrddlytqbtb/",
+			"event_name" : "Monthly Meetup - Giving Back",
+			"link" : "http://www.meetup.com/SLC-JS-Learners/events/226862778/",
 			"category" : "js dev" 
 		}],
 		"7pm" : [{
