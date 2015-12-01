@@ -228,6 +228,12 @@
 			"event_name" : "Refactoring in C++",
 			"link" : "http://www.meetup.com/Utah-Cpp-Programmers/events/226890428/",
 			"category" : "cplusplus dev" 
+		},
+		{
+			"group" : "The Iron Yard - Salt Lake City",
+			"event_name" : "Free Crash Course: Build an iOS music player using Swift 2",
+			"link" : "http://www.meetup.com/The-Iron-Yard-Salt-Lake-City/events/226757340/",
+			"category" : "mobile dev" 
 		}],
 		"6:30pm" : [{
 			"group" : "Lehi Developers User Group",
@@ -438,6 +444,12 @@
 			"event_name" : "TBD",
 			"link" : "http://www.meetup.com/UtahMobileDevelopers/events/mtxhhlytqbwb/",
 			"category" : "mobile dotnet dev" 
+		},
+		{
+			"group" : "Python Utah North",
+			"event_name" : "Numpy with McKay Harris",
+			"link" : "http://www.meetup.com/Python-Utah-North/events/227117254/",
+			"category" : "python dev" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
