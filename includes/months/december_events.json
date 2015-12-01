@@ -18,6 +18,12 @@
 			"event_name" : "Code Night",
 			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/qwnklkytqbcb/",
 			"category" : "mobile dev" 
+		},
+		{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "Web Application Hacking Night",
+			"link" : "http://www.meetup.com/801labs/events/226812874/",
+			"category" : "dev hack" 
 		}]
 	},
 	"2" : 
@@ -86,18 +92,6 @@
 			"category" : "php os" 
 		},
 		{
-			"group" : "Hack Ogden",
-			"event_name" : "Backend Ogden",
-			"link" : "http://www.meetup.com/HackOgden/events/226458775/",
-			"category" : "dev" 
-		},
-		{
-			"group" : "Developing & Donuts",
-			"event_name" : "Developing & Donuts",
-			"link" : "http://www.meetup.com/Developing-Donuts/events/226604946/",
-			"category" : "dev" 
-		},
-		{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "801 Labs Hangout Night",
 			"link" : "http://www.meetup.com/801labs/events/dglgzhytqbfb/",
@@ -120,12 +114,6 @@
 			"event_name" : "SLC Circuit Breakers Hardware Hacking User Group",
 			"link" : "http://www.meetup.com/801labs/events/lvgcklytqbfb/",
 			"category" : "tech hack" 
-		},
-		{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "Web Application Hacking Night",
-			"link" : "http://www.meetup.com/801labs/events/226812874/",
-			"category" : "dev hack" 
 		},
 		{
 			"group" : "Girl Develop It - Provo",
