@@ -103,18 +103,61 @@
 	},
 	"7" : 
 	{ 
+
+		"2pm" : [{
+			"group" : "Agile Roundtable",
+			"event_name" : "Agile Roundtable",
+			"link" : "http://www.meetup.com/Agile-Roundtable/events/bkgddlyvcbkb/",
+			"category" : "agile" 
+		}],
 		"5:30pm" : [{
 			"group" : "Utah Software Architecture Meetup",
 			"event_name" : "Azure - Raju Pusapati",
 			"link" : "http://www.meetup.com/Utah-Software-Architecture-Meetup/events/225587939/",
 			"category" : "saas dev" 
+		}],
+		"6pm" : [{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "801 Labs Hangout Night",
+			"link" : "http://www.meetup.com/801labs/events/dglgzhyvcbkb/",
+			"category" : "fun hack tech night" 
+		},
+		{
+			"group" : "ProVolt",
+			"event_name" : "Electronics Night",
+			"link" : "http://www.meetup.com/ProVolt/events/tkftklyvcbkb/",
+			"category" : "tech" 
+		},
+		{
+			"group" : "Ogden.js",
+			"event_name" : "Ogden.js",
+			"link" : "http://www.meetup.com/Ogden-js/events/xhnvllyvcbkb/",
+			"category" : "js" 
+		}],
+		"7pm" : [{
+			"group" : "UtahJS",
+			"event_name" : "UtahJS Orem Meetup",
+			"link" : "http://www.meetup.com/UtahJS/events/227122542/",
+			"category" : "js" 
 		}]
 	},
 	"8" : 
 	{ 
+		"12pm" : [{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "Work from the Hacker Space",
+			"link" : "http://www.meetup.com/801labs/events/mlczflyvcblb/",
+			"category" : "hack" 
+		}]
 	},
 	"9" : 
 	{
+		"9am" : [{
+			"group" : "Impact Hub Salt Lake",
+			"event_name" : "CodeHub Session: Web Development Tutorial",
+			"link" : "http://www.meetup.com/Impact-Hub-Salt-Lake/events/226862783/",
+			"category" : "class dev" 
+		}]
 	},
 	"10" : 
 	{
