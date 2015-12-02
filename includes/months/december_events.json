@@ -124,6 +124,12 @@
 	},
 	"4" : 
 	{  
+		"9am" : [{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "WordCamp US Streaming Party",
+			"link" : "http://www.meetup.com/utahwp/events/227161215/",
+			"category" : "php conf" 
+		}],
 		"12pm" : [{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "Work from the Hacker Space",
@@ -169,7 +175,7 @@
 		"12pm" : [{
 			"group" : "Open Salt Lake",
 			"event_name" : "OpenSaltLake Hangout",
-			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflytqblb/",
+			"link" : "http://www.meetup.com/Open-Salt-Lake/events/227141567/",
 			"category" : "os" 
 		},
 		{
@@ -231,7 +237,7 @@
 		}],
 		"7pm" : [{
 			"group" : "Utah d3.js",
-			"event_name" : "Utah d3.js",
+			"event_name" : "Utah d3.js animations",
 			"link" : "http://www.meetup.com/Utah-d3-js/events/226719875/",
 			"category" : "js dev" 
 		},
@@ -340,7 +346,7 @@
 		"12pm" : [{
 			"group" : "Open Salt Lake",
 			"event_name" : "OpenSaltLake Hangout",
-			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflytqbtb/",
+			"link" : "http://www.meetup.com/Open-Salt-Lake/events/227141562/",
 			"category" : "os" 
 		}],
 		"6pm" : [{
@@ -360,6 +366,12 @@
 			"event_name" : "Monthly Meetup - Giving Back",
 			"link" : "http://www.meetup.com/SLC-JS-Learners/events/226862778/",
 			"category" : "js dev" 
+		},
+		{
+			"group" : "DevPoint Labs",
+			"event_name" : "Beginner Ruby Workshop Series",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/227140367/",
+			"category" : "ruby dev" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
@@ -438,6 +450,13 @@
 			"event_name" : "Numpy with McKay Harris",
 			"link" : "http://www.meetup.com/Python-Utah-North/events/227117254/",
 			"category" : "python dev" 
+		}],
+
+		"6:30pm" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "Beginner JavaScript Workshop Series",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/227140593/",
+			"category" : "js dev" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
