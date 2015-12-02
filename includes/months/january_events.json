@@ -236,11 +236,41 @@
 	},
 	"13" :
 	{  
+		"12pm" : [{
+			"group" : "Hack Ogden",
+			"event_name" : "Hack Ogden. Great speakers and free lunch!",
+			"link" : "http://www.meetup.com/HackOgden/events/rlqwllyvcbrb/",
+			"category" : "fun dev" 
+		}],
+		"6pm" : [{
+			"group" : "Utah C++ Programmers",
+			"event_name" : "Regular Monthly Meeting",
+			"link" : "http://www.meetup.com/Utah-Cpp-Programmers/events/219866935/",
+			"category" : "cplusplus" 
+		}],
 		"6:30pm" : [{
 			"group" : "Big Data Utah",
 			"event_name" : "Bios to Boot to Hadoop (Couple hours to deploy!)",
 			"link" : "http://www.meetup.com/BigDataUtah/events/226495049/",
 			"category" : "data" 
+		}],
+		"7pm" : [{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "Weekly Hack Night - DRUG",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kzwxklyvcbrb/",
+			"category" : "ruby night" 
+		},
+		{
+			"group" : "Utah d3.js",
+			"event_name" : "Utah d3.js animations",
+			"link" : "http://www.meetup.com/Utah-d3-js/events/mgrfhlyvcbrb/",
+			"category" : "js" 
+		},
+		{
+			"group" : "Code for Odin",
+			"event_name" : "Weekly Merriment whilst Coding for Odin",
+			"link" : "http://www.meetup.com/CodeforOdin/events/tcgdllyvcbrb/",
+			"category" : "night dev" 
 		}]
 	},
 	"14" :
@@ -251,7 +281,19 @@
 			"link" : "https://www.skiphp.com/",
 			"category" : "conf php" 
 		}],
+		"5:45pm" : [{
+			"group" : "Magento Users Group",
+			"event_name" : "Topic TBD",
+			"link" : "http://www.meetup.com/Utah-Magento-Users-Group/events/mzsnflyvcbsb/",
+			"category" : "php" 
+		}],
 		"6pm" : [{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "801 Labs Hangout Night",
+			"link" : "http://www.meetup.com/801labs/events/dglgzhyvcbsb/",
+			"category" : "hack tech" 
+		},
+		{
 			"group" : "Utah MongoDB User Group",
 			"event_name" : "UMUG Meeting at Vivint",
 			"link" : "http://www.meetup.com/Utah-MongoDB-User-Group/events/227007104/",
@@ -268,6 +310,36 @@
 			"event_name" : "TBD",
 			"link" : "http://www.meetup.com/Utah-NET-User-Group/events/226720766/",
 			"category" : "dotnet" 
+		},
+		{
+			"group" : "Wasatch Front Agile",
+			"event_name" : "Wasatch Front Agile Monthly Meetup",
+			"link" : "http://www.meetup.com/wasatch-front-agile/events/nmxfllyvcbsb/",
+			"category" : "agile" 
+		},
+		{
+			"group" : "ProVolt",
+			"event_name" : "Electronics Night",
+			"link" : "http://www.meetup.com/ProVolt/events/tkftklyvcbsb/",
+			"category" : "tech" 
+		}],
+		"6:30pm" : [{
+			"group" : "SLC Tech Startups",
+			"event_name" : "Happy Hour at Gracie's Bar",
+			"link" : "http://www.meetup.com/slctechstartups/events/226423141/",
+			"category" : "fun" 
+		}],
+		"7pm" : [{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "SLC Circuit Breakers Hardware Hacking User Group",
+			"link" : "http://www.meetup.com/801labs/events/227066884/",
+			"category" : "tech hack" 
+		},
+		{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "Web Application Hacking Night",
+			"link" : "http://www.meetup.com/801labs/events/nsgcklyvcbsb/",
+			"category" : "hack dev" 
 		}]
 	},
 	"15" :
@@ -277,10 +349,28 @@
 			"event_name" : "SkiPHP 2016",
 			"link" : "https://www.skiphp.com/",
 			"category" : "conf php" 
+		}],
+		"12pm" : [{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "Work from the Hacker Space",
+			"link" : "http://www.meetup.com/801labs/events/mlczflyvcbtb/",
+			"category" : "hack" 
 		}]
 	},
 	"16" :
 	{
+		"11am" : [{
+			"group" : "Ogden DIY Robotic Makers Meetup",
+			"event_name" : "5th Meetup For Our Group",
+			"link" : "http://www.meetup.com/Ogden-DIY-Robotic-Makers-Meetup/events/226964407/",
+			"category" : "tech" 
+		}],
+		"3pm" : [{
+			"group" : "Utah Bitcoin Community",
+			"event_name" : "Monthly Meet Up - 3rd Saturday of Each Month",
+			"link" : "http://www.meetup.com/Utah-Bitcoin-Community/events/dpttfkyvcbvb/",
+			"category" : "tech" 
+		}]
 	},
 	"17" :
 	{ 
