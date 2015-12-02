@@ -27,18 +27,21 @@
 				<span class="categories dotnet"><a>.NET</a></span>
 				<span class="categories agile"><a>Agile</a></span>
 				<span class="categories cplusplus"><a>C++</a></span>
+				<span class="categories class"><a>Classes</a></span>
 				<span class="categories conf"><a>Conferences</a></span>
 				<span class="categories data"><a>Data Science</a></span>
 				<span class="categories db"><a>Databases</a></span>
 				<span class="categories dev"><a>Development</a></span>
 				<span class="categories devops"><a>DevOps</a></span>
 				<span class="categories func"><a>Functional</a></span>
+				<span class="categories night"><a>Hack Night</a></span>
 				<span class="categories hack"><a>Hackerspace</a></span>
 				<span class="categories java"><a>Java</a></span>
-				<span class="categories js"><a>Javascript</a></span>
-				<span class="categories mgmt"><a>Management</a></span>
 			</div>
 			<div class="col-md-12 category_row">	
+				<span class="categories js"><a>Javascript</a></span>
+				<span class="categories fun"><a>Just for Fun</a></span>
+				<span class="categories mgmt"><a>Management</a></span>
 				<span class="categories mobile"><a>Mobile Development</a></span>
 				<span class="categories os"><a>Open Source</a></span>
 				<span class="categories php"><a>PHP</a></span>
@@ -48,6 +51,8 @@
 				<span class="categories security"><a>Security</a></span>
 				<span class="categories saas"><a>Software as a Service</a></span>
 				<span class="categories sql"><a>SQL</a></span>
+			</div>
+			<div class="col-md-12 category_row">
 				<span class="categories tech"><a>Tech (General)</a></span>
 				<span class="categories test"><a>Test Automation/QA</a></span>
 			</div>

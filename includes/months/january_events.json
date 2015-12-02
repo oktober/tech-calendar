@@ -1,161 +1,113 @@
 {
 	"1" : 
 	{ 
+		"12pm" : [{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "Work from the Hacker Space",
+			"link" : "http://www.meetup.com/801labs/events/mlczflyvcbcb/",
+			"category" : "hack" 
+		}]
 	},
 	"2" : 
 	{ 
 	},
 	"3" : 
 	{ 
-		"12pm" : [{
-			"group" : "The Pluralsight Training Room",
-			"event_name" : "LunchJS (Nov)",
-			"link" : "http://www.meetup.com/PluralsightTrainingRoom/events/224218279/",
-			"category" : "hack" 
-		},
-		{
-			"group" : "Open Salt Lake",
-			"event_name" : "OpenSaltLake Hangout",
-			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflytpbfb/",
-			"category" : "os" 
-		}],
-		"5:30pm" : [{
-			"group" : "Urban Technology Enthusiasts of Utah",
-			"event_name" : "Beer && Code",
-			"link" : "http://www.meetup.com/UtahTechEnthusiasts/events/226207954/",
-			"category" : "hack" 
-		}],
-		"6:15pm" : [{
-			"group" : "Utah GOphers",
-			"event_name" : "TBD",
-			"link" : "http://www.meetup.com/utahgophers/events/223828597/",
-			"category" : "dev" 
-		}],
-		"6:30pm" : [{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "Practical Malware Analysis Group Night",
-			"link" : "http://www.meetup.com/801labs/events/226304299/",
-			"category" : "hack" 
-		}],
-		"7pm" : [{
-			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
-			"event_name" : "Code Night",
-			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/225979539/",
-			"category" : "mobile dev" 
-		}]
 	},
 	"4" : 
 	{  
-		"12pm" : [{
-			"group" : "Hack Ogden",
-			"event_name" : "Hack Ogden. Great speakers and free lunch!",
-			"link" : "http://www.meetup.com/HackOgden/events/226223649/",
-			"category" : "hack" 
-		}],
-		"5:30pm" : [{
-			"group" : "Impact Hub Salt Lake",
-			"event_name" : "CodeHub Meetup: Tech for Good",
-			"link" : "http://www.meetup.com/Impact-Hub-Salt-Lake/events/226289918/",
-			"category" : "tech" 
-		}],
-		"6pm" : [{
-			"group" : "Utah Software Craftsmanship",
-			"event_name" : "UtahSC Meeting",
-			"link" : "http://www.meetup.com/Utah-Software-Craftsmanship/events/224747547/",
-			"category" : "dev" 
-		}],
 		"6:30pm" : [{
-			"group" : "Salt Lake City Python",
-			"event_name" : "Getting Started With Machine Learning, presented by Joe Reis",
-			"link" : "http://www.meetup.com/SLCPython/events/224591470/",
-			"category" : "python dev data" 
-		},
-		{
-			"group" : "Make Salt Lake",
-			"event_name" : "ESP8266 Microcontroller SIG",
-			"link" : "http://www.meetup.com/MakeSaltLake/events/226425891/",
-			"category" : "tech" 
-		}],
-		"7pm" : [{
-			"group" : "Utah Ruby Users Group (URUG)",
-			"event_name" : "Docker in Development - DRUG November Monthly Meetup",
-			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/226097554/",
-			"category" : "ruby dev" 
-		}] 
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "Practical Malware Analysis Group Night",
+			"link" : "http://www.meetup.com/801labs/events/qmlxpkyvcbgb/",
+			"category" : "dev" 
+		}]
 	},
 	"5" : 
 	{ 
 		"12pm" : [{
-			"group" : "SaltStack Salt Lake City user group",
-			"event_name" : "Salting Nagios: Lifecycle of a Salt State",
-			"link" : "http://www.meetup.com/SaltStack-user-group-Salt-Lake-City/events/226088877/",
+			"group" : "Open Salt Lake",
+			"event_name" : "OpenSaltLake Hangout",
+			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflyvcbhb/",
 			"category" : "os" 
-		},
-		{
-			"group" : "Big Data Utah",
-			"event_name" : "View the National Data Science Organizer’s Workshop!",
-			"link" : "http://www.meetup.com/BigDataUtah/events/226404531/",
-			"category" : "data" 
-		}],
-		"2pm" : [{
-			"group" : "Agile Roundtable",
-			"event_name" : "Agile Roundtable",
-			"link" : "http://www.meetup.com/Agile-Roundtable/events/225095681/",
-			"category" : "agile" 
-		}],
-		"4:30pm" : [{
-			"group" : "University of Utah Business & Technology Speaker Series",
-			"event_name" : "Women and Information Systems Panel",
-			"link" : "http://www.meetup.com/UtahTech/events/226381060/",
-			"category" : "tech" 
 		}],
 		"6pm" : [{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "801 Labs Hangout Night",
-			"link" : "http://www.meetup.com/801labs/events/226252307/",
-			"category" : "hack" 
+			"group" : "ProVolt",
+			"event_name" : "Fabrication Night",
+			"link" : "http://www.meetup.com/ProVolt/events/kkftklyvcbhb/",
+			"category" : "tech" 
+		}],
+		"6:30pm" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "Intro to React JS",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/227146492/",
+			"category" : "class js" 
 		}],
 		"7pm" : [{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "Web Application Hacking Night",
-			"link" : "http://www.meetup.com/801labs/events/225207201/",
-			"category" : "hack" 
-		},
-		{
-			"group" : "UtahJS",
-			"event_name" : "UtahJS Orem Meetup",
-			"link" : "http://www.meetup.com/UtahJS/events/225760693/",
-			"category" : "js dev" 
-		},
-		{
-			"group" : "Girl Develop It Provo",
-			"event_name" : "{PROVO} Hack Night -Inside the web : What makes the net go Zoom!!",
-			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/226505396/",
-			"category" : "hack tech" 
+			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
+			"event_name" : "Code Night",
+			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/qwnklkyvcbhb/",
+			"category" : "mobile night" 
 		}]
 	},
 	"6" : 
 	{ 
 		"12pm" : [{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "Work from the Hacker Space",
-			"link" : "http://www.meetup.com/801labs/events/226288230/",
-			"category" : "hack" 
+			"group" : "Hack Ogden",
+			"event_name" : "Hack Ogden. Great speakers and free lunch!",
+			"link" : "http://www.meetup.com/HackOgden/events/rlqwllyvcbjb/",
+			"category" : "fun dev" 
+		}],
+		"5:30pm" : [{
+			"group" : "Impact Hub Salt Lake",
+			"event_name" : "CodeHub Meetup: Tech for Good",
+			"link" : "http://www.meetup.com/Impact-Hub-Salt-Lake/events/226839573/",
+			"category" : "tech night" 
+		}],
+		"6pm" : [{
+			"group" : "Utah Software Craftsmanship",
+			"event_name" : "UtahSC Meeting",
+			"link" : "http://www.meetup.com/Utah-Software-Craftsmanship/events/227144451/",
+			"category" : "dev" 
+		}],
+		"6:30pm" : [{
+			"group" : "Lehi Developers User Group",
+			"event_name" : "Learn, Hack, Socialize",
+			"link" : "http://www.meetup.com/Lehi-Developers-User-Group/events/dxmhhlyvcbjb/",
+			"category" : "night dev" 
+		}],
+		"7pm" : [{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "Weekly Hack Night - DRUG",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kzwxklyvcbjb/",
+			"category" : "ruby night" 
+		}],
+		"7pm" : [{
+			"group" : "Utah JavaScript Game Night",
+			"event_name" : "December Meetup (In January)",
+			"link" : "http://www.meetup.com/Utah-JavaScript-Game-Night/events/226911884/",
+			"category" : "js fun" 
+		},
+		{
+			"group" : "Code for Odin",
+			"event_name" : "Weekly Merriment whilst Coding for Odin",
+			"link" : "http://www.meetup.com/CodeforOdin/events/tcgdllyvcbjb/",
+			"category" : "night dev" 
+		}],
+		"7:15pm" : [{
+			"group" : "Salt Lake City Python",
+			"event_name" : "Elliptic curve cryptography with Justin Findlay",
+			"link" : "http://www.meetup.com/SLCPython/events/225063537/",
+			"category" : "python" 
 		}]
 	},
 	"7" : 
 	{ 
-		"10am" : [{
-			"group" : "SLC JS Learners",
-			"event_name" : "JavaScript Study Group",
-			"link" : "http://www.meetup.com/SLC-JS-Learners/events/224563973/",
-			"category" : "hack js" 
-		}],
-		"1pm" : [{
-			"group" : "World Tech Academy",
-			"event_name" : "Learn how to build your own website!",
-			"link" : "http://www.meetup.com/Build-Your-Own-Website-Tutorial-Free/events/226422124/",
-			"category" : "dev" 
+		"5:30pm" : [{
+			"group" : "Utah Software Architecture Meetup",
+			"event_name" : "Azure - Raju Pusapati",
+			"link" : "http://www.meetup.com/Utah-Software-Architecture-Meetup/events/225587939/",
+			"category" : "saas dev" 
 		}]
 	},
 	"8" : 
@@ -163,506 +115,134 @@
 	},
 	"9" : 
 	{
-		"3pm" : [{
-			"group" : "Utah SQL Server Group",
-			"event_name" : "SLC SQL Server User Group November Meeting",
-			"link" : "http://www.meetup.com/Utah-SQL-Server-Group/events/225350210/",
-			"category" : "sql" 
-		}],
-		"6pm" : [{
-			"group" : "Girl Develop It SLC",
-			"event_name" : "{SLC} Web Development Study Group",
-			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/225797794/",
-			"category" : "dev" 
-		}]
 	},
 	"10" : 
 	{
-		"12pm" : [{
-			"group" : "Open Salt Lake",
-			"event_name" : "OpenSaltLake Hangout",
-			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflytpbnb/",
-			"category" : "os" 
-		},
-		{
-			"group" : "Utah Ruby Users Group (URUG)",
-			"event_name" : "Logan Ruby Lunch",
-			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kqcqhlytpbnb/",
-			"category" : "ruby" 
-		}],
-		"6pm" : [{
-			"group" : "Lambda Lounge Utah",
-			"event_name" : "Papers We Love with Cameron Bytheway",
-			"link" : "http://www.meetup.com/Lambda-Lounge-Utah/events/223517388/",
-			"category" : "func dev" 
-		},
-		{
-			"group" : "AngularJS Utah",
-			"event_name" : "AngularJS Utah meetup",
-			"link" : "http://www.meetup.com/AngularJS-Utah/events/225214043/",
-			"category" : "js dev" 
-		},
-		{
-			"group" : "Lambda Lounge Utah",
-			"event_name" : "etude - parallel computation coordination compiler for erlang/elixr",
-			"link" : "http://www.meetup.com/Lambda-Lounge-Utah/events/223517388/",
-			"category" : "func dev" 
-		}],
-		"7pm" : [{
-			"group" : "Utah Open Source",
-			"event_name" : "Salt Lake Perl Mongers",
-			"link" : "http://www.meetup.com/UtahOpenSource/events/qdsrqhytpbnb/",
-			"category" : "os dev" 
-		},
-		{
-			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
-			"event_name" : "Code Night",
-			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/qwnklkytpbnb/",
-			"category" : "mobile dev" 
-		},
-		{
-			"group" : "Utah Ruby Users Group (URUG)",
-			"event_name" : "UV.rb November 2015 - Open Source Hack Together",
-			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/226556246/",
-			"category" : "ruby dev" 
-		}]
 	},
 	"11" : 
 	{ 
-		"12pm" : [{
-			"group" : "Hack Ogden",
-			"event_name" : "Hack Ogden. Great speakers and free lunch!",
-			"link" : "http://www.meetup.com/HackOgden/events/qgvrjlytpbpb/",
-			"category" : "hack" 
-		}],
-		"6pm" : [{
-			"group" : "Utah - AEM/CQ /CQ5 Developer Community",
-			"event_name" : "AEM Solr Search Meetup",
-			"link" : "http://www.meetup.com/Utah-Adobe-Experience-Manager-AEM-formerly-CQ/events/226108426/",
-			"category" : "dev" 
-		},
-		{
-			"group" : "Utah C++ Programmers",
-			"event_name" : "Group Programming / 1 Year Anniversary",
-			"link" : "http://www.meetup.com/Utah-Cpp-Programmers/events/224870518/",
-			"category" : "dev cplusplus" 
-		}],
-		"6:30pm" : [{
-			"group" : "Lehi Developers User Group",
-			"event_name" : "Learn, Hack, Socialize",
-			"link" : "http://www.meetup.com/Lehi-Developers-User-Group/events/dxmhhlytpbpb/",
-			"category" : "dev" 
-		}],
-		"7pm" : [{
-			"group" : "Utah d3.js",
-			"event_name" : "d3.js Frameworks",
-			"link" : "http://www.meetup.com/Utah-d3-js/events/226065685/",
-			"category" : "data js dev" 
-		},
-		{
-			"group" : "Utah Ruby Users Group (URUG)",
-			"event_name" : "Weekly Hack Night - DRUG",
-			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kzwxklytpbpb/",
-			"category" : "ruby dev" 
-		}]
 	},
 	"12" :
 	{ 
 		"6pm" : [{
-			"group" : "Big Data Utah",
-			"event_name" : "Big Data Utah Meeting @ IHC",
-			"link" : "http://www.meetup.com/BigDataUtah/events/226049797/",
-			"category" : "data" 
-		},
-		{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "801 Labs Hangout Night",
-			"link" : "http://www.meetup.com/801labs/events/dglgzhytpbqb/",
-			"category" : "hack" 
-		},
-		{
-			"group" : "Wasatch Front Agile",
-			"event_name" : "Wasatch Front Agile Monthly Meetup",
-			"link" : "http://www.meetup.com/wasatch-front-agile/events/225935216/",
-			"category" : "agile" 
+			"group" : "Dave Smith",
+			"event_name" : "Farewell IE8 Party",
+			"link" : "http://farewell.ie8.lol/",
+			"category" : "fun" 
 		}],
 		"6:30pm" : [{
-			"group" : "Utah Elixir",
-			"event_name" : "Utah Elixir Monthly Meetup",
-			"link" : "http://www.meetup.com/utah-elixir/events/224633496/",
-			"category" : "func dev" 
-		}],
-		"7pm" : [{
-			"group" : "Python at the Point",
-			"event_name" : "Elliptic Curve Cryptography in Python by Justin Findlay",
-			"link" : "http://www.meetup.com/PythonAtThePoint/events/224628121/",
-			"category" : "python dev" 
-		},
-		{
-			"group" : "Utah WordPress Meetup Groups",
-			"event_name" : "UV Meetup: How to Write WordPress Plugins",
-			"link" : "http://www.meetup.com/utahwp/events/226514063/",
-			"category" : "php dev" 
+			"group" : "DevPoint Labs",
+			"event_name" : "Beginner Ruby Workshop Series",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/227140688/",
+			"category" : "class ruby" 
 		}]
 	},
 	"13" :
 	{  
-		"12pm" : [{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "Work from the Hacker Space",
-			"link" : "http://www.meetup.com/801labs/events/226281103/",
-			"category" : "hack" 
+		"6:30pm" : [{
+			"group" : "Big Data Utah",
+			"event_name" : "Bios to Boot to Hadoop (Couple hours to deploy!)",
+			"link" : "http://www.meetup.com/BigDataUtah/events/226495049/",
+			"category" : "data" 
 		}]
 	},
 	"14" :
 	{
-		"8:30am" : [{
-			"group" : "Pluralsight",
-			"event_name" : "Global Day of Coderetreat",
-			"link" : "https://www.eventbrite.com/e/pluralsight-global-day-of-coderetreat-tickets-19362753517",
-			"category" : "conf" 
+		"8am" : [{
+			"group" : "Utah PHP User Group",
+			"event_name" : "SkiPHP 2016",
+			"link" : "https://www.skiphp.com/",
+			"category" : "conf php" 
 		}],
-		"9am" : [{
-			"group" : "Impact Hub Salt Lake",
-			"event_name" : "CodeHub Session: Web Development Tutorial",
-			"link" : "http://www.meetup.com/Impact-Hub-Salt-Lake/events/226029063/",
-			"category" : "dev" 
+		"6pm" : [{
+			"group" : "Utah MongoDB User Group",
+			"event_name" : "UMUG Meeting at Vivint",
+			"link" : "http://www.meetup.com/Utah-MongoDB-User-Group/events/227007104/",
+			"category" : "db" 
+		},
+		{
+			"group" : "Utah County Android Developers",
+			"event_name" : "Kotlin: The future of Android development?",
+			"link" : "http://www.meetup.com/Utah-County-Android-Developers/events/226891591/",
+			"category" : "mobile" 
+		},
+		{
+			"group" : "Utah .NET User Group",
+			"event_name" : "TBD",
+			"link" : "http://www.meetup.com/Utah-NET-User-Group/events/226720766/",
+			"category" : "dotnet" 
 		}]
 	},
 	"15" :
 	{ 
+		"9am" : [{
+			"group" : "Utah PHP User Group",
+			"event_name" : "SkiPHP 2016",
+			"link" : "https://www.skiphp.com/",
+			"category" : "conf php" 
+		}]
 	},
 	"16" :
 	{
-		"6pm" : [{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "SLC Linux Nethunter Workshop",
-			"link" : "http://www.meetup.com/801labs/events/226488227/",
-			"category" : "os hack" 
-		},
-		{
-			"group" : "Impact Hub Salt Lake",
-			"event_name" : "CodeHub Meetup: featuring Gun Open Source Database",
-			"link" : "http://www.meetup.com/Impact-Hub-Salt-Lake/events/ptzcllytpbvb/",
-			"category" : "dev os db" 
-		}],
-		"7pm" : [{
-			"group" : "Utah WordPress Meetup Groups",
-			"event_name" : "How to Increase Conversion Rates for your WP Sites - Jason Pedersen",
-			"link" : "http://www.meetup.com/utahwp/events/226596885/",
-			"category" : "php tech" 
-		}]
 	},
 	"17" :
 	{ 
-		"6pm" : [{
-			"group" : "Google Developer Group of Utah",
-			"event_name" : "Domo presents Android",
-			"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/226516981/",
-			"category" : "mobile dev" 
-		},
-		{
-			"group" : "ProVolt",
-			"event_name" : "Fabrication Night",
-			"link" : "http://www.meetup.com/ProVolt/events/226716221/",
-			"category" : "tech" 
-		}],
-		"6:30pm" : [{
-			"group" : "SLC JS Learners",
-			"event_name" : "Leveling Up - Developing Knowledge and Skills for Employment",
-			"link" : "http://www.meetup.com/SLC-JS-Learners/events/225524449/",
-			"category" : "js dev" 
-		},
-		{
-			"group" : "Utah County Android Developers",
-			"event_name" : "SDKs, APIs, Libraries Oh my! This meetup's for everyone.",
-			"link" : "http://www.meetup.com/Utah-County-Android-Developers/events/226711403/",
-			"category" : "mobile dev" 
-		}],
-		"7pm" : [{
-			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
-			"event_name" : "Code Night",
-			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/qwnklkytpbwb/",
-			"category" : "mobile dev" 
-		},
-		{
-			"group" : "ProvoJS",
-			"event_name" : "React Night - Mega Meetup & Hackshop",
-			"link" : "http://www.meetup.com/ProvoJS/events/226383206/",
-			"category" : "js dev" 
-		}],
-		"7:30pm" : [{
-			"group" : "UtahJS",
-			"event_name" : "UtahJS SLC Meetup - November 2015",
-			"link" : "http://www.meetup.com/UtahJS/events/226040625/",
-			"category" : "js dev" 
-		},
-		{
-			"group" : "Utah Open Source",
-			"event_name" : "Provo Linux User Group (PLUG)",
-			"link" : "http://www.meetup.com/UtahOpenSource/events/qsjjrkytpbwb/",
-			"category" : "os" 
-		}]
 	},
 	"18" :
 	{ 
-		"11am" : [{
-			"group" : "Utah WordPress Meetup Groups",
-			"event_name" : "WP Burrito Wednesday!",
-			"link" : "http://www.meetup.com/utahwp/events/226813461/",
-			"category" : "php tech" 
-		}],
-		"12pm" : [{
-			"group" : "Hack Ogden",
-			"event_name" : "Hack Ogden. Great speakers and free lunch!",
-			"link" : "http://www.meetup.com/HackOgden/events/226459367/",
-			"category" : "hack" 
-		},
-		{
-			"group" : "Big Data Utah",
-			"event_name" : "IM Flash: Process Optimization // AIM Big Data Executive Series",
-			"link" : "http://www.meetup.com/BigDataUtah/events/226838975/",
-			"category" : "data" 
-		}],
-		"5:30pm" : [{
-			"group" : "Meteor Salt Lake City",
-			"event_name" : "Lets meet up on Meteor",
-			"link" : "http://www.meetup.com/Meteor-Salt-Lake-City/events/226677197/",
-			"category" : "js dev" 
-		}],
-		"6pm" : [{
-			"group" : "Utah Node.js Ninjas - SLC",
-			"event_name" : "SLC - Presentations and Discussion",
-			"link" : "http://www.meetup.com/utahnodejs/events/226098953/",
-			"category" : "dev js"  
-		},
-		{
-			"group" : "Girl Develop It SLC",
-			"event_name" : "{SLC} **Hack Night**",
-			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/226298823/",
-			"category" : "dev hack"  
-		},
-		{
-			"group" : "Open Salt Lake",
-			"event_name" : "OpenSaltLake in person meet-up",
-			"link" : "http://www.meetup.com/Open-Salt-Lake/events/226707046/",
-			"category" : "os hack" 
-		},
-		{
-			"group" : "Utah County .NET User Group",
-			"event_name" : "Visual Studio Code",
-			"link" : "http://www.meetup.com/Utah-County-NET-User-Group/events/226309463/",
-			"category" : "dev dotnet"  
-		},
-		{
-			"group" : "RethinkDB Utah",
-			"event_name" : "RethinkDB Utah Monthly meeting",
-			"link" : "http://www.meetup.com/RethinkDB-Utah/events/sswshlytpbxb/",
-			"category" : "db"  
-		}],
-		"7pm" : [{
-			"group" : "Utah Ruby Users Group (URUG)",
-			"event_name" : "Weekly Hack Night - DRUG",
-			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kzwxklytpbxb/",
-			"category" : "ruby dev" 
-		}]
 	},
 	"19" :
 	{ 
-		"12pm" : [{
-			"group" : "Big Data Utah",
-			"event_name" : "Adobe: Leveraging Social Data into Insights and Revenue // AIM Exec Series",
-			"link" : "http://www.meetup.com/BigDataUtah/events/226839078/",
-			"category" : "data" 
-		}],
-		"5:30pm" : [{
-			"group" : "Utah Java Users Group",
-			"event_name" : "Spring Boot and Spring Cloud",
-			"link" : "http://www.meetup.com/Utah-Java-Users-Group/events/223750370/",
-			"category" : "java dev" 
-		}],
-		"6pm" : [{
-			"group" : "Python Utah North",
-			"event_name" : "Testing Strategies with Robert Stewart",
-			"link" : "http://www.meetup.com/Python-Utah-North/events/225010995/",
-			"category" : "dev python"  
-		},
-		{
-			"group" : "Salt Lake AWS",
-			"event_name" : "AWS re:Invent 2015 in Review",
-			"link" : "http://www.meetup.com/Salt-Lake-AWS/events/225855765/",
-			"category" : "saas"  
-		},
-		{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "801 Labs Hangout Night",
-			"link" : "http://www.meetup.com/801labs/events/dglgzhytpbzb/",
-			"category" : "hack"  
-		},
-		{
-			"group" : "Utah Mobile .NET User Group",
-			"event_name" : "What's new in the Xamarin world",
-			"link" : "http://www.meetup.com/UtahMobileDevelopers/events/224618659/",
-			"category" : "dotnet mobile"  
-		},
-		{
-			"group" : "ProVolt",
-			"event_name" : "Electronics Night",
-			"link" : "http://www.meetup.com/ProVolt/events/tkftklytpbzb/",
-			"category" : "tech" 
-		}],
-		"7pm" : [{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "SLC Circuit Breakers Hardware Hacking User Group",
-			"link" : "http://www.meetup.com/801labs/events/225207194/",
-			"category" : "hack tech" 
-		},
-		{
-			"group" : "OpenStack Utah",
-			"event_name" : "Open Stack Monthly Meetup",
-			"link" : "http://www.meetup.com/openstack-utah/events/225939602/",
-			"category" : "saas" 
-		},
-		{
-			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
-			"event_name" : "CocoaHeads Meeting",
-			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/226251640/",
-			"category" : "mobile dev" 
-		},
-		{
-			"group" : "Girl Develop It Provo",
-			"event_name" : "{PROVO} COMMAND LINE & FTP",
-			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/226802156/",
-			"category" : "hack dev" 
-		},
-		{
-			"group" : "Lambda Lounge Utah",
-			"event_name" : "Introduction to Purescript Workshop",
-			"link" : "http://www.meetup.com/Lambda-Lounge-Utah/events/226839315/",
-			"category" : "func dev" 
+		"6:30pm" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "JavaScript Workshop Series",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/227147657/",
+			"category" : "js class" 
 		}]
 	},
 	"20" :
 	{ 
-		"11:30am" : [{
+		"6:30pm" : [{
 			"group" : "Big Data Utah",
-			"event_name" : "EMC: Architecture and Round Table // AIM Big Data Executive Series",
-			"link" : "http://www.meetup.com/BigDataUtah/events/226839256/",
+			"event_name" : "UHUG - Hadoop User Group - Deploying the Hadoop Ecosystem!",
+			"link" : "http://www.meetup.com/BigDataUtah/events/226386260/",
 			"category" : "data" 
-		}],
-		"12pm" : [{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "Work from the Hacker Space",
-			"link" : "http://www.meetup.com/801labs/events/mlczflytpbbc/",
-			"category" : "hack" 
 		}]
 	},
 	"21" :
 	{ 
-		"8:30am" : [{
-			"group" : "Big Data Utah",
-			"event_name" : "Intermountain Big Data Conference ",
-			"link" : "http://www.meetup.com/BigDataUtah/events/226056195/",
-			"category" : "conf data"  
-		}],
-		"11am" : [{
-			"group" : "Ogden DIY Robotic Makers Meetup",
-			"event_name" : "4th Meetup For Our Group",
-			"link" : "http://www.meetup.com/Ogden-DIY-Robotic-Makers-Meetup/events/226168379/",
-			"category" : "tech"  
-		}],
-		"3pm" : [{
-			"group" : "Utah Bitcoin Community",
-			"event_name" : "Monthly Meet Up - 3rd Saturday of Each Month",
-			"link" : "http://www.meetup.com/Utah-Bitcoin-Community/events/dpttfkytpbcc/",
-			"category" : "tech"  
-		}]
 	},
 	"22" :
 	{ 
-		"11am" : [{
-			"group" : "Girl Develop It SLC",
-			"event_name" : "{SLC} PseudoCode & Coffee",
-			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/226760429/",
-			"category" : "dev"  
-		}]
 	},
 	"23" :
 	{ 
-		"6:30pm" : [{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "Practical Malware Analysis Group Night",
-			"link" : "http://www.meetup.com/801labs/events/qmlxpkytpbfc/",
-			"category" : "hack" 
-		}]
 	},
 	"24" :
 	{ 
-		"12pm" : [{
-			"group" : "Open Salt Lake",
-			"event_name" : "OpenSaltLake Hangout",
-			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflytpbgc/",
-			"category" : "os" 
-		}],
-		"7pm" : [{
-			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
-			"event_name" : "Code Night",
-			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/qwnklkytpbgc/",
-			"category" : "mobile dev" 
-		}]
 	},
 	"25" :
 	{ 
-		"6pm" : [{
-			"group" : "SLC Front-end Web Developers",
-			"event_name" : "SLC FWD Pizza as Usual",
-			"link" : "http://www.meetup.com/slcfwd/events/226336439/",
-			"category" : "dev" 
-		}],
-		"6:30pm" : [{
-			"group" : "Make Salt Lake",
-			"event_name" : "Microcontroller meetup",
-			"link" : "http://www.meetup.com/MakeSaltLake/events/srzsllytpbhc/",
-			"category" : "tech" 
-		}],
-		"7pm" : [{
-			"group" : "Utah Ruby Users Group (URUG)",
-			"event_name" : "Weekly Hack Night - DRUG",
-			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kzwxklytpbhc/",
-			"category" : "ruby dev" 
-		}] 
 	},
 	"26" :
 	{ 
-		"6pm" : [{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "801 Labs Hangout Night",
-			"link" : "http://www.meetup.com/801labs/events/dglgzhytpbjc/",
-			"category" : "hack" 
-		}]
 	},
 	"27" :
 	{ 
-		"12pm" : [{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "Work from the Hacker Space",
-			"link" : "http://www.meetup.com/801labs/events/mlczflytpbkc/",
-			"category" : "hack" 
-		}]
 	},
 	"28" :
 	{ 
 	},
 	"29" :
 	{ 
+		"8:30am" : [{
+			"group" : "PhoneGap Day",
+			"event_name" : "PhoneGap Day",
+			"link" : "http://pgday.phonegap.com/",
+			"category" : "conf mobile" 
+		}]
 	},
 	"30" :
 	{ 
-		"6:30pm" : [{
-			"group" : "Google Developer Group of Utah",
-			"event_name" : "Polymer Dart Code Lab: Google Maps",
-			"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/226661546/",
-			"category" : "dev js" 
-		}]
 	}
 }
