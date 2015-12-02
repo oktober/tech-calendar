@@ -164,20 +164,74 @@
 	},
 	"11" : 
 	{ 
+		"3pm" : [{
+			"group" : "Utah SQL Server Group",
+			"event_name" : "SLC SQL Server User Group January Meeting",
+			"link" : "http://www.meetup.com/Utah-SQL-Server-Group/events/227145756/",
+			"category" : "sql" 
+		}],
+		"6pm" : [{
+			"group" : "Girl Develop It SLC",
+			"event_name" : "{SLC} Web Development Study Group",
+			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/mtfdllyvcbpb/",
+			"category" : "dev night" 
+		}]
 	},
 	"12" :
 	{ 
+		"12pm" : [{
+			"group" : "Open Salt Lake",
+			"event_name" : "OpenSaltLake Hangout",
+			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflyvcbqb/",
+			"category" : "os" 
+		},
+		{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "Logan Ruby Lunch",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kqcqhlyvcbqb/",
+			"category" : "fun ruby" 
+		}],
 		"6pm" : [{
 			"group" : "Dave Smith",
 			"event_name" : "Farewell IE8 Party",
 			"link" : "http://farewell.ie8.lol/",
 			"category" : "fun" 
+		},
+		{
+			"group" : "AngularJS Utah",
+			"event_name" : "AngularJS Utah meetup",
+			"link" : "http://www.meetup.com/AngularJS-Utah/events/226023776/",
+			"category" : "js" 
+		},
+		{
+			"group" : "ProVolt",
+			"event_name" : "Fabrication Night",
+			"link" : "http://www.meetup.com/ProVolt/events/kkftklyvcbqb/",
+			"category" : "tech" 
+		},
+		{
+			"group" : "Lambda Lounge Utah",
+			"event_name" : "TBD",
+			"link" : "http://www.meetup.com/Lambda-Lounge-Utah/events/qdghthyvcbqb/",
+			"category" : "func dev" 
 		}],
 		"6:30pm" : [{
 			"group" : "DevPoint Labs",
 			"event_name" : "Beginner Ruby Workshop Series",
 			"link" : "http://www.meetup.com/DevPoint-Labs/events/227140688/",
 			"category" : "class ruby" 
+		}],
+		"7pm" : [{
+			"group" : "Utah Open Source",
+			"event_name" : "Salt Lake Perl Mongers",
+			"link" : "http://www.meetup.com/UtahOpenSource/events/qdsrqhyvcbqb/",
+			"category" : "os dev" 
+		},
+		{
+			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
+			"event_name" : "Code Night",
+			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/qwnklkyvcbqb/",
+			"category" : "mobile night" 
 		}]
 	},
 	"13" :
