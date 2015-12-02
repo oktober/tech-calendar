@@ -482,9 +482,51 @@
 	},
 	"21" :
 	{ 
+		"12pm" : [{
+			"group" : "Big Data Utah",
+			"event_name" : "Hadoop Lunch @ Adobe",
+			"link" : "http://www.meetup.com/BigDataUtah/events/vsgvllyvcbcc/",
+			"category" : "fun data" 
+		}],
+		"5:30pm" : [{
+			"group" : "Utah Java Users Group",
+			"event_name" : "Event Sourcing / Design Patterns",
+			"link" : "http://www.meetup.com/Utah-Java-Users-Group/events/226804885/",
+			"category" : "java" 
+		}],
+		"6pm" : [{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "801 Labs Hangout Night",
+			"link" : "http://www.meetup.com/801labs/events/dglgzhyvcbcc/",
+			"category" : "hack tech" 
+		},
+		{
+			"group" : "Utah .NET User Group",
+			"event_name" : "TBD",
+			"link" : "http://www.meetup.com/UtahMobileDevelopers/events/mtxhhlyvcbcc/",
+			"category" : "dotnet" 
+		},
+		{
+			"group" : "ProVolt",
+			"event_name" : "Electronics Night",
+			"link" : "http://www.meetup.com/ProVolt/events/tkftklyvcbcc/",
+			"category" : "tech" 
+		}],
+		"7pm" : [{
+			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
+			"event_name" : "CocoaHeads Meeting",
+			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/zbxshlyvcbcc/",
+			"category" : "mobile" 
+		}]
 	},
 	"22" :
 	{ 
+		"12pm" : [{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "Work from the Hacker Space",
+			"link" : "http://www.meetup.com/801labs/events/mlczflyvcbdc/",
+			"category" : "hack" 
+		}]
 	},
 	"23" :
 	{ 
