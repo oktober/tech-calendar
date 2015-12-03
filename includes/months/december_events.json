@@ -184,6 +184,12 @@
 			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kqcqhlytqblb/",
 			"category" : "ruby" 
 		}],
+		"4pm" : [{
+			"group" : "University of Utah Business & Technology Speaker Series",
+			"event_name" : "EMC Speaker Josh Bernstein, VP of Technical Strategy for Emerging Technologies",
+			"link" : "http://www.meetup.com/UtahTech/events/227172862/",
+			"category" : "os mgmt dev" 
+		}],
 		"6pm" : [{
 			"group" : "Lambda Lounge Utah",
 			"event_name" : "TBD",
