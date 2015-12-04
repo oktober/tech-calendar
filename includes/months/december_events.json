@@ -207,6 +207,12 @@
 			"event_name" : "Code Night",
 			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/qwnklkytqblb/",
 			"category" : "mobile dev" 
+		},
+		{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "ActionCable and Wrapping APIs - December UV.rb",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/227209096/",
+			"category" : "ruby" 
 		}]
 	},
 	"9" : 
@@ -294,9 +300,9 @@
 		}],
 		"7pm" : [{
 			"group" : "Python at the Point",
-			"event_name" : "Monthly Meetup",
-			"link" : "http://www.meetup.com/PythonAtThePoint/events/224628124/",
-			"category" : "python dev" 
+			"event_name" : "Office Hours",
+			"link" : "http://www.meetup.com/PythonAtThePoint/events/227190627/",
+			"category" : "python" 
 		},
 		{
 			"group" : "Northern Utah .NET Users Group (NUNUG)",
