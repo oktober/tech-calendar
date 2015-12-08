@@ -190,19 +190,7 @@
 			"link" : "http://www.meetup.com/UtahTech/events/227172862/",
 			"category" : "os mgmt dev" 
 		}],
-		"6pm" : [{
-			"group" : "Lambda Lounge Utah",
-			"event_name" : "TBD",
-			"link" : "http://www.meetup.com/Lambda-Lounge-Utah/events/qdghthytqblb/",
-			"category" : "func dev" 
-		}],
 		"7pm" : [{
-			"group" : "Utah Open Source",
-			"event_name" : "Salt Lake Perl Mongers",
-			"link" : "http://www.meetup.com/UtahOpenSource/events/qdsrqhytqblb/",
-			"category" : "os dev" 
-		},
-		{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
 			"event_name" : "Code Night",
 			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/qwnklkytqblb/",
@@ -392,12 +380,6 @@
 			"category" : "mobile dev" 
 		}],
 		"7:30pm" : [{
-			"group" : "Utah Open Source",
-			"event_name" : "Provo Linux User Group (PLUG)",
-			"link" : "http://www.meetup.com/UtahOpenSource/events/qsjjrkytqbtb/",
-			"category" : "os dev" 
-		},
-		{
 			"group" : "UtahJS",
 			"event_name" : "UtahJS SLC Meetup - December 2015",
 			"link" : "http://www.meetup.com/UtahJS/events/226849276/",
@@ -407,12 +389,6 @@
 	"16" :
 	{
 		"12pm" : [{
-			"group" : "Utah Scala Enthusiasts",
-			"event_name" : "Informal Scala Lunch",
-			"link" : "http://www.meetup.com/Utah-Scala-Enthusiasts/events/hbwtdlytqbvb/",
-			"category" : "func" 
-		},
-		{
 			"group" : "Hack Ogden",
 			"event_name" : "Hack Ogden. Great speakers and free lunch!",
 			"link" : "http://www.meetup.com/HackOgden/events/rlqwllytqbvb/",
@@ -475,12 +451,6 @@
 			"event_name" : "CocoaHeads Meeting",
 			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/226638292/",
 			"category" : "mobile dev" 
-		},
-		{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "Web Application Hacking Night",
-			"link" : "http://www.meetup.com/801labs/events/nsgcklytqbwb/",
-			"category" : "hack dev" 
 		}]
 	},
 	"18" :
@@ -494,12 +464,6 @@
 	},
 	"19" :
 	{ 
-		"11am" : [{
-			"group" : "Ogden DIY Robotic Makers Meetup",
-			"event_name" : "1st Meetup For Our Group",
-			"link" : "http://www.meetup.com/Ogden-DIY-Robotic-Makers-Meetup/events/bdqsjlytqbzb/",
-			"category" : "tech" 
-		}],
 		"3pm" : [{
 			"group" : "Utah Bitcoin Community",
 			"event_name" : "Monthly Meet Up - 3rd Saturday of Each Month",
@@ -512,12 +476,6 @@
 	},
 	"21" :
 	{ 
-		"6pm" : [{
-			"group" : "Impact Hub Salt Lake",
-			"event_name" : "CodeHub Meetup: featuring Gun Open Source Database",
-			"link" : "http://www.meetup.com/Impact-Hub-Salt-Lake/events/ptzcllytqbcc/",
-			"category" : "db os" 
-		}],
 		"6:30pm" : [{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "Practical Malware Analysis Group Night",
@@ -527,12 +485,6 @@
 	},
 	"22" :
 	{ 
-		"12pm" : [{
-			"group" : "Open Salt Lake",
-			"event_name" : "OpenSaltLake Hangout",
-			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflytqbdc/",
-			"category" : "os" 
-		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
 			"event_name" : "Code Night",
