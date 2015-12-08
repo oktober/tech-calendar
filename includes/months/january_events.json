@@ -539,6 +539,12 @@
 	},
 	"26" :
 	{ 
+		"9am" : [{
+			"group" : "Salt Lake AWS",
+			"event_name" : "1Strategy Utah Cloud Summit 2016",
+			"link" : "http://www.meetup.com/Salt-Lake-AWS/events/227216899/",
+			"category" : "conf saas" 
+		}],
 		"12pm" : [{
 			"group" : "Open Salt Lake",
 			"event_name" : "OpenSaltLake Hangout",
@@ -571,6 +577,12 @@
 			"event_name" : "Hack Ogden. Great speakers and free lunch!",
 			"link" : "http://www.meetup.com/HackOgden/events/rlqwllyvcbkc/",
 			"category" : "fun dev" 
+		}],
+		"4pm" : [{
+			"group" : "Salt Lake AWS",
+			"event_name" : "AWS Partner Smartronix Presents: Sundance Networking and Happy Hour",
+			"link" : "http://www.meetup.com/Salt-Lake-AWS/events/227278071/",
+			"category" : "fun saas" 
 		}],
 		"6pm" : [{
 			"group" : "SLC Front-end Web Developers",
@@ -649,6 +661,12 @@
 			"event_name" : "Work from the Hacker Space",
 			"link" : "http://www.meetup.com/801labs/events/mlczflyvcbmc/",
 			"category" : "hack" 
+		},
+		{
+			"group" : "Salt Lake AWS",
+			"event_name" : "AWS Partner Smartronix Presents: Sundance Networking Lunch",
+			"link" : "http://www.meetup.com/Salt-Lake-AWS/events/227278271/",
+			"category" : "fun saas" 
 		}]
 	},
 	"30" :
