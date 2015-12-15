@@ -402,15 +402,15 @@
 		},
 		{
 			"group" : "Utah County .NET User Group",
-			"event_name" : "Visual Studio Code",
+			"event_name" : "Task Runners - Grunt, Gulp, etc.",
 			"link" : "http://www.meetup.com/Utah-County-NET-User-Group/events/225691674/",
 			"category" : "dotnet dev" 
 		},
 		{
-			"group" : "RethinkDB Utah",
-			"event_name" : "RethinkDB Utah Monthly meeting",
-			"link" : "http://www.meetup.com/RethinkDB-Utah/events/sswshlytqbvb/",
-			"category" : "os db" 
+			"group" : "The Iron Yard - Salt Lake City",
+			"event_name" : "Free Crash Course: Build a fun iOS Sticker App using Swift 2",
+			"link" : "http://www.meetup.com/The-Iron-Yard-Salt-Lake-City/events/227345298/",
+			"category" : "class mobile" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Ruby Users Group (URUG)",
@@ -445,6 +445,12 @@
 			"event_name" : "Beginner JavaScript Workshop Series",
 			"link" : "http://www.meetup.com/DevPoint-Labs/events/227140593/",
 			"category" : "js dev" 
+		},
+		{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "Holiday Waffles",
+			"link" : "http://www.meetup.com/utahwp/events/227365833/",
+			"category" : "fun php" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
