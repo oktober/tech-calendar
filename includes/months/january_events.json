@@ -280,6 +280,12 @@
 			"event_name" : "SkiPHP 2016",
 			"link" : "https://www.skiphp.com/",
 			"category" : "conf php" 
+		},
+		{
+			"group" : "Utah Oracle Users Group",
+			"event_name" : "Go Faster: Make Oracle Work For You",
+			"link" : "http://www.meetup.com/Utah-Oracle-Users-Group/events/227348170/",
+			"category" : "class db" 
 		}],
 		"5:45pm" : [{
 			"group" : "Magento Users Group",
@@ -322,6 +328,12 @@
 			"event_name" : "Electronics Night",
 			"link" : "http://www.meetup.com/ProVolt/events/tkftklyvcbsb/",
 			"category" : "tech" 
+		},
+		{
+			"group" : "Utah Elm Users",
+			"event_name" : "January Meetup",
+			"link" : "http://www.meetup.com/Utah-Elm-Users/events/227368585/",
+			"category" : "func night" 
 		}],
 		"6:30pm" : [{
 			"group" : "SLC Tech Startups",
