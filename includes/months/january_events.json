@@ -134,6 +134,12 @@
 			"link" : "http://www.meetup.com/Ogden-js/events/xhnvllyvcbkb/",
 			"category" : "js" 
 		}],
+		"6:30pm" : [{
+			"group" : "Big Data Utah",
+			"event_name" : "Quarterly Meeting at Think Big Analytics",
+			"link" : "http://www.meetup.com/BigDataUtah/events/227443132/",
+			"category" : "data" 
+		}],
 		"7pm" : [{
 			"group" : "UtahJS",
 			"event_name" : "UtahJS Orem Meetup",
