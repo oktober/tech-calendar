@@ -485,6 +485,12 @@
 	},
 	"22" :
 	{ 
+		"12pm" : [{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "Ruby on Reubens",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/227551767/",
+			"category" : "fun ruby" 
+		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
 			"event_name" : "Code Night",
