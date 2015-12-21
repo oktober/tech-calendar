@@ -10,6 +10,12 @@
 	},
 	"2" : 
 	{ 
+		"8:30am" : [{
+			"group" : "Utah STEM Fest",
+			"event_name" : "Utah STEM Fest",
+			"link" : "http://utahstemfest.com/",
+			"category" : "conf" 
+		}],
 		"12pm" : [{
 			"group" : "Open Salt Lake",
 			"event_name" : "OpenSaltLake Hangout",
@@ -37,6 +43,12 @@
 	},
 	"3" : 
 	{ 
+		"8:30am" : [{
+			"group" : "Utah STEM Fest",
+			"event_name" : "Utah STEM Fest",
+			"link" : "http://utahstemfest.com/",
+			"category" : "conf" 
+		}],
 		"12pm" : [{
 			"group" : "Hack Ogden",
 			"event_name" : "Hack Ogden. Great speakers and free lunch!",
@@ -70,6 +82,12 @@
 	},
 	"4" : 
 	{  
+		"8:30am" : [{
+			"group" : "Utah STEM Fest",
+			"event_name" : "Utah STEM Fest",
+			"link" : "http://utahstemfest.com/",
+			"category" : "conf" 
+		}],
 		"2pm" : [{
 			"group" : "Agile Roundtable",
 			"event_name" : "Agile Roundtable",
