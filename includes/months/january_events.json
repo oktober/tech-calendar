@@ -197,6 +197,12 @@
 			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kqcqhlyvcbqb/",
 			"category" : "fun ruby" 
 		}],
+		"5:30pm" : [{
+			"group" : "Utah QA User Group",
+			"event_name" : "Actor Based Programming for Testing",
+			"link" : "http://www.meetup.com/Utah-QA-User-Group/events/227551305/",
+			"category" : "test" 
+		}],
 		"6pm" : [{
 			"group" : "Dave Smith",
 			"event_name" : "Farewell IE8 Party",
@@ -250,9 +256,15 @@
 		}],
 		"6pm" : [{
 			"group" : "Utah C++ Programmers",
-			"event_name" : "Regular Monthly Meeting",
+			"event_name" : "Package Management with Hunter and CMake",
 			"link" : "http://www.meetup.com/Utah-Cpp-Programmers/events/219866935/",
 			"category" : "cplusplus" 
+		},
+		{
+			"group" : "Docker Salt Lake City",
+			"event_name" : "Using Docker with Ansible and Amazon's New EC2 Container Service",
+			"link" : "http://www.meetup.com/Docker-Salt-Lake-City/events/227463716/",
+			"category" : "saas" 
 		}],
 		"6:30pm" : [{
 			"group" : "Big Data Utah",
@@ -439,6 +451,12 @@
 			"event_name" : "Provo Linux User Group (PLUG)",
 			"link" : "http://www.meetup.com/UtahOpenSource/events/qsjjrkyvcbzb/",
 			"category" : "os" 
+		},
+		{
+			"group" : "UtahJS",
+			"event_name" : "UtahJS SLC Meetup",
+			"link" : "http://www.meetup.com/UtahJS/events/227492000/",
+			"category" : "js" 
 		}]
 	},
 	"20" :
