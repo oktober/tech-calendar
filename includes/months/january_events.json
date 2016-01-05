@@ -95,12 +95,6 @@
 			"category" : "js fun" 
 		},
 		{
-			"group" : "Code for Odin",
-			"event_name" : "Weekly Merriment whilst Coding for Odin",
-			"link" : "http://www.meetup.com/CodeforOdin/events/tcgdllyvcbjb/",
-			"category" : "night dev" 
-		},
-		{
 			"group" : "Utah Ruby Users Group (URUG)",
 			"event_name" : "Improve Your Dev Workflow - DRUG January Monthly Meetup",
 			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/227462427/",
@@ -319,12 +313,6 @@
 			"event_name" : "Utah d3.js animations",
 			"link" : "http://www.meetup.com/Utah-d3-js/events/mgrfhlyvcbrb/",
 			"category" : "js" 
-		},
-		{
-			"group" : "Code for Odin",
-			"event_name" : "Weekly Merriment whilst Coding for Odin",
-			"link" : "http://www.meetup.com/CodeforOdin/events/tcgdllyvcbrb/",
-			"category" : "night dev" 
 		}]
 	},
 	"14" :
@@ -568,12 +556,6 @@
 			"event_name" : "Weekly Hack Night - DRUG",
 			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kzwxklyvcbbc/",
 			"category" : "ruby night" 
-		},
-		{
-			"group" : "Code for Odin",
-			"event_name" : "Weekly Merriment whilst Coding for Odin",
-			"link" : "http://www.meetup.com/CodeforOdin/events/tcgdllyvcbbc/",
-			"category" : "night dev" 
 		}]
 	},
 	"21" :
@@ -715,12 +697,6 @@
 			"event_name" : "January Game Night",
 			"link" : "http://www.meetup.com/Utah-JavaScript-Game-Night/events/xphcllyvcbkc/",
 			"category" : "js fun" 
-		},
-		{
-			"group" : "Code for Odin",
-			"event_name" : "Weekly Merriment whilst Coding for Odin",
-			"link" : "http://www.meetup.com/CodeforOdin/events/tcgdllyvcbkc/",
-			"category" : "night dev" 
 		}]
 	},
 	"28" :
