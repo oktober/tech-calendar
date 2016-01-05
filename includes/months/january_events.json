@@ -75,6 +75,12 @@
 			"event_name" : "Learn, Hack, Socialize",
 			"link" : "http://www.meetup.com/Lehi-Developers-User-Group/events/dxmhhlyvcbjb/",
 			"category" : "night dev" 
+		},
+		{
+			"group" : "Make Salt Lake",
+			"event_name" : "3D Printer Certification Class",
+			"link" : "http://www.meetup.com/MakeSaltLake/events/227806640/",
+			"category" : "class tech" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Ruby Users Group (URUG)",
@@ -93,6 +99,12 @@
 			"event_name" : "Weekly Merriment whilst Coding for Odin",
 			"link" : "http://www.meetup.com/CodeforOdin/events/tcgdllyvcbjb/",
 			"category" : "night dev" 
+		},
+		{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "Improve Your Dev Workflow - DRUG January Monthly Meetup",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/227462427/",
+			"category" : "dev ruby" 
 		}],
 		"7:15pm" : [{
 			"group" : "Salt Lake City Python",
@@ -112,7 +124,7 @@
 		}],
 		"5:30pm" : [{
 			"group" : "Utah Software Architecture Meetup",
-			"event_name" : "Azure - Raju Pusapati",
+			"event_name" : "Microsoft Azure deployment use cases - Raju Pusapati",
 			"link" : "http://www.meetup.com/Utah-Software-Architecture-Meetup/events/225587939/",
 			"category" : "saas dev" 
 		}],
@@ -145,6 +157,12 @@
 			"event_name" : "UtahJS Orem Meetup",
 			"link" : "http://www.meetup.com/UtahJS/events/227122542/",
 			"category" : "js" 
+		},
+		{
+			"group" : "801 Labs/The Transistor",
+			"event_name" : "Web Application Hacking Night",
+			"link" : "http://www.meetup.com/801labs/events/227790741/",
+			"category" : "security" 
 		}]
 	},
 	"8" : 
@@ -244,6 +262,18 @@
 			"event_name" : "Code Night",
 			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/qwnklkyvcbqb/",
 			"category" : "mobile night" 
+		},
+		{
+			"group" : "Girl Develop It SLC",
+			"event_name" : "{SLC} Career Survey Panel and Q&A",
+			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/227694013/",
+			"category" : "dev tech" 
+		},
+		{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "jRuby tips and tools - robot driving - January UV.rb",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/227830234/",
+			"category" : "ruby" 
 		}]
 	},
 	"13" :
@@ -265,6 +295,12 @@
 			"event_name" : "Using Docker with Ansible and Amazon's New EC2 Container Service",
 			"link" : "http://www.meetup.com/Docker-Salt-Lake-City/events/227463716/",
 			"category" : "saas" 
+		},
+		{
+			"group" : "The Iron Yard - Salt Lake City",
+			"event_name" : "Free Crash Course: Build an iOS music player using Swift 2",
+			"link" : "http://www.meetup.com/The-Iron-Yard-Salt-Lake-City/events/227664867/",
+			"category" : "class" 
 		}],
 		"6:30pm" : [{
 			"group" : "Big Data Utah",
@@ -370,6 +406,12 @@
 			"event_name" : "Web Application Hacking Night",
 			"link" : "http://www.meetup.com/801labs/events/nsgcklyvcbsb/",
 			"category" : "hack dev" 
+		},
+		{
+			"group" : "Utah Python",
+			"event_name" : "Python at the Point: Vagrant and Python Testing",
+			"link" : "http://www.meetup.com/Utah_Python/events/227839927/",
+			"category" : "python" 
 		}]
 	},
 	"15" :
@@ -385,6 +427,12 @@
 			"event_name" : "Work from the Hacker Space",
 			"link" : "http://www.meetup.com/801labs/events/mlczflyvcbtb/",
 			"category" : "hack" 
+		}],
+		"6pm" : [{
+			"group" : "DevMountain Salt Lake City",
+			"event_name" : "SLC DevMountain Hackathon",
+			"link" : "http://www.meetup.com/Dev-Mountain-Salt-Lake-City/events/227838402/",
+			"category" : "night" 
 		}]
 	},
 	"16" :
@@ -421,6 +469,12 @@
 			"event_name" : "OpenSaltLake Hangout",
 			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflyvcbzb/",
 			"category" : "os" 
+		},
+		{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "Ruby on Reubens",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/227830644/",
+			"category" : "ruby fun" 
 		}],
 		"6pm" : [{
 			"group" : "ProVolt",
@@ -502,6 +556,12 @@
 			"event_name" : "Learn, Hack, Socialize",
 			"link" : "http://www.meetup.com/Lehi-Developers-User-Group/events/dxmhhlyvcbbc/",
 			"category" : "night dev" 
+		},
+		{
+			"group" : "The Iron Yard - Salt Lake City",
+			"event_name" : "Free Crash Course: Build a fun iOS Sticker App using Swift 2",
+			"link" : "http://www.meetup.com/The-Iron-Yard-Salt-Lake-City/events/227840471/",
+			"category" : "class" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Ruby Users Group (URUG)",
@@ -566,6 +626,12 @@
 	},
 	"23" :
 	{ 
+		"10am" : [{
+			"group" : "Girl Develop It SLC",
+			"event_name" : "Intro to HTML & CSS Workshop",
+			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/227693819/",
+			"category" : "class" 
+		}]
 	},
 	"24" :
 	{ 
@@ -670,6 +736,12 @@
 			"event_name" : "Electronics Night",
 			"link" : "http://www.meetup.com/ProVolt/events/tkftklyvcblc/",
 			"category" : "tech" 
+		}],
+		"6:30pm" : [{
+			"group" : "OpenStack Utah",
+			"event_name" : "Bios 2 Boot 2 OpenStack Deploying a Straight Opensource OpenStack Infrastructure",
+			"link" : "http://www.meetup.com/openstack-utah/events/227290248/",
+			"category" : "saas" 
 		}],
 		"7pm" : [{
 			"group" : "OpenStack Utah",
