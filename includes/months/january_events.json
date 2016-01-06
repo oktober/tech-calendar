@@ -175,6 +175,12 @@
 			"event_name" : "CodeHub Session: Web Development Tutorial",
 			"link" : "http://www.meetup.com/Impact-Hub-Salt-Lake/events/226862783/",
 			"category" : "class dev" 
+		}],
+		"10am" : [{
+			"group" : "SLC JS Learners",
+			"event_name" : "Joint meetup: JavaScript Study Group & CodeHub Session: Web Development Tutorial",
+			"link" : "http://www.meetup.com/SLC-JS-Learners/events/227874125/",
+			"category" : "js" 
 		}]
 	},
 	"10" : 
@@ -443,6 +449,12 @@
 	},
 	"18" :
 	{ 
+		"3pm" : [{
+			"group" : "Utah SQL Server Group",
+			"event_name" : "SLC SQL Server User Group January Meeting",
+			"link" : "http://www.meetup.com/Utah-SQL-Server-Group/events/227145756/",
+			"category" : "sql" 
+		}],
 		"6:30pm" : [{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "Practical Malware Analysis Group Night",
@@ -469,6 +481,12 @@
 			"event_name" : "Fabrication Night",
 			"link" : "http://www.meetup.com/ProVolt/events/kkftklyvcbzb/",
 			"category" : "tech" 
+		}],
+		"6:15pm" : [{
+			"group" : "Utah Distributed Systems Meetup and Reading Group",
+			"event_name" : "Map Reduce vs Spark",
+			"link" : "http://www.meetup.com/Utah-Distributed-Systems-Meetup-and-Reading-Group/events/227870255/",
+			"category" : "saas" 
 		}],
 		"6:30pm" : [{
 			"group" : "DevPoint Labs",
