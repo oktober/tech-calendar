@@ -348,8 +348,8 @@
 		}],
 		"6:15pm" : [{
 			"group" : "Utah Distributed Systems Meetup and Reading Group",
-			"event_name" : "Distributed Trust Systems",
-			"link" : "http://www.meetup.com/Utah-Distributed-Systems-Meetup-and-Reading-Group/events/224732391/",
+			"event_name" : "CRDTs",
+			"link" : "http://www.meetup.com/Utah-Distributed-Systems-Meetup-and-Reading-Group/events/227870316/",
 			"category" : "dev" 
 		}],
 		"6:30pm" : [{
