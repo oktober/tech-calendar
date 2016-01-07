@@ -166,6 +166,12 @@
 			"event_name" : "Work from the Hacker Space",
 			"link" : "http://www.meetup.com/801labs/events/mlczflyvcblb/",
 			"category" : "hack" 
+		}],
+		"6pm" : [{
+			"group" : "GUN Utah Meetup",
+			"event_name" : "Databases: Distributed v. Centralized",
+			"link" : "http://www.meetup.com/GUN-Utah-Meetup/events/227895543/",
+			"category" : "db" 
 		}]
 	},
 	"9" : 
@@ -316,7 +322,7 @@
 		},
 		{
 			"group" : "Utah d3.js",
-			"event_name" : "Utah d3.js animations",
+			"event_name" : "The Force Layout Awakens",
 			"link" : "http://www.meetup.com/Utah-d3-js/events/mgrfhlyvcbrb/",
 			"category" : "js" 
 		}]
@@ -406,6 +412,12 @@
 			"event_name" : "Python at the Point: Vagrant and Python Testing",
 			"link" : "http://www.meetup.com/Utah_Python/events/227839927/",
 			"category" : "python" 
+		},
+		{
+			"group" : "Utah County Data Science Meetup",
+			"event_name" : "Learn - Introduction to Machine Learning",
+			"link" : "http://www.meetup.com/Utah-County-Data-Science-Meetup/events/227890797/",
+			"category" : "dev" 
 		}]
 	},
 	"15" :
@@ -427,6 +439,12 @@
 			"event_name" : "SLC DevMountain Hackathon",
 			"link" : "http://www.meetup.com/Dev-Mountain-Salt-Lake-City/events/227838402/",
 			"category" : "night" 
+		},
+		{
+			"group" : "GUN Utah Meetup",
+			"event_name" : "GUN and Startups",
+			"link" : "http://www.meetup.com/GUN-Utah-Meetup/events/227896319/",
+			"category" : "db" 
 		}]
 	},
 	"16" :
@@ -460,6 +478,12 @@
 			"event_name" : "Practical Malware Analysis Group Night",
 			"link" : "http://www.meetup.com/801labs/events/qmlxpkyvcbxb/",
 			"category" : "dev" 
+		}],
+		"7pm" : [{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "DC801 Presents : The Assassination of Martin Luther King, Jr.",
+			"link" : "http://www.meetup.com/801labs/events/227898882/",
+			"category" : "fun" 
 		}]
 	},
 	"19" :
@@ -613,6 +637,12 @@
 			"event_name" : "CocoaHeads Meeting",
 			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/zbxshlyvcbcc/",
 			"category" : "mobile" 
+		}],
+		"8pm" : [{
+			"group" : "Hackster Hardware Meetup - Salt Lake City",
+			"event_name" : "Hack Night!!",
+			"link" : "http://www.meetup.com/Hackster-Hardware-Meetup-Salt-Lake-City/events/227809843/",
+			"category" : "tech night" 
 		}]
 	},
 	"22" :
@@ -658,6 +688,12 @@
 			"event_name" : "Fabrication Night",
 			"link" : "http://www.meetup.com/ProVolt/events/kkftklyvcbjc/",
 			"category" : "tech" 
+		}],
+		"6:30pm" : [{
+			"group" : "Google Developer Group of Utah",
+			"event_name" : "Cross-Platform Overviews: PhoneGap, Xamarin, Mobile C++",
+			"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/227194308/",
+			"category" : "mobile" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
@@ -748,6 +784,12 @@
 			"event_name" : "Web Application Hacking Night",
 			"link" : "http://www.meetup.com/801labs/events/nsgcklyvcblc/",
 			"category" : "hack dev" 
+		},
+		{
+			"group" : "Utah County Data Science Meetup",
+			"event_name" : "Apply - Introduction to Machine Learning",
+			"link" : "http://www.meetup.com/Utah-County-Data-Science-Meetup/events/227891007/",
+			"category" : "dev" 
 		}]
 	},
 	"29" :
