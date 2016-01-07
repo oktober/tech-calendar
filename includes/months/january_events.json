@@ -199,12 +199,6 @@
 			"event_name" : "SLC SQL Server User Group January Meeting",
 			"link" : "http://www.meetup.com/Utah-SQL-Server-Group/events/227145756/",
 			"category" : "sql" 
-		}],
-		"6pm" : [{
-			"group" : "Girl Develop It SLC",
-			"event_name" : "{SLC} Web Development Study Group",
-			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/mtfdllyvcbpb/",
-			"category" : "dev night" 
 		}]
 	},
 	"12" :
@@ -247,9 +241,9 @@
 		},
 		{
 			"group" : "Lambda Lounge Utah",
-			"event_name" : "TBD",
+			"event_name" : "Typed or Untyped Showdown!",
 			"link" : "http://www.meetup.com/Lambda-Lounge-Utah/events/qdghthyvcbqb/",
-			"category" : "func dev" 
+			"category" : "dev" 
 		}],
 		"6:30pm" : [{
 			"group" : "DevPoint Labs",
@@ -325,6 +319,12 @@
 			"event_name" : "The Force Layout Awakens",
 			"link" : "http://www.meetup.com/Utah-d3-js/events/mgrfhlyvcbrb/",
 			"category" : "js" 
+		},
+		{
+			"group" : "Utah County Data Science Meetup",
+			"event_name" : "Learn - Introduction to Machine Learning",
+			"link" : "http://www.meetup.com/Utah-County-Data-Science-Meetup/events/227890797/",
+			"category" : "dev" 
 		}]
 	},
 	"14" :
@@ -402,22 +402,10 @@
 			"category" : "tech hack" 
 		},
 		{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "Web Application Hacking Night",
-			"link" : "http://www.meetup.com/801labs/events/nsgcklyvcbsb/",
-			"category" : "hack dev" 
-		},
-		{
-			"group" : "Utah Python",
-			"event_name" : "Python at the Point: Vagrant and Python Testing",
-			"link" : "http://www.meetup.com/Utah_Python/events/227839927/",
+			"group" : "Python at the Point",
+			"event_name" : "Vagrant and Python Testing by Clint Savage",
+			"link" : "http://www.meetup.com/PythonAtThePoint/events/227839868/",
 			"category" : "python" 
-		},
-		{
-			"group" : "Utah County Data Science Meetup",
-			"event_name" : "Learn - Introduction to Machine Learning",
-			"link" : "http://www.meetup.com/Utah-County-Data-Science-Meetup/events/227890797/",
-			"category" : "dev" 
 		}]
 	},
 	"15" :
