@@ -199,6 +199,12 @@
 			"event_name" : "SLC SQL Server User Group January Meeting",
 			"link" : "http://www.meetup.com/Utah-SQL-Server-Group/events/227145756/",
 			"category" : "sql" 
+		}],
+		"7pm" : [{
+			"group" : "801 Labs/The Transistor",
+			"event_name" : "SLC Linux Night ",
+			"link" : "http://www.meetup.com/801labs/events/228008524/",
+			"category" : "os" 
 		}]
 	},
 	"12" :
@@ -341,6 +347,12 @@
 			"link" : "http://www.meetup.com/Utah-Oracle-Users-Group/events/227348170/",
 			"category" : "class db" 
 		}],
+		"5:30pm" : [{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "NEW: Monthly WordPress Workshop for Business Owners & Bloggers",
+			"link" : "http://www.meetup.com/utahwp/events/228008690/",
+			"category" : "php" 
+		}],
 		"5:45pm" : [{
 			"group" : "Magento Users Group",
 			"event_name" : "Topic TBD",
@@ -406,6 +418,12 @@
 			"event_name" : "Vagrant and Python Testing by Clint Savage",
 			"link" : "http://www.meetup.com/PythonAtThePoint/events/227839868/",
 			"category" : "python" 
+		},
+		{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "A Sip of Gulp.js: Accelerate Your WP Workflows by Rob Skidmore",
+			"link" : "http://www.meetup.com/utahwp/events/228008327/",
+			"category" : "js php" 
 		}]
 	},
 	"15" :
@@ -562,6 +580,12 @@
 			"event_name" : "RethinkDB Utah Monthly meeting",
 			"link" : "http://www.meetup.com/RethinkDB-Utah/events/sswshlyvcbbc/",
 			"category" : "db" 
+		},
+		{
+			"group" : "Ionic Utah",
+			"event_name" : "Code Night in Lehi",
+			"link" : "http://www.meetup.com/Ionic-Utah/events/227952503/",
+			"category" : "mobile" 
 		}],
 		"6:30pm" : [{
 			"group" : "Big Data Utah",
@@ -733,12 +757,18 @@
 			"event_name" : "Weekly Hack Night - DRUG",
 			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kzwxklyvcbkc/",
 			"category" : "ruby night" 
-		}],
-		"7pm" : [{
+		},
+		{
 			"group" : "Utah JavaScript Game Night",
 			"event_name" : "January Game Night",
 			"link" : "http://www.meetup.com/Utah-JavaScript-Game-Night/events/xphcllyvcbkc/",
 			"category" : "js fun" 
+		},
+		{
+			"group" : "ProvoJS",
+			"event_name" : "Panel Discussion: Mastering career and craft",
+			"link" : "http://www.meetup.com/ProvoJS/events/228005269/",
+			"category" : "js" 
 		}]
 	},
 	"28" :
