@@ -406,6 +406,12 @@
 			"event_name" : "Happy Hour at Gracie's Bar",
 			"link" : "http://www.meetup.com/slctechstartups/events/226423141/",
 			"category" : "fun" 
+		},
+		{
+			"group" : "Northern Utah .NET Users Group (NUNUG)",
+			"event_name" : "ESLint",
+			"link" : "http://www.meetup.com/nunug-org/events/228048785/",
+			"category" : "dotnet js" 
 		}],
 		"7pm" : [{
 			"group" : "801 Labs & The Transistor",
@@ -680,6 +686,12 @@
 	},
 	"25" :
 	{ 
+		"7pm" : [{
+			"group" : "801 Labs/The Transistor",
+			"event_name" : "SLC Linux Night- Intro to Android Development",
+			"link" : "http://www.meetup.com/801labs/events/228024202/",
+			"category" : "mobile" 
+		}]
 	},
 	"26" :
 	{ 
@@ -784,6 +796,12 @@
 			"event_name" : "Electronics Night",
 			"link" : "http://www.meetup.com/ProVolt/events/tkftklyvcblc/",
 			"category" : "tech" 
+		},
+		{
+			"group" : "Lambda Lounge Utah",
+			"event_name" : "Utah Haskell : January Meetup",
+			"link" : "http://www.meetup.com/Lambda-Lounge-Utah/events/228013599/",
+			"category" : "func" 
 		}],
 		"6:30pm" : [{
 			"group" : "OpenStack Utah",
