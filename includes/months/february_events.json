@@ -78,6 +78,12 @@
 			"event_name" : "Monthly Meetup: Details TBD - DRUG",
 			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/qjtcnjyvdbfb/",
 			"category" : "ruby" 
+		}],
+		"7:15pm" : [{
+			"group" : "Salt Lake City Python",
+			"event_name" : "SLCPython 2nd Anniversary Soirée!",
+			"link" : "http://www.meetup.com/SLCPython/events/227872765/",
+			"category" : "python fun" 
 		}]
 	},
 	"4" : 
