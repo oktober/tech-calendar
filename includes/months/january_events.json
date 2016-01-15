@@ -598,6 +598,12 @@
 			"event_name" : "Code Night in Lehi",
 			"link" : "http://www.meetup.com/Ionic-Utah/events/227952503/",
 			"category" : "mobile" 
+		},
+		{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "WordPress Happy Hour - EPC Bar @ Canyons Hyatt Centric",
+			"link" : "http://www.meetup.com/utahwp/events/228101525/",
+			"category" : "php fun" 
 		}],
 		"6:30pm" : [{
 			"group" : "Big Data Utah",
