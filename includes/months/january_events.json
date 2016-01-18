@@ -651,10 +651,10 @@
 			"category" : "hack tech" 
 		},
 		{
-			"group" : "Utah .NET User Group",
-			"event_name" : "TBD",
+			"group" : "Utah Mobile .NET User Group",
+			"event_name" : "Xamarin.Forms, Xaml, MVVM, Parse.com, Windows 10 IoT, Windows RT, and Android Si",
 			"link" : "http://www.meetup.com/UtahMobileDevelopers/events/mtxhhlyvcbcc/",
-			"category" : "dotnet" 
+			"category" : "dotnet mobile" 
 		},
 		{
 			"group" : "ProVolt",
@@ -687,10 +687,10 @@
 	"23" :
 	{ 
 		"10am" : [{
-			"group" : "Girl Develop It SLC",
-			"event_name" : "Intro to HTML & CSS Workshop",
-			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/227693819/",
-			"category" : "class" 
+			"group" : "Build Your Own Website Tutorial - Free",
+			"event_name" : "Build Your Own Website!",
+			"link" : "http://www.meetup.com/Build-Your-Own-Website-Tutorial-Free/events/228170551/",
+			"category" : "class dev" 
 		}]
 	},
 	"24" :
@@ -763,6 +763,12 @@
 			"event_name" : "SLC FWD Pizza as Usual",
 			"link" : "http://www.meetup.com/slcfwd/events/ztmwglyvcbkc/",
 			"category" : "dev" 
+		},
+		{
+			"group" : "The Iron Yard - Salt Lake City",
+			"event_name" : "Free Crash Course: Build a fun Sticker App using Swift 2",
+			"link" : "http://www.meetup.com/The-Iron-Yard-Salt-Lake-City/events/228118850/",
+			"category" : "class mobile" 
 		}],
 		"6:30pm" : [{
 			"group" : "DevOpsUT",
