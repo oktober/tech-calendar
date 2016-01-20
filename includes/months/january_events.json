@@ -622,6 +622,12 @@
 			"event_name" : "Free Crash Course: Build a fun iOS Sticker App using Swift 2",
 			"link" : "http://www.meetup.com/The-Iron-Yard-Salt-Lake-City/events/227840471/",
 			"category" : "class" 
+		},
+		{
+			"group" : "Google Developer Group of Utah",
+			"event_name" : "GDG Web January Meetup",
+			"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/228204682/",
+			"category" : "dev" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Ruby Users Group (URUG)",
@@ -820,6 +826,12 @@
 			"event_name" : "Utah Haskell : January Meetup",
 			"link" : "http://www.meetup.com/Lambda-Lounge-Utah/events/228013599/",
 			"category" : "func" 
+		},
+		{
+			"group" : "AngularJS Utah",
+			"event_name" : "Salt Lake Valley Angular Meetup - January 2016",
+			"link" : "http://www.meetup.com/AngularJS-Utah/events/228202757/",
+			"category" : "js" 
 		}],
 		"6:30pm" : [{
 			"group" : "OpenStack Utah",
