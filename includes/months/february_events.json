@@ -228,7 +228,7 @@
 		}],
 		"6:30pm" : [{
 			"group" : "Big Data Utah",
-			"event_name" : "Big Data Utah Meeting @ IHC",
+			"event_name" : "Spark and Tachyon - Big Data Utah Meeting @ IHC",
 			"link" : "http://www.meetup.com/BigDataUtah/events/227443244/",
 			"category" : "data" 
 		},
