@@ -102,7 +102,7 @@
 		}],
 		"5:30pm" : [{
 			"group" : "Utah Software Architecture Meetup",
-			"event_name" : "Spencer Gibb - TBD",
+			"event_name" : "Spencer Gibb - Cloud Discovery and Configuration Mechanisms",
 			"link" : "http://www.meetup.com/Utah-Software-Architecture-Meetup/events/226822735/",
 			"category" : "dev" 
 		}],
@@ -222,7 +222,7 @@
 		}],
 		"6pm" : [{
 			"group" : "Utah C++ Programmers",
-			"event_name" : "Regular Monthly Meeting",
+			"event_name" : "Getting Started with C++",
 			"link" : "http://www.meetup.com/Utah-Cpp-Programmers/events/xxrjflyvdbnb/",
 			"category" : "cplusplus" 
 		}],
