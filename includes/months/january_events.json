@@ -787,6 +787,12 @@
 			"event_name" : "Microcontroller meetup",
 			"link" : "http://www.meetup.com/MakeSaltLake/events/227472563/",
 			"category" : "tech" 
+		},
+		{
+			"group" : "Lehi Developers User Group",
+			"event_name" : "Learn, Hack, Socialize",
+			"link" : "http://www.meetup.com/Lehi-Developers-User-Group/events/227175446/",
+			"category" : "dev night" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Ruby Users Group (URUG)",
@@ -856,6 +862,12 @@
 			"event_name" : "Apply - Introduction to Machine Learning",
 			"link" : "http://www.meetup.com/Utah-County-Data-Science-Meetup/events/227891007/",
 			"category" : "dev" 
+		},
+		{
+			"group" : "Utah Drupal Users Group",
+			"event_name" : "January User Group Meeting - Salt Lake Area",
+			"link" : "http://www.meetup.com/Utah-Drupal-Users-Group/events/228245357/",
+			"category" : "php" 
 		}]
 	},
 	"29" :
