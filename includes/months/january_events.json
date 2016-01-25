@@ -736,6 +736,12 @@
 			"event_name" : "Cross-Platform Overviews: PhoneGap, Xamarin, Mobile C++",
 			"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/227194308/",
 			"category" : "mobile" 
+		},
+		{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "SLC.rb January 2016",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/228268375/",
+			"category" : "ruby" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
@@ -811,6 +817,12 @@
 			"event_name" : "Panel Discussion: Mastering career and craft",
 			"link" : "http://www.meetup.com/ProvoJS/events/228005269/",
 			"category" : "js" 
+		}],
+		"8pm" : [{
+			"group" : "Hackster Hardware Meetup - Salt Lake City",
+			"event_name" : "Hack Night!!",
+			"link" : "http://www.meetup.com/Hackster-Hardware-Meetup-Salt-Lake-City/events/227809843/",
+			"category" : "night tech" 
 		}]
 	},
 	"28" :
