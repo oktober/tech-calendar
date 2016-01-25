@@ -1,14 +1,14 @@
 
 <section id="month_header">
-	<a href="index.php?month=january">
+	<a href="index.php?month=february">
 		<i class="fa fa-arrow-left"></i>
 	</a>
-	<h1 class="month_name">February</h1>
-	<a href="index.php?month=march">
+	<h1 class="month_name">March</h1>
+	<a href="javascript:void(0);" class="inactive_link">
 		<i class="fa fa-arrow-right"></i>
 	</a>
 </section>
-<input type='hidden' id='start_date' value='1' />
+<input type='hidden' id='start_date' value='2' />
 <table class="table table-bordered">
 	<thead>
 		<tr>
