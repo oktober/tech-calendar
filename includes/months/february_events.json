@@ -30,7 +30,7 @@
 		}],
 		"6:15pm" : [{
 			"group" : "Utah GOphers",
-			"event_name" : "TBD",
+			"event_name" : "Build your own Datadog with Graphite, Grafana, & Statsd",
 			"link" : "http://www.meetup.com/utahgophers/events/223828630/",
 			"category" : "os" 
 		}],
@@ -490,6 +490,12 @@
 	},
 	"22" :
 	{ 
+		"7pm" : [{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "SLC Linux Night - Lets Encrypt and Optimizing TLS",
+			"link" : "http://www.meetup.com/801labs/events/228364708/",
+			"category" : "os security hack" 
+		}]
 	},
 	"23" :
 	{ 
