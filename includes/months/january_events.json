@@ -783,12 +783,6 @@
 			"category" : "class mobile" 
 		}],
 		"6:30pm" : [{
-			"group" : "DevOpsUT",
-			"event_name" : "January DevOps Meetup",
-			"link" : "http://www.meetup.com/DevOpsUT/events/223072424/",
-			"category" : "devops" 
-		},
-		{
 			"group" : "Make Salt Lake",
 			"event_name" : "Microcontroller meetup",
 			"link" : "http://www.meetup.com/MakeSaltLake/events/227472563/",
@@ -803,7 +797,7 @@
 		"7pm" : [{
 			"group" : "Utah Ruby Users Group (URUG)",
 			"event_name" : "Weekly Hack Night - DRUG",
-			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kzwxklyvcbkc/",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/228000323/",
 			"category" : "ruby night" 
 		},
 		{
@@ -817,6 +811,12 @@
 			"event_name" : "Panel Discussion: Mastering career and craft",
 			"link" : "http://www.meetup.com/ProvoJS/events/228005269/",
 			"category" : "js" 
+		},
+		{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "How We Work: Development",
+			"link" : "http://www.meetup.com/utahwp/events/228350641/",
+			"category" : "dev php" 
 		}],
 		"8pm" : [{
 			"group" : "Hackster Hardware Meetup - Salt Lake City",
@@ -887,7 +887,7 @@
 		"8:30am" : [{
 			"group" : "PhoneGap Day",
 			"event_name" : "PhoneGap Day",
-			"link" : "http://pgday.phonegap.com/",
+			"link" : "http://pgday.phonegap.com/us2016/",
 			"category" : "conf mobile" 
 		}],
 		"12pm" : [{
@@ -911,5 +911,8 @@
 			"link" : "http://www.meetup.com/UtahTechEnthusiasts/events/226347895/",
 			"category" : "tech dev" 
 		}]
+	},
+	"31" :
+	{ 
 	}
 }
