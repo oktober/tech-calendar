@@ -289,6 +289,12 @@
 	},
 	"11" : 
 	{ 
+		"8am" : [{
+			"group" : "SheTech/UVU",
+			"event_name" : "SheTech Explorer Day",
+			"link" : "http://www.shetechexplorer.com/",
+			"category" : "conf fun" 
+		}],
 		"12pm" : [{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "Work from the Hacker Space",
