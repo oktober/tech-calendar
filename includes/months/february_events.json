@@ -66,6 +66,12 @@
 			"event_name" : "UtahSC Meeting",
 			"link" : "http://www.meetup.com/Utah-Software-Craftsmanship/events/pbmwclyvdbfb/",
 			"category" : "dev" 
+		},
+		{
+			"group" : "Ionic Utah - rapid hybrid app development",
+			"event_name" : "Code Night at Culver's in Lehi",
+			"link" : "http://www.meetup.com/Ionic-Utah/events/228356367/",
+			"category" : "mobile" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Ruby Users Group (URUG)",
@@ -123,6 +129,12 @@
 			"event_name" : "Ogden.js",
 			"link" : "http://www.meetup.com/Ogden-js/events/xhnvllyvdbgb/",
 			"category" : "js" 
+		},
+		{
+			"group" : "Salt Lake City Software Craftsmanship",
+			"event_name" : "No Silver Bullet",
+			"link" : "http://www.meetup.com/Salt-Lake-City-Software-Craftsmanship/events/228382260/",
+			"category" : "dev" 
 		}],
 		"7pm" : [{
 			"group" : "UtahJS",
