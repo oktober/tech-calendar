@@ -100,6 +100,18 @@
 			"link" : "http://utahstemfest.com/",
 			"category" : "conf" 
 		}],
+		"11:30am" : [{
+			"group" : "Utah Microsoft Cloud Community",
+			"event_name" : "Meet Up for Lunch and Discussions",
+			"link" : "http://www.meetup.com/Utah-Microsoft-Cloud-Community/events/228352703/",
+			"category" : "saas fun" 
+		}],
+		"12pm" : [{
+			"group" : "SaltStack Salt Lake City user group",
+			"event_name" : "SaltStack 101 - Discover the Architecture behind Salt",
+			"link" : "http://www.meetup.com/SaltStack-user-group-Salt-Lake-City/events/228528004/",
+			"category" : "saas" 
+		}],
 		"2pm" : [{
 			"group" : "Agile Roundtable",
 			"event_name" : "Agile Roundtable",
@@ -327,6 +339,12 @@
 			"event_name" : "Work from the Hacker Space",
 			"link" : "http://www.meetup.com/801labs/events/mlczflyvdbqb/",
 			"category" : "hack" 
+		},
+		{
+			"group" : "Adaptive Computing Alumni Association",
+			"event_name" : "Adaptee lunchtime",
+			"link" : "http://www.meetup.com/Adaptive-Computing-Alumni-Association/events/228412916/",
+			"category" : "dev fun" 
 		}]
 	},
 	"13" :
@@ -465,12 +483,24 @@
 			"event_name" : "Electronics Night",
 			"link" : "http://www.meetup.com/ProVolt/events/tkftklyvdbxb/",
 			"category" : "tech" 
+		},
+		{
+			"group" : "Open Salt Lake",
+			"event_name" : "Hack Night",
+			"link" : "http://www.meetup.com/Open-Salt-Lake/events/228430199/",
+			"category" : "os night" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
 			"event_name" : "CocoaHeads Meeting",
 			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/zbxshlyvdbxb/",
 			"category" : "mobile" 
+		},
+		{
+			"group" : "Utah Elixir",
+			"event_name" : "Mazurka presentation by Cameron Bytheway",
+			"link" : "http://www.meetup.com/utah-elixir/events/228463099/",
+			"category" : "func" 
 		}]
 	},
 	"19" :
@@ -522,6 +552,12 @@
 			"event_name" : "Fabrication Night",
 			"link" : "http://www.meetup.com/ProVolt/events/kkftklyvdbfc/",
 			"category" : "tech" 
+		},
+		{
+			"group" : "Utah AWS",
+			"event_name" : "Lamdba & CloudFormation",
+			"link" : "http://www.meetup.com/Utah-AWS/events/228273587/",
+			"category" : "func saas" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
