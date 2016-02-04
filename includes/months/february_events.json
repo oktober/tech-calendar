@@ -184,19 +184,19 @@
 			"link" : "http://www.meetup.com/Utah-SQL-Server-Group/events/227145766/",
 			"category" : "sql" 
 		}],
-		"6pm" : [{
-			"group" : "Girl Develop It SLC",
-			"event_name" : "{SLC} Web Development Study Group",
-			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/mtfdllyvdblb/",
-			"category" : "dev night" 
+		"7pm" : [{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "SLC Linux Night",
+			"link" : "http://www.meetup.com/801labs/events/228583698/",
+			"category" : "os hack" 
 		}]
 	},
 	"9" : 
 	{
 		"12pm" : [{
 			"group" : "Open Salt Lake",
-			"event_name" : "OpenSaltLake Hangout",
-			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflyvdbmb/",
+			"event_name" : "Meet the Fellows",
+			"link" : "http://www.meetup.com/Open-Salt-Lake/events/228429927/",
 			"category" : "os" 
 		},
 		{
@@ -270,8 +270,8 @@
 		}],
 		"7pm" : [{
 			"group" : "Utah d3.js",
-			"event_name" : "Utah d3.js",
-			"link" : "http://www.meetup.com/Utah-d3-js/events/mgrfhlyvdbnb/",
+			"event_name" : "d3 + Angular",
+			"link" : "http://www.meetup.com/Utah-d3-js/events/228108574/",
 			"category" : "js" 
 		}]
 	},
@@ -291,7 +291,7 @@
 		},
 		{
 			"group" : "Utah Spring Users Group",
-			"event_name" : "First Utah Spring Users Group Meeting",
+			"event_name" : "Spring 5.0 and Spring Cloud",
 			"link" : "http://www.meetup.com/utahspring/events/226893345/",
 			"category" : "java" 
 		},
@@ -310,7 +310,7 @@
 		{
 			"group" : "Wasatch Front Agile",
 			"event_name" : "Wasatch Front Agile Monthly Meetup",
-			"link" : "http://www.meetup.com/wasatch-front-agile/events/nmxfllyvdbpb/",
+			"link" : "http://www.meetup.com/wasatch-front-agile/events/228350140/",
 			"category" : "agile" 
 		},
 		{
@@ -514,6 +514,12 @@
 	},
 	"20" :
 	{ 
+		"8:30am" : [{
+			"group" : "Utah Sharepoint Saturday",
+			"event_name" : "Utah Sharepoint Saturday",
+			"link" : "http://www.spsevents.org/city/saltlake/slc2016",
+			"category" : "dev conf" 
+		}],
 		"11am" : [{
 			"group" : "Ogden DIY Robotic Makers Meetup",
 			"event_name" : "6th Meetup For Our Group",
@@ -585,6 +591,12 @@
 			"event_name" : "SLC FWD Pizza as Usual",
 			"link" : "http://www.meetup.com/slcfwd/events/ztmwglyvdbgc/",
 			"category" : "dev" 
+		},
+		{
+			"group" : "Salt Lake AWS",
+			"event_name" : "EC2 Container Servce",
+			"link" : "http://www.meetup.com/Salt-Lake-AWS/events/228595131/",
+			"category" : "saas" 
 		}],
 		"6:30pm" : [{
 			"group" : "DevOpsUT",
@@ -646,6 +658,12 @@
 	},
 	"26" :
 	{ 
+		"8:30am" : [{
+			"group" : "Analytics in Phase Conference",
+			"event_name" : "Analytics in Phase Conference",
+			"link" : "http://un-summit.ticketleap.com/inphase2016/",
+			"category" : "conf data" 
+		}],
 		"12pm" : [{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "Work from the Hacker Space",
@@ -660,6 +678,12 @@
 			"event_name" : "young Urban Technology Enthusiasts of Utah",
 			"link" : "http://www.meetup.com/UtahTechEnthusiasts/events/ccptllyvdbkc/",
 			"category" : "tech" 
+		}],
+		"10am" : [{
+			"group" : "DevMountain Salt Lake City",
+			"event_name" : "Respawn Ready: Insert Coin To Continue",
+			"link" : "http://www.meetup.com/Dev-Mountain-Salt-Lake-City/events/228557215/",
+			"category" : "tech fun" 
 		}]
 	},
 	"28" :
