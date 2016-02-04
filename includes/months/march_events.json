@@ -21,8 +21,8 @@
 		}],
 		"6:15pm" : [{
 			"group" : "Utah GOphers",
-			"event_name" : "TBD",
-			"link" : "http://www.meetup.com/utahgophers/events/dgvsrjyvfbcb/",
+			"event_name" : "NSQ - A realtime distributed message queue",
+			"link" : "http://www.meetup.com/utahgophers/events/228574122/",
 			"category" : "os dev" 
 		}],
 		"7pm" : [{
