@@ -1,6 +1,6 @@
 
 <section id="month_header">
-	<a href="index.php?month=december">
+	<a href="javascript:void(0);" class="inactive_link">
 		<i class="fa fa-arrow-left"></i>
 	</a>
 	<h1 class="month_name">January</h1>
