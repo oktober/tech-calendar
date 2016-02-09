@@ -108,6 +108,12 @@
 			"event_name" : "Ogden.js",
 			"link" : "http://www.meetup.com/Ogden-js/events/228231775/",
 			"category" : "js" 
+		},
+		{
+			"group" : "Salt Lake City Software Craftsmanship",
+			"event_name" : "Rewrite or Refactor?",
+			"link" : "http://www.meetup.com/Salt-Lake-City-Software-Craftsmanship/events/228712370/",
+			"category" : "dev" 
 		}],
 		"7pm" : [{
 			"group" : "UtahJS",
@@ -118,6 +124,12 @@
 	},
 	"4" : 
 	{  
+		"11:30am" : [{
+			"group" : "Utah Microsoft Cloud Community",
+			"event_name" : "Meet Up for Lunch and Discussions with Microsoft",
+			"link" : "http://www.meetup.com/Utah-Microsoft-Cloud-Community/events/228707062/",
+			"category" : "saas fun" 
+		}],
 		"12pm" : [{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "Work from the Hacker Space",
@@ -261,6 +273,12 @@
 			"event_name" : "Electronics Night",
 			"link" : "http://www.meetup.com/ProVolt/events/tkftklyvfbnb/",
 			"category" : "tech" 
+		},
+		{
+			"group" : "Utah Magento Users Group",
+			"event_name" : "Topic TBD",
+			"link" : "http://www.meetup.com/Utah-Magento-Users-Group/events/228701638/",
+			"category" : "php" 
 		}],
 		"6:30pm" : [{
 			"group" : "SLC Tech Startups",
@@ -618,6 +636,12 @@
 	},
 	"29" :
 	{
+		"8:30am" : [{
+			"group" : "Utah Oracle Users Group",
+			"event_name" : "UTOUG Training Days",
+			"link" : "http://www.meetup.com/Utah-Oracle-Users-Group/events/228712839/",
+			"category" : "db" 
+		}],
 		"12pm" : [{
 			"group" : "Open Salt Lake",
 			"event_name" : "OpenSaltLake Hangout",
