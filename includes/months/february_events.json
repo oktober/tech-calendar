@@ -265,7 +265,7 @@
 		"7pm" : [{
 			"group" : "Utah Ruby Users Group (URUG)",
 			"event_name" : "Weekly Hack Night - DRUG",
-			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kzwxklyvdbnb/",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/228627360/",
 			"category" : "ruby night" 
 		},
 		{
@@ -288,12 +288,6 @@
 			"event_name" : "WordPress Workshop for Business Owners & Bloggers",
 			"link" : "http://www.meetup.com/utahwp/events/228706644/",
 			"category" : "php class" 
-		}],
-		"5:45pm" : [{
-			"group" : "Utah Magento Users Group",
-			"event_name" : "Topic TBD",
-			"link" : "http://www.meetup.com/Utah-Magento-Users-Group/events/mzsnflyvdbpb/",
-			"category" : "php" 
 		}],
 		"6pm" : [{
 			"group" : "Utah County Android Developers",
@@ -385,12 +379,6 @@
 	},
 	"13" :
 	{  
-		"9am" : [{
-			"group" : "Impact Hub Salt Lake",
-			"event_name" : "CodeHub Session: Web Development Tutorial",
-			"link" : "http://www.meetup.com/Impact-Hub-Salt-Lake/events/xwzcllyvdbrb/",
-			"category" : "class dev" 
-		}]
 	},
 	"14" :
 	{
@@ -444,8 +432,8 @@
 		},
 		{
 			"group" : "Utah Open Source",
-			"event_name" : "Provo Linux User Group (PLUG)",
-			"link" : "http://www.meetup.com/UtahOpenSource/events/qsjjrkyvdbvb/",
+			"event_name" : "PLUG: Serve The Web Like It's 2016",
+			"link" : "http://www.meetup.com/UtahOpenSource/events/227852685/",
 			"category" : "os" 
 		}]
 	},
@@ -471,7 +459,7 @@
 		},
 		{
 			"group" : "Utah County .NET User Group",
-			"event_name" : "Cross Platform Mobile Development with Apache Cordova",
+			"event_name" : "TBD",
 			"link" : "http://www.meetup.com/Utah-County-NET-User-Group/events/msdvdlyvdbwb/",
 			"category" : "mobile" 
 		},
@@ -490,7 +478,7 @@
 		"7pm" : [{
 			"group" : "Utah Ruby Users Group (URUG)",
 			"event_name" : "Weekly Hack Night - DRUG",
-			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kzwxklyvdbwb/",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/ktrmnlyvdbwb/",
 			"category" : "ruby night" 
 		}]
 	},
@@ -570,8 +558,8 @@
 		}],
 		"11am" : [{
 			"group" : "Ogden DIY Robotic Makers Meetup",
-			"event_name" : "6th Meetup For Our Group",
-			"link" : "http://www.meetup.com/Ogden-DIY-Robotic-Makers-Meetup/events/bdqsjlyvdbbc/",
+			"event_name" : "2016 Meetup: Follow-up from Nov 2015",
+			"link" : "http://www.meetup.com/Ogden-DIY-Robotic-Makers-Meetup/events/228081280/",
 			"category" : "tech" 
 		}],
 		"12pm" : [{
@@ -630,8 +618,8 @@
 	{ 
 		"10am" : [{
 			"group" : "WordPress Websites",
-			"event_name" : "WordPress Q&A",
-			"link" : "http://www.meetup.com/WordPress-Websites/events/dxngmlyvdbgc/",
+			"event_name" : "Get Help With Your WordPress Site",
+			"link" : "http://www.meetup.com/WordPress-Websites/events/227570065/",
 			"category" : "php" 
 		}],
 		"12pm" : [{
@@ -641,24 +629,12 @@
 			"category" : "fun dev" 
 		}],
 		"6pm" : [{
-			"group" : "SLC Front-end Web Developers",
-			"event_name" : "SLC FWD Pizza as Usual",
-			"link" : "http://www.meetup.com/slcfwd/events/ztmwglyvdbgc/",
-			"category" : "dev" 
-		},
-		{
 			"group" : "Salt Lake AWS",
 			"event_name" : "EC2 Container Servce",
 			"link" : "http://www.meetup.com/Salt-Lake-AWS/events/228595131/",
 			"category" : "saas" 
 		}],
 		"6:30pm" : [{
-			"group" : "DevOpsUT",
-			"event_name" : "February DevOps Meetup",
-			"link" : "http://www.meetup.com/DevOpsUT/events/223072430/",
-			"category" : "devops" 
-		},
-		{
 			"group" : "Lehi Developers User Group",
 			"event_name" : "Learn, Hack, Socialize",
 			"link" : "http://www.meetup.com/Lehi-Developers-User-Group/events/qcswmlyvdbgc/",
@@ -673,7 +649,7 @@
 		"7pm" : [{
 			"group" : "Utah Ruby Users Group (URUG)",
 			"event_name" : "Weekly Hack Night - DRUG",
-			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kzwxklyvdbgc/",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/ktrmnlyvdbgc/",
 			"category" : "ruby night" 
 		}],
 		"7pm" : [{
@@ -699,8 +675,8 @@
 		}],
 		"7pm" : [{
 			"group" : "OpenStack Utah",
-			"event_name" : "Open Stack Monthly Meetup",
-			"link" : "http://www.meetup.com/openstack-utah/events/dlphqjyvdbhc/",
+			"event_name" : "Elastic L4-L7 Services for OpenStack",
+			"link" : "http://www.meetup.com/openstack-utah/events/227593979/",
 			"category" : "saas" 
 		},
 		{
