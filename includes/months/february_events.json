@@ -267,16 +267,28 @@
 			"event_name" : "Weekly Hack Night - DRUG",
 			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kzwxklyvdbnb/",
 			"category" : "ruby night" 
-		}],
-		"7pm" : [{
+		},
+		{
 			"group" : "Utah d3.js",
 			"event_name" : "d3 + Angular",
 			"link" : "http://www.meetup.com/Utah-d3-js/events/228108574/",
 			"category" : "js" 
+		},
+		{
+			"group" : "Google Developer Group of Utah",
+			"event_name" : "GDG Utah Web February",
+			"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/228717983/",
+			"category" : "os mobile" 
 		}]
 	},
 	"11" : 
 	{ 
+		"5:30pm" : [{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "WordPress Workshop for Business Owners & Bloggers",
+			"link" : "http://www.meetup.com/utahwp/events/228706644/",
+			"category" : "php class" 
+		}],
 		"5:45pm" : [{
 			"group" : "Utah Magento Users Group",
 			"event_name" : "Topic TBD",
@@ -285,7 +297,7 @@
 		}],
 		"6pm" : [{
 			"group" : "Utah County Android Developers",
-			"event_name" : "TBD",
+			"event_name" : "Dagger 2",
 			"link" : "http://www.meetup.com/Utah-County-Android-Developers/events/226893308/",
 			"category" : "mobile" 
 		},
@@ -318,6 +330,18 @@
 			"event_name" : "Electronics Night",
 			"link" : "http://www.meetup.com/ProVolt/events/tkftklyvdbpb/",
 			"category" : "tech" 
+		},
+		{
+			"group" : "Utah Elm Users",
+			"event_name" : "February Elm Meetup",
+			"link" : "http://www.meetup.com/Utah-Elm-Users/events/228614643/",
+			"category" : "func" 
+		},
+		{
+			"group" : "Utah .NET User Group",
+			"event_name" : "Intro to Selenium with .NET",
+			"link" : "http://www.meetup.com/Utah-NET-User-Group/events/228718466/",
+			"category" : "test" 
 		}],
 		"7pm" : [{
 			"group" : "801 Labs & The Transistor",
@@ -330,6 +354,18 @@
 			"event_name" : "Web Application Hacking Night",
 			"link" : "http://www.meetup.com/801labs/events/nsgcklyvdbpb/",
 			"category" : "security" 
+		},
+		{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "Prettier Permalinks with WP Rewrite, by Tyrel Kelsey",
+			"link" : "http://www.meetup.com/utahwp/events/228706509/",
+			"category" : "php" 
+		},
+		{
+			"group" : "Utah County Data Science Meetup",
+			"event_name" : "Apply - Intro to Machine Learning (Regression)",
+			"link" : "http://www.meetup.com/Utah-County-Data-Science-Meetup/events/228725977/",
+			"category" : "dev data" 
 		}]
 	},
 	"12" :
@@ -444,6 +480,12 @@
 			"event_name" : "RethinkDB Utah Monthly meeting",
 			"link" : "http://www.meetup.com/RethinkDB-Utah/events/wjswmlyvdbwb/",
 			"category" : "db" 
+		},
+		{
+			"group" : "Ionic Utah - rapid hybrid app development",
+			"event_name" : "Ionic Code Night in Lehi",
+			"link" : "http://www.meetup.com/Ionic-Utah/events/228621435/",
+			"category" : "mobile" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Ruby Users Group (URUG)",
@@ -489,6 +531,12 @@
 			"event_name" : "Hack Night",
 			"link" : "http://www.meetup.com/Open-Salt-Lake/events/228430199/",
 			"category" : "os night" 
+		},
+		{
+			"group" : "Utah Haskell",
+			"event_name" : "Project Discussion/Show & Tell Format",
+			"link" : "http://www.meetup.com/utah-haskell/events/228534938/",
+			"category" : "func" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
@@ -526,10 +574,10 @@
 			"link" : "http://www.meetup.com/Ogden-DIY-Robotic-Makers-Meetup/events/bdqsjlyvdbbc/",
 			"category" : "tech" 
 		}],
-		"3pm" : [{
+		"12pm" : [{
 			"group" : "Utah Bitcoin Community",
-			"event_name" : "Monthly Meet Up - 3rd Saturday of Each Month",
-			"link" : "http://www.meetup.com/Utah-Bitcoin-Community/events/dpttfkyvdbbc/",
+			"event_name" : "Bitcoin and Blockchain - Currency was just the beginning.",
+			"link" : "http://www.meetup.com/Utah-Bitcoin-Community/events/228141220/",
 			"category" : "tech" 
 		}]
 	},
@@ -538,6 +586,12 @@
 	},
 	"22" :
 	{ 
+		"11:30am" : [{
+			"group" : "The Salt Lake City Agile Meetup Group",
+			"event_name" : "Come for FREE Lunch! Meet Agilists from SLC! Agile Expert Q&A Fishbowl Panel!",
+			"link" : "http://www.meetup.com/The-Salt-Lake-City-Agile-Meetup-Group/events/228648993/",
+			"category" : "agile" 
+		}],
 		"7pm" : [{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "SLC Linux Night - Lets Encrypt and Optimizing TLS",
@@ -624,8 +678,8 @@
 		}],
 		"7pm" : [{
 			"group" : "Utah JavaScript Game Night",
-			"event_name" : "Game Night",
-			"link" : "http://www.meetup.com/Utah-JavaScript-Game-Night/events/226911884/",
+			"event_name" : "February Game Night",
+			"link" : "http://www.meetup.com/Utah-JavaScript-Game-Night/events/228172441/",
 			"category" : "js fun" 
 		}]
 	},
