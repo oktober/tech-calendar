@@ -420,7 +420,7 @@
 		}],
 		"7:30pm" : [{
 			"group" : "UtahJS",
-			"event_name" : "UtahJS SLC Meetup - High performance apps with DoneJS",
+			"event_name" : "UtahJS SLC Meetup - February 2016 - DoneJS / Parallax Animation",
 			"link" : "http://www.meetup.com/UtahJS/events/227492180/",
 			"category" : "js" 
 		},
@@ -471,7 +471,7 @@
 		},
 		{
 			"group" : "Ionic Utah - rapid hybrid app development",
-			"event_name" : "Ionic Code Night in Lehi",
+			"event_name" : "Ionic Code Night @ JCW's in Lehi",
 			"link" : "http://www.meetup.com/Ionic-Utah/events/228621435/",
 			"category" : "mobile" 
 		}],
