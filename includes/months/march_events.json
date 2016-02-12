@@ -400,6 +400,12 @@
 			"link" : "http://www.meetup.com/HackOgden/events/rlqwllyvfbvb/",
 			"category" : "fun dev" 
 		}],
+		"5:30pm" : [{
+			"group" : "Meteor Salt Lake City",
+			"event_name" : "Meteor and Intro and Hack on projects",
+			"link" : "http://www.meetup.com/Meteor-Salt-Lake-City/events/228762748/",
+			"category" : "js" 
+		}],
 		"6pm" : [{
 			"group" : "Utah Node.js Ninjas - SLC",
 			"event_name" : "SLC - Presentations and Discussion",
