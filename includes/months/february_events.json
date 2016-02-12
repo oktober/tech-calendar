@@ -290,12 +290,6 @@
 			"category" : "php class" 
 		}],
 		"6pm" : [{
-			"group" : "Utah County Android Developers",
-			"event_name" : "Dagger 2",
-			"link" : "http://www.meetup.com/Utah-County-Android-Developers/events/226893308/",
-			"category" : "mobile" 
-		},
-		{
 			"group" : "Utah Spring Users Group",
 			"event_name" : "Spring 5.0 and Spring Cloud",
 			"link" : "http://www.meetup.com/utahspring/events/226893345/",
@@ -445,6 +439,12 @@
 			"link" : "http://www.meetup.com/HackOgden/events/rlqwllyvdbwb/",
 			"category" : "fun dev" 
 		}],
+		"5:30pm" : [{
+			"group" : "Meteor Salt Lake City",
+			"event_name" : "Meteor Intro and hack on some applications/proble­ms",
+			"link" : "http://www.meetup.com/Meteor-Salt-Lake-City/events/228596384/",
+			"category" : "js" 
+		}],
 		"6pm" : [{
 			"group" : "Girl Develop It SLC",
 			"event_name" : "{SLC} **Hack Night**",
@@ -454,14 +454,14 @@
 		{
 			"group" : "Utah Node.js - Salt Lake City",
 			"event_name" : "SLC - Presentations and Discussion",
-			"link" : "http://www.meetup.com/utahnodejs/events/jfgnllyvdbwb/",
+			"link" : "http://www.meetup.com/utahnodejs/events/228104141/",
 			"category" : "js" 
 		},
 		{
 			"group" : "Utah County .NET User Group",
-			"event_name" : "TBD",
-			"link" : "http://www.meetup.com/Utah-County-NET-User-Group/events/msdvdlyvdbwb/",
-			"category" : "mobile" 
+			"event_name" : "What's New in C# 6.0",
+			"link" : "http://www.meetup.com/Utah-County-NET-User-Group/events/227902878/",
+			"category" : "mobile dev" 
 		},
 		{
 			"group" : "RethinkDB Utah",
@@ -497,6 +497,12 @@
 			"category" : "java" 
 		}],
 		"6pm" : [{
+			"group" : "Utah County Android Developers",
+			"event_name" : "Dagger 2",
+			"link" : "http://www.meetup.com/Utah-County-Android-Developers/events/226893308/",
+			"category" : "mobile" 
+		},
+		{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "801 Labs Hangout Night",
 			"link" : "http://www.meetup.com/801labs/events/dglgzhyvdbxb/",
@@ -537,6 +543,12 @@
 			"event_name" : "Mazurka presentation by Cameron Bytheway",
 			"link" : "http://www.meetup.com/utah-elixir/events/228463099/",
 			"category" : "func" 
+		},
+		{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "WiFi Pineapple Night ",
+			"link" : "http://www.meetup.com/801labs/events/228727918/",
+			"category" : "tech hack" 
 		}]
 	},
 	"19" :
@@ -714,6 +726,12 @@
 			"event_name" : "Respawn Ready: Insert Coin To Continue",
 			"link" : "http://www.meetup.com/Dev-Mountain-Salt-Lake-City/events/228557215/",
 			"category" : "tech fun" 
+		}],
+		"4pm" : [{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "Learn HardenedBSD with Shawn Webb (4 Hr Class)",
+			"link" : "http://www.meetup.com/801labs/events/228744826/",
+			"category" : "security class" 
 		}]
 	},
 	"28" :
