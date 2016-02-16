@@ -207,8 +207,8 @@
 		}],
 		"6pm" : [{
 			"group" : "Utah C++ Programmers",
-			"event_name" : "Regular Monthly Meeting",
-			"link" : "http://www.meetup.com/Utah-Cpp-Programmers/events/xxrjflyvfbmb/",
+			"event_name" : "Consuming and Creating Libraries",
+			"link" : "http://www.meetup.com/Utah-Cpp-Programmers/events/228795084/",
 			"category" : "cplusplus" 
 		}],
 		"6:30pm" : [{
@@ -695,6 +695,12 @@
 			"event_name" : "Electronics Night",
 			"link" : "http://www.meetup.com/ProVolt/events/tkftklyvfbpc/",
 			"category" : "tech" 
+		},
+		{
+			"group" : "AngularJS Utah",
+			"event_name" : "Salt Lake Valley Angular Meetup - March 2016",
+			"link" : "http://www.meetup.com/AngularJS-Utah/events/228834552/",
+			"category" : "js" 
 		}]
 	}
 }
