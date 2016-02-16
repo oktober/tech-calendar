@@ -546,9 +546,15 @@
 		},
 		{
 			"group" : "801 Labs & The Transistor",
-			"event_name" : "WiFi Pineapple Night ",
+			"event_name" : "WiFi Pineapple Night",
 			"link" : "http://www.meetup.com/801labs/events/228727918/",
 			"category" : "tech hack" 
+		},
+		{
+			"group" : "Make Salt Lake",
+			"event_name" : "3D Modeling for 3D Printing",
+			"link" : "http://www.meetup.com/MakeSaltLake/events/228832743/",
+			"category" : "tech class" 
 		}]
 	},
 	"19" :
@@ -624,6 +630,12 @@
 			"event_name" : "Code Night",
 			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/qwnklkyvdbfc/",
 			"category" : "mobile night" 
+		},
+		{
+			"group" : "Elixir Utah",
+			"event_name" : "Elixir Utah",
+			"link" : "http://www.meetup.com/Elixir-Utah/events/228737352/",
+			"category" : "func" 
 		}]
 	},
 	"24" :
@@ -639,6 +651,12 @@
 			"event_name" : "Hack Ogden. Great speakers and free lunch!",
 			"link" : "http://www.meetup.com/HackOgden/events/rlqwllyvdbgc/",
 			"category" : "fun dev" 
+		},
+		{
+			"group" : "Utah Oracle Users Group",
+			"event_name" : "APEX SIG Lunch & Learn",
+			"link" : "http://www.meetup.com/Utah-Oracle-Users-Group/events/228877398/",
+			"category" : "fun db" 
 		}],
 		"6pm" : [{
 			"group" : "Salt Lake AWS",
@@ -684,6 +702,12 @@
 			"event_name" : "Electronics Night",
 			"link" : "http://www.meetup.com/ProVolt/events/tkftklyvdbhc/",
 			"category" : "tech" 
+		},
+		{
+			"group" : "AngularJS Utah",
+			"event_name" : "Salt Lake Valley Angular Meetup - February 2016",
+			"link" : "http://www.meetup.com/AngularJS-Utah/events/228834516/",
+			"category" : "js" 
 		}],
 		"7pm" : [{
 			"group" : "OpenStack Utah",
@@ -711,6 +735,18 @@
 			"event_name" : "Work from the Hacker Space",
 			"link" : "http://www.meetup.com/801labs/events/mlczflyvdbjc/",
 			"category" : "hack" 
+		}],
+		"6pm" : [{
+			"group" : "GUN User Group",
+			"event_name" : "Real-time Location-based Apps",
+			"link" : "http://www.meetup.com/GUN-User-Group/events/228814499/",
+			"category" : "js" 
+		}],
+		"7pm" : [{
+			"group" : "Salt Lake City Test Automation Meetup for Selenium IDE",
+			"event_name" : "Lets discuss Selenium IDE and get to know one another - their current knowledge",
+			"link" : "http://www.meetup.com/Salt-Lake-City-Test-Automation-Meetup-for-Selenium-IDE/events/228784086/",
+			"category" : "test" 
 		}]
 	},
 	"27" :
