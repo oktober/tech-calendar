@@ -625,6 +625,18 @@
 			"link" : "http://www.meetup.com/Utah-AWS/events/228273587/",
 			"category" : "func saas" 
 		}],
+		"6:30pm" : [{
+			"group" : "Google Developer Group of Utah",
+			"event_name" : "Learn by Doing: Firebase + Android",
+			"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/228815028/",
+			"category" : "mobile os" 
+		},
+		{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "SLC.rb February 2016",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/229045621/",
+			"category" : "ruby" 
+		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
 			"event_name" : "Code Night",
@@ -663,6 +675,12 @@
 			"event_name" : "EC2 Container Servce",
 			"link" : "http://www.meetup.com/Salt-Lake-AWS/events/228595131/",
 			"category" : "saas" 
+		},
+		{
+			"group" : "Docker Salt Lake City",
+			"event_name" : "Watch Docker 1.10 presentations and lightning talks",
+			"link" : "http://www.meetup.com/Docker-Salt-Lake-City/events/228978130/",
+			"category" : "saas" 
 		}],
 		"6:30pm" : [{
 			"group" : "Lehi Developers User Group",
@@ -681,16 +699,34 @@
 			"event_name" : "Weekly Hack Night - DRUG",
 			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/ktrmnlyvdbgc/",
 			"category" : "ruby night" 
-		}],
-		"7pm" : [{
+		},
+		{
 			"group" : "Utah JavaScript Game Night",
 			"event_name" : "February Game Night",
 			"link" : "http://www.meetup.com/Utah-JavaScript-Game-Night/events/228172441/",
 			"category" : "js fun" 
+		},
+		{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "How We Work: Design",
+			"link" : "http://www.meetup.com/utahwp/events/228413488/",
+			"category" : "tech" 
 		}]
 	},
 	"25" :
 	{ 
+		"12pm" : [{
+			"group" : "Utah Internet of Things (IoT)",
+			"event_name" : "Join Us at the RIoT - Internet of Things Conference",
+			"link" : "http://www.meetup.com/Utah-Internet-of-Things-IoT/events/228897054/",
+			"category" : "conf tech" 
+		},
+		{
+			"group" : "OpenStack Utah",
+			"event_name" : "Elastic L4-L7 Services for OpenStack",
+			"link" : "http://www.meetup.com/openstack-utah/events/227593979/",
+			"category" : "saas" 
+		}],
 		"6pm" : [{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "801 Labs Hangout Night",
@@ -710,12 +746,6 @@
 			"category" : "js" 
 		}],
 		"7pm" : [{
-			"group" : "OpenStack Utah",
-			"event_name" : "Elastic L4-L7 Services for OpenStack",
-			"link" : "http://www.meetup.com/openstack-utah/events/227593979/",
-			"category" : "saas" 
-		},
-		{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "Web Application Hacking Night",
 			"link" : "http://www.meetup.com/801labs/events/nsgcklyvdbhc/",
