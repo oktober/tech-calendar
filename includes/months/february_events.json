@@ -750,6 +750,12 @@
 			"event_name" : "Web Application Hacking Night",
 			"link" : "http://www.meetup.com/801labs/events/nsgcklyvdbhc/",
 			"category" : "security" 
+		},
+		{
+			"group" : "Utah County Data Science Meetup",
+			"event_name" : "Bi-Monthly Meeting - Learn",
+			"link" : "http://www.meetup.com/Utah-County-Data-Science-Meetup/events/229055553/",
+			"category" : "data" 
 		}]
 	},
 	"26" :
@@ -804,6 +810,12 @@
 	{ },
 	"29" :
 	{ 
+		"6pm" : [{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "Prettier Permalinks with WP Rewrite, by Tyrel Kelsey",
+			"link" : "http://www.meetup.com/utahwp/events/229086800/",
+			"category" : "php" 
+		}],
 		"6:30pm" : [{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "Practical Malware Analysis Group Night",
