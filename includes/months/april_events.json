@@ -481,20 +481,146 @@
 	},
 	"25" :
 	{ 
+		"6:30pm" : [{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "Practical Malware Analysis Group Night",
+			"link" : "http://www.meetup.com/801labs/events/qmlxpkyvgbhc/",
+			"category" : "dev" 
+		}]
 	},
 	"26" :
 	{ 
+		"12pm" : [{
+			"group" : "Open Salt Lake",
+			"event_name" : "OpenSaltLake Hangout",
+			"link" : "http://www.meetup.com/Open-Salt-Lake/events/xqmzplyvgbjc/",
+			"category" : "os" 
+		}],
+		"6pm" : [{
+			"group" : "ProVolt",
+			"event_name" : "Fabrication Night",
+			"link" : "http://www.meetup.com/ProVolt/events/kkftklyvgbjc/",
+			"category" : "tech" 
+		}],
+		"7pm" : [{
+			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
+			"event_name" : "Code Night",
+			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/228500644/",
+			"category" : "mobile night" 
+		},
+		{
+			"group" : "Elixir Utah",
+			"event_name" : "Elixir Utah",
+			"link" : "http://www.meetup.com/Elixir-Utah/events/229091153/",
+			"category" : "func" 
+		}] 
 	},
 	"27" :
 	{ 
+		"10am" : [{
+			"group" : "WordPress Websites",
+			"event_name" : "Get Help With Your WordPress Site",
+			"link" : "http://www.meetup.com/WordPress-Websites/events/dxngmlyvgbkc/",
+			"category" : "php" 
+		}],
+		"12pm" : [{
+			"group" : "Hack Ogden",
+			"event_name" : "Hack Ogden. Great speakers and free lunch!",
+			"link" : "http://www.meetup.com/HackOgden/events/rlqwllyvgbkc/",
+			"category" : "fun dev" 
+		}],
+		"4pm" : [{
+			"group" : "Salt Lake City Tech Security Ninjas",
+			"event_name" : "NetWize/Dell Security Roundtable and Discussion Featuring John McClurg",
+			"link" : "http://www.meetup.com/Salt-Lake-City-Tech-Security-Ninjas-Group/events/228763306/",
+			"category" : "security" 
+		}],
+		"6pm" : [{
+			"group" : "Salt Lake AWS",
+			"event_name" : "EC2 Container Servce",
+			"link" : "http://www.meetup.com/Salt-Lake-AWS/events/rvzzplyvgbkc/",
+			"category" : "saas" 
+		}],
+		"6:30pm" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "Beginner JavaScript Workshop Series (Free)",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/229048763/",
+			"category" : "js class" 
+		},
+		{
+			"group" : "Make Salt Lake",
+			"event_name" : "Microcontroller meetup",
+			"link" : "http://www.meetup.com/MakeSaltLake/events/srzsllyvgbkc/",
+			"category" : "tech" 
+		}],
+		"7pm" : [{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "Weekly Hack Night - DRUG",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/ktrmnlyvgbkc/",
+			"category" : "ruby night" 
+		},
+		{
+			"group" : "Utah JavaScript Game Night",
+			"event_name" : "Monthly Game Night",
+			"link" : "http://www.meetup.com/Utah-JavaScript-Game-Night/events/knlqqlyvgbkc/",
+			"category" : "js fun" 
+		}]
 	},
 	"28" :
 	{ 
+		"6pm" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "Launch Day - Spring Cohort Graduation & Hiring Event",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/229049371/",
+			"category" : "dev" 
+		},
+		{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "801 Labs Hangout Night",
+			"link" : "http://www.meetup.com/801labs/events/dglgzhyvgblc/",
+			"category" : "hack tech" 
+		},
+		{
+			"group" : "ProVolt",
+			"event_name" : "Electronics Night",
+			"link" : "http://www.meetup.com/ProVolt/events/tkftklyvgblc/",
+			"category" : "tech" 
+		}],
+		"7pm" : [{
+			"group" : "OpenStack Utah",
+			"event_name" : "Open Stack Monthly Meetup",
+			"link" : "http://www.meetup.com/openstack-utah/events/227897923/",
+			"category" : "saas" 
+		},
+		{
+			"group" : "Utah County Data Science Meetup",
+			"event_name" : "Bi-Monthly Meeting - Apply",
+			"link" : "http://www.meetup.com/Utah-County-Data-Science-Meetup/events/hwgtqlyvgblc/",
+			"category" : "data" 
+		},
+		{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "WiFi Pineapple Night",
+			"link" : "http://www.meetup.com/801labs/events/wtqhqlyvgblc/",
+			"category" : "hack tech" 
+		}]
 	},
 	"29" :
 	{
+		"12pm" : [{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "Work from the Hacker Space",
+			"link" : "http://www.meetup.com/801labs/events/mlczflyvgbmc/",
+			"category" : "hack" 
+		}]
 	},
 	"30" :
 	{
+		"9am" : [{
+			"group" : "Urban Technology Enthusiasts of Utah",
+			"event_name" : "young Urban Technology Enthusiasts of Utah",
+			"link" : "http://www.meetup.com/UtahTechEnthusiasts/events/ccptllyvgbnc/",
+			"category" : "tech" 
+		}]
 	}
 }
