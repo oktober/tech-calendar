@@ -25,6 +25,12 @@
 			"link" : "http://www.meetup.com/utahgophers/events/228574122/",
 			"category" : "os dev" 
 		}],
+		"6:30pm" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "Beginner JavaScript Workshop Series (Free)",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/228978249/",
+			"category" : "js class" 
+		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
 			"event_name" : "Code Night",
@@ -115,6 +121,12 @@
 			"link" : "http://www.meetup.com/Salt-Lake-City-Software-Craftsmanship/events/228712370/",
 			"category" : "dev" 
 		}],
+		"6:30pm" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "Beginner Ruby Workshop Series",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/228978302/",
+			"category" : "ruby class" 
+		}],
 		"7pm" : [{
 			"group" : "UtahJS",
 			"event_name" : "UtahJS Orem Meetup",
@@ -135,6 +147,12 @@
 			"event_name" : "Work from the Hacker Space",
 			"link" : "http://www.meetup.com/801labs/events/mlczflyvfbgb/",
 			"category" : "hack" 
+		}],
+		"5pm" : [{
+			"group" : "Open Salt Lake",
+			"event_name" : "Code Across 2016/CourtHack Hackathon",
+			"link" : "http://www.meetup.com/Open-Salt-Lake/events/228898326/",
+			"category" : "os conf" 
 		}]
 	},
 	"5" : 
@@ -238,6 +256,18 @@
 	},
 	"10" : 
 	{
+		"12pm" : [{
+			"group" : "The Salt Lake ColdFusion Users Group",
+			"event_name" : "March Meetup",
+			"link" : "http://www.meetup.com/slcfug/events/229078440/",
+			"category" : "dev" 
+		}],
+		"4:30pm" : [{
+			"group" : "University of Utah Business & Technology Speaker Series",
+			"event_name" : "Speaker: Adam Frisbee, on The Buzz Behind the Cloud",
+			"link" : "http://www.meetup.com/UtahTech/events/228974461/",
+			"category" : "saas tech" 
+		}],
 		"5:45pm" : [{
 			"group" : "Magento Users Group",
 			"event_name" : "Topic TBD",
@@ -258,7 +288,7 @@
 		},
 		{
 			"group" : "Utah County Android Developers",
-			"event_name" : "TBD",
+			"event_name" : "RxJava: The Prescription Your App Needs",
 			"link" : "http://www.meetup.com/Utah-County-Android-Developers/events/jdpjmlyvfbnb/",
 			"category" : "mobile" 
 		},
@@ -279,12 +309,24 @@
 			"event_name" : "Topic TBD",
 			"link" : "http://www.meetup.com/Utah-Magento-Users-Group/events/228701638/",
 			"category" : "php" 
+		},
+		{
+			"group" : "Utah Elm Users",
+			"event_name" : "March Elm Meetup",
+			"link" : "http://www.meetup.com/Utah-Elm-Users/events/228961407/",
+			"category" : "func" 
 		}],
 		"6:30pm" : [{
 			"group" : "SLC Tech Startups",
 			"event_name" : "Happy Hour at Gracie's Bar",
 			"link" : "http://www.meetup.com/slctechstartups/events/224031989/",
 			"category" : "fun" 
+		},
+		{
+			"group" : "DevPoint Labs",
+			"event_name" : "DevPoint Labs Course Info Session",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/228983430/",
+			"category" : "dev" 
 		}],
 		"7pm" : [{
 			"group" : "801 Labs & The Transistor",
@@ -604,6 +646,12 @@
 			"link" : "http://www.meetup.com/ProVolt/events/tkftklyvfbgc/",
 			"category" : "tech" 
 		}],
+		"6:30pm" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "UX Workshop: Learn Sketch",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/228983178/",
+			"category" : "class" 
+		}],
 		"7pm" : [{
 			"group" : "OpenStack Utah",
 			"event_name" : "Open Stack Monthly Meetup",
@@ -618,15 +666,28 @@
 		}]
 	},
 	"25" :
-	{ "12pm" : [{
+	{ 
+		"12pm" : [{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "Work from the Hacker Space",
 			"link" : "http://www.meetup.com/801labs/events/mlczflyvfbhc/",
 			"category" : "hack" 
+		}],
+		"6pm" : [{
+			"group" : "801 Labs & The Transistor",
+			"event_name" : "LockSport Night",
+			"link" : "http://www.meetup.com/801labs/events/229075822/",
+			"category" : "tech" 
 		}]
 	},
 	"26" :
 	{ 
+		"11am" : [{
+			"group" : "Ogden DIY Robotic Makers Meetup",
+			"event_name" : "6th Meetup For Our Group",
+			"link" : "http://www.meetup.com/Ogden-DIY-Robotic-Makers-Meetup/events/229027041/",
+			"category" : "tech" 
+		}]
 	},
 	"27" :
 	{ 
@@ -675,6 +736,12 @@
 			"link" : "http://www.meetup.com/HackOgden/events/rlqwllyvfbnc/",
 			"category" : "fun dev" 
 		}],
+		"6:30pm" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "Beginner JavaScript Workshop Series (Free)",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/229048623/",
+			"category" : "js class" 
+		}],
 		"7pm" : [{
 			"group" : "Utah Ruby Users Group (URUG)",
 			"event_name" : "Weekly Hack Night - DRUG",
@@ -701,6 +768,12 @@
 			"event_name" : "Salt Lake Valley Angular Meetup - March 2016",
 			"link" : "http://www.meetup.com/AngularJS-Utah/events/228834552/",
 			"category" : "js" 
+		}],
+		"6:30pm" : [{
+			"group" : "DevPoint Labs",
+			"event_name" : "DevPoint Labs Course Info Session",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/229048590/",
+			"category" : "dev" 
 		}]
 	}
 }
