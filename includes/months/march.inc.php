@@ -4,7 +4,7 @@
 		<i class="fa fa-arrow-left"></i>
 	</a>
 	<h1 class="month_name">March</h1>
-	<a href="javascript:void(0);" class="inactive_link">
+	<a href="index.php?month=april">
 		<i class="fa fa-arrow-right"></i>
 	</a>
 </section>
