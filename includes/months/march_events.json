@@ -202,6 +202,12 @@
 			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/kqcqhlyvfblb/",
 			"category" : "fun ruby" 
 		}],
+		"3:30pm" : [{
+			"group" : "Girl Develop It Provo",
+			"event_name" : "{Provo} Celebrates International Women's Day",
+			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/229301440/",
+			"category" : "fun" 
+		}],
 		"6pm" : [{
 			"group" : "AngularJS Utah",
 			"event_name" : "AngularJS Utah meetup",
@@ -276,6 +282,12 @@
 			"event_name" : "Utah d3.js",
 			"link" : "http://www.meetup.com/Utah-d3-js/events/mgrfhlyvfbmb/",
 			"category" : "js" 
+		},
+		{
+			"group" : "Google Developer Group of Utah",
+			"event_name" : "GDG March Android Study Jam part two! ",
+			"link" : "http://www.meetup.com/Google-Developers-Group-Utah/events/229346328/",
+			"category" : "mobile os" 
 		}]
 	},
 	"10" : 
@@ -381,6 +393,12 @@
 			"event_name" : "Web Application Hacking Night",
 			"link" : "http://www.meetup.com/801labs/events/nsgcklyvfbnb/",
 			"category" : "security hack" 
+		},
+		{
+			"group" : "Utah WordPress Meetup Groups",
+			"event_name" : "UV Meetup: Troubleshooting a Slow WordPress Site",
+			"link" : "http://www.meetup.com/utahwp/events/229269232/",
+			"category" : "php" 
 		}]
 	},
 	"11" : 
@@ -396,6 +414,12 @@
 			"event_name" : "Work from the Hacker Space",
 			"link" : "http://www.meetup.com/801labs/events/mlczflyvfbpb/",
 			"category" : "hack" 
+		}],
+		"6pm" : [{
+			"group" : "GUN User Group",
+			"event_name" : "Build a simple chat app and learn more about Graph Databases",
+			"link" : "http://www.meetup.com/GUN-User-Group/events/229235202/",
+			"category" : "db" 
 		}]
 	},
 	"12" :
@@ -589,6 +613,12 @@
 			"link" : "http://www.meetup.com/Ogden-DIY-Robotic-Makers-Meetup/events/bdqsjlyvfbzb/",
 			"category" : "tech" 
 		}],
+		"12pm" : [{
+			"group" : "DevMountain Provo",
+			"event_name" : "Exploring Virtual Reality!",
+			"link" : "http://www.meetup.com/DevMountain-Provo/events/229266433/",
+			"category" : "tech" 
+		}],
 		"3pm" : [{
 			"group" : "Utah Bitcoin Community",
 			"event_name" : "Monthly Meet Up - 3rd Saturday of Each Month",
@@ -729,6 +759,12 @@
 			"event_name" : "Web Application Hacking Night",
 			"link" : "http://www.meetup.com/801labs/events/nsgcklyvfbgc/",
 			"category" : "hack dev" 
+		},
+		{
+			"group" : "Girl Develop It Provo",
+			"event_name" : "{PROVO} **Hack Night**",
+			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/229300290/",
+			"category" : "night dev" 
 		}]
 	},
 	"25" :
@@ -780,6 +816,12 @@
 			"event_name" : "Fabrication Night",
 			"link" : "http://www.meetup.com/ProVolt/events/kkftklyvfbmc/",
 			"category" : "tech" 
+		},
+		{
+			"group" : "Utah AWS",
+			"event_name" : "Echo/Alexa Giveaway: API Gateway & Lamdba (Deploy & Versioning) + Cloudformation",
+			"link" : "http://www.meetup.com/Utah-AWS/events/229117379/",
+			"category" : "saas" 
 		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
