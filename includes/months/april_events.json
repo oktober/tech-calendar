@@ -273,6 +273,12 @@
 			"event_name" : "Electronics Night",
 			"link" : "http://www.meetup.com/ProVolt/events/tkftklyvgbsb/",
 			"category" : "tech" 
+		},
+		{
+			"group" : "Utah MongoDB User Group",
+			"event_name" : "SlamData Presenting in April!",
+			"link" : "http://www.meetup.com/Utah-MongoDB-User-Group/events/229439322/",
+			"category" : "db" 
 		}],
 		"6:30pm" : [{
 			"group" : "SLC Tech Startups",
@@ -316,6 +322,12 @@
 	},
 	"16" :
 	{
+		"9am" : [{
+			"group" : "Utah Code Camp",
+			"event_name" : "Utah Code Camp",
+			"link" : "http://www.utahgeekevents.com/",
+			"category" : "dev conf" 
+		}],
 		"12pm" : [{
 			"group" : "Utah Bitcoin Community",
 			"event_name" : "Monthly Meet Up - 3rd Saturday of Each Month",
@@ -331,6 +343,12 @@
 	},
 	"19" :
 	{
+		"8am" : [{
+			"group" : "SaltConf",
+			"event_name" : "SaltConf16",
+			"link" : "http://saltconf.com/",
+			"category" : "dev conf saas" 
+		}],
 		"12pm" : [{
 			"group" : "Open Salt Lake",
 			"event_name" : "OpenSaltLake Hangout",
@@ -370,6 +388,12 @@
 	},
 	"20" :
 	{ 
+		"8am" : [{
+			"group" : "SaltConf",
+			"event_name" : "SaltConf16",
+			"link" : "http://saltconf.com/",
+			"category" : "dev conf saas" 
+		}],
 		"12pm" : [{
 			"group" : "Hack Ogden",
 			"event_name" : "Hack Ogden. Great speakers and free lunch!",
@@ -409,6 +433,12 @@
 	},
 	"21" :
 	{ 
+		"8am" : [{
+			"group" : "SaltConf",
+			"event_name" : "SaltConf16",
+			"link" : "http://saltconf.com/",
+			"category" : "dev conf saas" 
+		}],
 		"12pm" : [{
 			"group" : "Big Data Utah",
 			"event_name" : "Hadoop Lunch @ Adobe",
