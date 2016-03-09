@@ -399,6 +399,12 @@
 			"event_name" : "UV Meetup: Troubleshooting a Slow WordPress Site",
 			"link" : "http://www.meetup.com/utahwp/events/229269232/",
 			"category" : "php" 
+		},
+		{
+			"group" : "Python at the Point",
+			"event_name" : "ChatOps: Exploring Errbot and ChatOps by Andrew Gabbitas",
+			"link" : "http://www.meetup.com/PythonAtThePoint/events/227840194/",
+			"category" : "python" 
 		}]
 	},
 	"11" : 
@@ -450,6 +456,12 @@
 			"event_name" : "OpenSaltLake Hangout",
 			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflyvfbtb/",
 			"category" : "os" 
+		}],
+		"5pm" : [{
+			"group" : "Ionic Utah",
+			"event_name" : "Code Night @ JCW's in Lehi",
+			"link" : "http://www.meetup.com/Ionic-Utah/events/229445529/",
+			"category" : "dev night" 
 		}],
 		"6pm" : [{
 			"group" : "ProVolt",
@@ -555,7 +567,7 @@
 		}],
 		"5:30pm" : [{
 			"group" : "Utah Java Users Group",
-			"event_name" : "GS Collections / Practical Security",
+			"event_name" : "Sanguine Security / Eclipse Collections",
 			"link" : "http://www.meetup.com/Utah-Java-Users-Group/events/226805125/",
 			"category" : "java" 
 		}],
@@ -573,7 +585,7 @@
 		},
 		{
 			"group" : "Utah Mobile .NET User Group",
-			"event_name" : "TBD",
+			"event_name" : "Write your own mobile Sunrise Sunset Calendar",
 			"link" : "http://www.meetup.com/UtahMobileDevelopers/events/mtxhhlyvfbwb/",
 			"category" : "dotnet mobile" 
 		},
@@ -796,6 +808,12 @@
 	},
 	"28" :
 	{ 
+		"11:30am" : [{
+			"group" : "The Salt Lake City Agile Meetup Group",
+			"event_name" : "Food, Fun, Fishbowl, & Project Managers on Agile Teams?",
+			"link" : "http://www.meetup.com/The-Salt-Lake-City-Agile-Meetup-Group/events/229434745/",
+			"category" : "agile" 
+		}]
 	},
 	"29" :
 	{
@@ -837,6 +855,18 @@
 			"event_name" : "Hack Ogden. Great speakers and free lunch!",
 			"link" : "http://www.meetup.com/HackOgden/events/rlqwllyvfbnc/",
 			"category" : "fun dev" 
+		}],
+		"6pm" : [{
+			"group" : "The Iron Yard - Salt Lake City",
+			"event_name" : "Free Crash Course: Build an iOS music player using Swift 2",
+			"link" : "http://www.meetup.com/The-Iron-Yard-Salt-Lake-City/events/229420328/",
+			"category" : "mobile class" 
+		},
+		{
+			"group" : "The Iron Yard - Salt Lake City",
+			"event_name" : "Free Crash Course: Build a Home Page",
+			"link" : "http://www.meetup.com/The-Iron-Yard-Salt-Lake-City/events/229439282/",
+			"category" : "dev class" 
 		}],
 		"6:30pm" : [{
 			"group" : "DevPoint Labs",
