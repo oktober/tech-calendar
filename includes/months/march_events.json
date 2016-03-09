@@ -310,12 +310,6 @@
 			"link" : "http://www.meetup.com/UtahTech/events/228974461/",
 			"category" : "saas tech" 
 		}],
-		"5:45pm" : [{
-			"group" : "Magento Users Group",
-			"event_name" : "Topic TBD",
-			"link" : "http://www.meetup.com/Utah-Magento-Users-Group/events/227953406/",
-			"category" : "php" 
-		}],
 		"6pm" : [{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "801 Labs Hangout Night",
@@ -347,12 +341,6 @@
 			"category" : "tech" 
 		},
 		{
-			"group" : "Utah Magento Users Group",
-			"event_name" : "Topic TBD",
-			"link" : "http://www.meetup.com/Utah-Magento-Users-Group/events/228701638/",
-			"category" : "php" 
-		},
-		{
 			"group" : "Utah Elm Users",
 			"event_name" : "March Elm Meetup",
 			"link" : "http://www.meetup.com/Utah-Elm-Users/events/228961407/",
@@ -377,24 +365,6 @@
 			"category" : "dev" 
 		}],
 		"7pm" : [{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "SLC Circuit Breakers Hardware Hacking User Group",
-			"link" : "http://www.meetup.com/801labs/events/lvgcklyvfbnb/",
-			"category" : "tech hack" 
-		},
-		{
-			"group" : "Python at the Point",
-			"event_name" : "Regular Meetup",
-			"link" : "http://www.meetup.com/PythonAtThePoint/events/227840194/",
-			"category" : "python" 
-		},
-		{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "Web Application Hacking Night",
-			"link" : "http://www.meetup.com/801labs/events/nsgcklyvfbnb/",
-			"category" : "security hack" 
-		},
-		{
 			"group" : "Utah WordPress Meetup Groups",
 			"event_name" : "UV Meetup: Troubleshooting a Slow WordPress Site",
 			"link" : "http://www.meetup.com/utahwp/events/229269232/",
@@ -409,12 +379,6 @@
 	},
 	"11" : 
 	{ 
-		"8am" : [{
-			"group" : "SheTech/UVU",
-			"event_name" : "SheTech Explorer Day",
-			"link" : "http://www.shetechexplorer.com/",
-			"category" : "conf fun" 
-		}],
 		"12pm" : [{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "Work from the Hacker Space",
@@ -430,12 +394,6 @@
 	},
 	"12" :
 	{ 
-		"9am" : [{
-			"group" : "Impact Hub Salt Lake",
-			"event_name" : "CodeHub Session: Web Development Tutorial",
-			"link" : "http://www.meetup.com/Impact-Hub-Salt-Lake/events/xwzcllyvfbqb/",
-			"category" : "dev class" 
-		}]
 	},
 	"13" :
 	{  
@@ -454,7 +412,7 @@
 		"12pm" : [{
 			"group" : "Open Salt Lake",
 			"event_name" : "OpenSaltLake Hangout",
-			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflyvfbtb/",
+			"link" : "http://www.meetup.com/Open-Salt-Lake/events/229468349/",
 			"category" : "os" 
 		}],
 		"5pm" : [{
@@ -492,22 +450,16 @@
 			"event_name" : "Open Source with Matt Zabriskie",
 			"link" : "http://www.meetup.com/ProvoJS/events/229160370/",
 			"category" : "os js" 
-		},
-		{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "Web Application Hacking Night",
-			"link" : "http://www.meetup.com/801labs/events/229106405/",
-			"category" : "security" 
 		}],
 		"7:30pm" : [{
 			"group" : "Utah Open Source",
-			"event_name" : "Provo Linux User Group (PLUG)",
+			"event_name" : "PLUG: Securing Linux",
 			"link" : "http://www.meetup.com/UtahOpenSource/events/qsjjrkyvfbtb/",
 			"category" : "os" 
 		},
 		{
 			"group" : "UtahJS",
-			"event_name" : "UtahJS SLC Meetup - March 2016 - WebGL",
+			"event_name" : "UtahJS SLC Meetup - March 2016 - WebGL / Learning Science / Graph Databases",
 			"link" : "http://www.meetup.com/UtahJS/events/228239908/",
 			"category" : "js" 
 		}]
@@ -540,7 +492,7 @@
 		},
 		{
 			"group" : "Utah County .NET User Group",
-			"event_name" : "TBD",
+			"event_name" : "Virtualization and Containers",
 			"link" : "http://www.meetup.com/Utah-County-NET-User-Group/events/227204211/",
 			"category" : "mobile" 
 		},
@@ -619,12 +571,6 @@
 	},
 	"19" :
 	{ 
-		"11am" : [{
-			"group" : "Ogden DIY Robotic Makers Meetup",
-			"event_name" : "Meetup For Our Group",
-			"link" : "http://www.meetup.com/Ogden-DIY-Robotic-Makers-Meetup/events/bdqsjlyvfbzb/",
-			"category" : "tech" 
-		}],
 		"12pm" : [{
 			"group" : "DevMountain Provo",
 			"event_name" : "Exploring Virtual Reality!",
@@ -649,7 +595,7 @@
 		"12pm" : [{
 			"group" : "Open Salt Lake",
 			"event_name" : "OpenSaltLake Hangout",
-			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflyvfbdc/",
+			"link" : "http://www.meetup.com/Open-Salt-Lake/events/xqmzplyvfbdc/",
 			"category" : "os" 
 		}],
 		"6pm" : [{
@@ -675,7 +621,7 @@
 	{ 
 		"10am" : [{
 			"group" : "WordPress Websites",
-			"event_name" : "WordPress Q&A",
+			"event_name" : "Get Help With Your WordPress Site",
 			"link" : "http://www.meetup.com/WordPress-Websites/events/227570112/",
 			"category" : "php" 
 		}],
@@ -692,12 +638,6 @@
 			"category" : "saas" 
 		}],
 		"6pm" : [{
-			"group" : "SLC Front-end Web Developers",
-			"event_name" : "SLC FWD Pizza as Usual",
-			"link" : "http://www.meetup.com/slcfwd/events/ztmwglyvfbfc/",
-			"category" : "dev" 
-		},
-		{
 			"group" : "Salt Lake AWS",
 			"event_name" : "AWS Looking for a topic and speaker",
 			"link" : "http://www.meetup.com/Salt-Lake-AWS/events/228772360/",
@@ -767,12 +707,6 @@
 			"category" : "saas" 
 		},
 		{
-			"group" : "801 Labs & The Transistor",
-			"event_name" : "Web Application Hacking Night",
-			"link" : "http://www.meetup.com/801labs/events/nsgcklyvfbgc/",
-			"category" : "hack dev" 
-		},
-		{
 			"group" : "Girl Develop It Provo",
 			"event_name" : "{PROVO} **Hack Night**",
 			"link" : "http://www.meetup.com/Girl-Develop-It-Salt-Lake-City/events/229300290/",
@@ -826,7 +760,7 @@
 		"12pm" : [{
 			"group" : "Open Salt Lake",
 			"event_name" : "OpenSaltLake Hangout",
-			"link" : "http://www.meetup.com/Open-Salt-Lake/events/ctnjflyvfbmc/",
+			"link" : "http://www.meetup.com/Open-Salt-Lake/events/xqmzplyvfbmc/",
 			"category" : "os" 
 		}],
 		"6pm" : [{
