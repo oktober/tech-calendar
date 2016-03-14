@@ -817,6 +817,12 @@
 	},
 	"31" :
 	{
+		"12pm" : [{
+			"group" : "Big Data Utah",
+			"event_name" : "UHUG - Data Meeting at OC Tanner",
+			"link" : "http://www.meetup.com/BigDataUtah/events/229497715/",
+			"category" : "data" 
+		}],
 		"6pm" : [{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "801 Labs Hangout Night",
