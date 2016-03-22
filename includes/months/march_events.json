@@ -615,12 +615,6 @@
 			"event_name" : "Code Night",
 			"link" : "http://www.meetup.com/Utah-Valley-CocoaHeads-iOS-and-Mac-Development/events/qwnklkyvfbdc/",
 			"category" : "mobile night" 
-		},
-		{
-			"group" : "Elixir Utah",
-			"event_name" : "Come learn Elixir from the ground up",
-			"link" : "http://www.meetup.com/Elixir-Utah/events/228853332/",
-			"category" : "func" 
 		}]
 	},
 	"23" :
@@ -645,7 +639,7 @@
 		}],
 		"6pm" : [{
 			"group" : "Salt Lake AWS",
-			"event_name" : "AWS Looking for a topic and speaker",
+			"event_name" : "Open Mic Night ... (Come Share what you did this month)",
 			"link" : "http://www.meetup.com/Salt-Lake-AWS/events/228772360/",
 			"category" : "saas" 
 		}],
