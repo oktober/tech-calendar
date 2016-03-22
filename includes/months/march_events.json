@@ -604,6 +604,12 @@
 			"link" : "http://www.meetup.com/ProVolt/events/kkftklyvfbdc/",
 			"category" : "tech" 
 		}],
+		"6:30pm" : [{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "SLC.rb March 2016 - 0th Annual MWRC Memorial meeting",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/229762610/",
+			"category" : "fun ruby" 
+		}],
 		"7pm" : [{
 			"group" : "Utah Valley CocoaHeads - iOS and Mac Development",
 			"event_name" : "Code Night",
@@ -670,6 +676,12 @@
 	},
 	"24" :
 	{ 
+		"12pm" : [{
+			"group" : "DevMountain Salt Lake City",
+			"event_name" : "Adobe Comet vs Sketch",
+			"link" : "http://www.meetup.com/Dev-Mountain-Salt-Lake-City/events/229743587/",
+			"category" : "tech" 
+		}],
 		"6pm" : [{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "801 Labs Hangout Night",
@@ -715,6 +727,12 @@
 	},
 	"25" :
 	{ 
+		"11:30am" : [{
+			"group" : "Utah Ruby Users Group (URUG)",
+			"event_name" : "Ruby on Reubens",
+			"link" : "http://www.meetup.com/Utah-Ruby-Users-Group/events/229692665/",
+			"category" : "fun" 
+		}],
 		"12pm" : [{
 			"group" : "801 Labs & The Transistor",
 			"event_name" : "Work from the Hacker Space",
@@ -762,6 +780,12 @@
 			"event_name" : "OpenSaltLake Hangout",
 			"link" : "http://www.meetup.com/Open-Salt-Lake/events/xqmzplyvfbmc/",
 			"category" : "os" 
+		}],
+		"5pm" : [{
+			"group" : "Ionic Utah - rapid hybrid app development",
+			"event_name" : "Code Night @ JCW's in Lehi",
+			"link" : "http://www.meetup.com/Ionic-Utah/events/229627597/",
+			"category" : "dev night" 
 		}],
 		"6pm" : [{
 			"group" : "ProVolt",
@@ -817,6 +841,12 @@
 	},
 	"31" :
 	{
+		"9:30am" : [{
+			"group" : "Utah Oracle Users Group",
+			"event_name" : "UTOUG Ski Day",
+			"link" : "http://www.meetup.com/Utah-Oracle-Users-Group/events/229770361/",
+			"category" : "fun" 
+		}],
 		"12pm" : [{
 			"group" : "Big Data Utah",
 			"event_name" : "UHUG - Data Meeting at OC Tanner",
@@ -846,6 +876,18 @@
 			"event_name" : "DevPoint Labs Course Info Session",
 			"link" : "http://www.meetup.com/DevPoint-Labs/events/229048590/",
 			"category" : "dev" 
+		},
+		{
+			"group" : "DevPoint Labs",
+			"event_name" : "UX Labs: Ready Set Design!",
+			"link" : "http://www.meetup.com/DevPoint-Labs/events/229620234/",
+			"category" : "tech class" 
+		}],
+		"7pm" : [{
+			"group" : "Utah Haskell",
+			"event_name" : "The Haskell Book Club - Chapter 3 & 4 (online)",
+			"link" : "http://www.meetup.com/utah-haskell/events/229778629/",
+			"category" : "func" 
 		}]
 	}
 }
